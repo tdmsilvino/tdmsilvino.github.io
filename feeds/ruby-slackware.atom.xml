@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/ruby-slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-04-28T22:57:00-03:00</updated><entry><title>FOX Toolkit e FXRuby no Slackware</title><link href="http://silvino.net/2008/04/28/fox-toolkit-e-fxruby-no-slackware/" rel="alternate"></link><updated>2008-04-28T22:57:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/fox-toolkit-e-fxruby-no-slackware/</id><summary type="html">&lt;p&gt;O FOX é um toolkit baseado no C++ para desenvolvimento de aplicações
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="/" rel="alternate"></link><link href="/feeds/ruby-slackware.atom.xml" rel="self"></link><id>/</id><updated>2008-04-28T22:57:00-03:00</updated><entry><title>FOX Toolkit e FXRuby no Slackware</title><link href="/2008/04/28/fox-toolkit-e-fxruby-no-slackware/" rel="alternate"></link><updated>2008-04-28T22:57:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-04-28:2008/04/28/fox-toolkit-e-fxruby-no-slackware/</id><summary type="html">&lt;p&gt;O FOX é um toolkit baseado no C++ para desenvolvimento de aplicações
 gráficas (também conhecidas como GUIs) de forma fácil e eficaz. O FOX
 oferece uma coleção vasta e crescente de controles e provê muitas
 facilidades como arrastar e soltar (drag and drop), seleções e também
@@ -47,7 +47,7 @@ splitter.rb, styledtext.rb, tabbook.rb, table.rb, textedit, unicode.rb&lt;br /&g
 &lt;p&gt;Pronto agora você pode se divertir fazendo programas multiplataformas
 usando FXRuby. Quem quiser ir a fundo no assunto pode até comprar o
 livro do FXRuby http://www.pragprog.com/titles/fxruby.&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Usando o FreeRIDE no Linux</title><link href="http://silvino.net/2008/04/28/usando-o-freeride-no-linux/" rel="alternate"></link><updated>2008-04-28T22:19:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/usando-o-freeride-no-linux/</id><summary type="html">&lt;p&gt;O FreeRIDE (Free Ruby Integrated Development Environment) é um ambiente
+&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Usando o FreeRIDE no Linux</title><link href="/2008/04/28/usando-o-freeride-no-linux/" rel="alternate"></link><updated>2008-04-28T22:19:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-04-28:2008/04/28/usando-o-freeride-no-linux/</id><summary type="html">&lt;p&gt;O FreeRIDE (Free Ruby Integrated Development Environment) é um ambiente
 integrado para desenvolvimento em Ruby, ele foi desenvolvido usando o
 FxRuby, ou seja, uma versão do  Fox Toolkit para Ruby.&lt;br /&gt;
 O FreeRIDE inclui um interpretador Ruby, um navedor para documentação
@@ -88,7 +88,7 @@ projeto decidiram reescrever o FreeRIDE usando outro toolkit chamado
 wxRuby, que usa wxWidgets. Veja o link
 http://freeride.rubyforge.org/wiki/wiki.pl?FreeRIDE_Future. Para
 acompanhar o desenvolvimento visite o site http://wxride.ruby-im.net/.&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Usando o SciTE para programar em Ruby</title><link href="http://silvino.net/2008/04/17/usando-o-scite-para-programar-em-ruby/" rel="alternate"></link><updated>2008-04-17T23:18:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-17:2008/04/17/usando-o-scite-para-programar-em-ruby/</id><summary type="html">&lt;p&gt;Nessa última semana estive procurando algumas ferramentas gráficas para
+&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Usando o SciTE para programar em Ruby</title><link href="/2008/04/17/usando-o-scite-para-programar-em-ruby/" rel="alternate"></link><updated>2008-04-17T23:18:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-04-17:2008/04/17/usando-o-scite-para-programar-em-ruby/</id><summary type="html">&lt;p&gt;Nessa última semana estive procurando algumas ferramentas gráficas para
 programar em Ruby. Hoje eu acabei de testar o
 &lt;a href="http://scintilla.sourceforge.net/SciTE.html" title="Editor de textos SciTE"&gt;SciTE&lt;/a&gt;.
 O SciTE foi criado para demonstrar o poder de um componente de edição de
@@ -122,7 +122,7 @@ o nome locale.properties (cp locale.pt_BR.properties
 /usr/share/scite/locale.properties) e reiniciar a aplicação.&lt;/p&gt;
 &lt;p&gt;Pronto agora sim você pode testar o programa a vontade. Pressione ALT+F2
 e execute o comando SciTE.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Ruby sem Rails - parte 2</title><link href="http://silvino.net/2008/04/04/ruby-sem-rails-2/" rel="alternate"></link><updated>2008-04-04T14:52:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-04:2008/04/04/ruby-sem-rails-2/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Usando mod_ruby, eruby e erubis no Slackware&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Ruby sem Rails - parte 2</title><link href="/2008/04/04/ruby-sem-rails-2/" rel="alternate"></link><updated>2008-04-04T14:52:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-04-04:2008/04/04/ruby-sem-rails-2/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Usando mod_ruby, eruby e erubis no Slackware&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;O mod_ruby é um módulo que permite que o Apache execute de forma nativa
 os scripts feitos em Ruby. Depois de instalar o mod_ruby você deve
 escolher qual será o seu gerador de templates, usando um gerador de

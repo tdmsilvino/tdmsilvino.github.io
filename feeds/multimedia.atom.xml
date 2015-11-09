@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/multimedia.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-06-14T12:02:00-03:00</updated><entry><title>Usando o dvdauthor para editar DVD's</title><link href="http://silvino.net/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><updated>2008-06-14T12:02:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;p&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="/" rel="alternate"></link><link href="/feeds/multimedia.atom.xml" rel="self"></link><id>/</id><updated>2008-06-14T12:02:00-03:00</updated><entry><title>Usando o dvdauthor para editar DVD's</title><link href="/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><updated>2008-06-14T12:02:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;p&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB
 para gravar em um DVD.&lt;br /&gt;
 Você pode usar um arquivo de configuração no formato XML ou parâmetros
 na linha de comando para dizer ao dvdauthor como ele deve criar os
@@ -42,7 +42,7 @@ vídeo.&lt;/p&gt;
 &lt;p&gt;Obs: Para instalar o dvdauthor no Slackware 12.1 você pode usar o
 Slackbuild que pode ser encontrado nessa URL
 http://slackbuilds.org/repository/12.1/multimedia/dvdauthor/&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Convertendo filmes AVI e RMVB para MPEG</title><link href="http://silvino.net/2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/" rel="alternate"></link><updated>2008-05-25T09:01:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-25:2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/</id><summary type="html">&lt;p&gt;Há um tempo atrás eu estava precisando converter uns filmes no formato
+&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Convertendo filmes AVI e RMVB para MPEG</title><link href="/2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/" rel="alternate"></link><updated>2008-05-25T09:01:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-05-25:2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/</id><summary type="html">&lt;p&gt;Há um tempo atrás eu estava precisando converter uns filmes no formato
 AVI e RMVB para MPEG. Depois de ler muitos tutoriais descobri muitas
 formas de fazer esse tipo de conversão. Acabei escolhendo o mencoder,
 que é o codificador do projeto mplayer.&lt;/p&gt;

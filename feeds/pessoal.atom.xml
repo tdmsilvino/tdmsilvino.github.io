@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/pessoal.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-09-08T00:53:00-03:00</updated><entry><title>Novo blog e novo domínio</title><link href="http://silvino.net/2013/09/08/novo-blog-novo-dominio/" rel="alternate"></link><updated>2013-09-08T00:53:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-08:2013/09/08/novo-blog-novo-dominio/</id><summary type="html">&lt;p&gt;Boa noite,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="/" rel="alternate"></link><link href="/feeds/pessoal.atom.xml" rel="self"></link><id>/</id><updated>2013-09-08T00:53:00-03:00</updated><entry><title>Novo blog e novo domínio</title><link href="/2013/09/08/novo-blog-novo-dominio/" rel="alternate"></link><updated>2013-09-08T00:53:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2013-09-08:2013/09/08/novo-blog-novo-dominio/</id><summary type="html">&lt;p&gt;Boa noite,&lt;/p&gt;
 &lt;p&gt;Depois de muito tempo sem publicar nada decidi fazer várias mudanças.
 Registrei um novo domínio e comecei esse novo blog. Todo o conteúdo do
 meu blog antigo (tdmsilvino.wordpress.com) foi importado nesse novo
@@ -30,7 +30,7 @@ pesquisando pra ver qual será a melhor forma de fazer isso. Mas já vou
 começar publicar alguns posts aqui.&lt;/p&gt;
 &lt;p&gt;A nova identidade virtual do Thiago Silvino aka tdmsilvino estará aqui
 no silvino.net.&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Voltando com a força toda</title><link href="http://silvino.net/2008/08/16/voltando-com-a-forca-toda/" rel="alternate"></link><updated>2008-08-16T10:28:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/voltando-com-a-forca-toda/</id><summary type="html">&lt;p&gt;É isso ai pessoal, esse blog não vai parar não. No mês passado fiz uma
+&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Voltando com a força toda</title><link href="/2008/08/16/voltando-com-a-forca-toda/" rel="alternate"></link><updated>2008-08-16T10:28:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-08-16:2008/08/16/voltando-com-a-forca-toda/</id><summary type="html">&lt;p&gt;É isso ai pessoal, esse blog não vai parar não. No mês passado fiz uma
 operação no joelho e agora estou fazendo um tratamento intensivo pra me
 recuperar o mais rápido possível. Fiz uma reforma na minha casa e meu
 micro ficou desmontado, eu estava só usando o laptop do serviço e por
