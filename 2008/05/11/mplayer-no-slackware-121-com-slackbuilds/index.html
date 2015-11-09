@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Mplayer no Slackware 12.1 com Slackbuilds</title>
+        <link rel="stylesheet" href="http://silvino.net/theme/css/main.css" />
+        <link href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Thiago Silvino Atom Feed" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://silvino.net/">Thiago Silvino  <strong>… o tempo e a oportunidade ocorrem a todos.</strong></a></h1>
+                <nav><ul>
+                    <li><a href="http://silvino.net/pages/curriculum/">Curriculum</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="http://silvino.net/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/" rel="bookmark"
+           title="Permalink to Mplayer no Slackware 12.1 com Slackbuilds">Mplayer no Slackware 12.1 com Slackbuilds</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2008-05-11T15:17:00-03:00">
+                Published: Sun 11 May 2008
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="http://silvino.net/author/tdmsilvino/">tdmsilvino</a>
+        </address>
+<p>In <a href="http://silvino.net/category/slackware/">slackware</a>.</p>
+
+</footer><!-- /.post-info -->      <p>Boa tarde pessoal.</p>
+<p>No meu último
+<a href="http://tdmsilvino.wordpress.com/2008/05/11/usando-slackbuilds-no-slackware-121/" title="Slackbuilds no Slackare 12.1">post</a>
+eu expliquei como fazer a instalação de programas usando
+<a href="http://slackbuilds.org" title="Página oficial do Slackbuilds">Slackbuilds</a>.
+Como exemplo eu mostrei os passos para a instalação do emulador de
+terminal Yakuake, e é lógico que o procedimento se aplica para todos os
+demais Slackbuilds. Porém devemos tomar cuidados com as dependências.</p>
+<p>Por exemplo, antes de instalar o Mplayer você de ter os pacotes do Lame,
+que é usado pelo mencoder para gerar audio em mp3, e da biblioteca
+Libdvdnav, que é usada ler DVDs e os codecs do Mplayer instalados
+previamente.</p>
+<p>A seguir os links para os Slackbuilds:<br />
+Lame: <a href="http://slackbuilds.org/repository/12.1/libraries/lame/">http://slackbuilds.org/repository/12.1/libraries/lame/</a><br />
+Libdvdnav:
+<a href="http://slackbuilds.org/repository/12.1/libraries/libdvdnav/">http://slackbuilds.org/repository/12.1/libraries/libdvdnav/</a><br />
+Todos os codecs para o Mplayer:
+<a href="http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/">http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/</a></p>
+<p>Em cada um dos links citados você deve executar os passos abaixo:<br />
+1. Fazer o download do Slackbuild e descompactá-lo, isso criará um
+diretório com o nome do Slackbuild.<br />
+2. Depois você deve fazer o download do código fonte compactado
+(Download Source) e salvá-lo dentro do diretório do Slackbuild.<br />
+3. Abrir um terminal e entrar no diretório do Slackbuild (supondo que o
+diretório está no seu Desktop "<strong>cd
+\~/Desktop/&lt;nome_do_slackbuild&gt;</strong>")<br />
+4. Logar como root, com o comando "<strong>su root</strong>"<br />
+5. Executar o script do Slackbuild
+"<strong>./&lt;nome_do_slackbuild&gt;.Slackbuild</strong>"<br />
+6. Instalar o pacote criado no diretório /tmp, com o comando
+"<strong>installpkg /tmp/&lt;nome_do_pacote&gt;.tgz</strong>"</p>
+<p>Depois que esses três pacotes estiverem instalados, você pode instalar o
+Mplayer. O Slackbuild do Mplayer está no link
+<a href="http://slackbuilds.org/repository/12.1/multimedia/MPlayer/">http://slackbuilds.org/repository/12.1/multimedia/MPlayer/</a>. Você vai
+usar o mesmo procedimento citado acima, a única diferença é que no
+segundo passo, além do código fonte compactado, você também deve fazer o
+download do skin no link
+<a href="http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2">http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2</a> e salvá-lo
+dentro do diretório do Slackbuild. Feito isso é só continuar.</p>
+<p>Depois que tudo for instalado você pode apagar os diretórios com os
+Slackbuilds pois eles não serão mais necessários.</p>
+<p>Agora é só curtir.</p>
+<p>Até mais!</p>
+    </div><!-- /.entry-content -->
+    <div class="comments">
+      <h2>Comments !</h2>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_shortname = 'silvino.disqus.com';
+        var disqus_identifier = '2008/05/11/mplayer-no-slackware-121-com-slackbuilds/';
+        var disqus_url = 'http://silvino.net/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/';
+        (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//silvino.disqus.com.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      </script>
+      <noscript>Please enable JavaScript to view the comments.</noscript>
+    </div>
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+<script type="text/javascript">
+    var disqus_shortname = 'silvino.disqus.com';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</body>
+</html>

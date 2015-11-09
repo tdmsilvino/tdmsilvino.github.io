@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/ruby.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-03-20T19:47:00-03:00</updated><entry><title>Ruby sem Rails</title><link href="http://silvino.net/2008/03/20/ruby-sem-rails-1/" rel="alternate"></link><updated>2008-03-20T19:47:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-03-20:2008/03/20/ruby-sem-rails-1/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;O Ruby e o Rails&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Na semana passada comecei a estudar a linguagem
+&lt;a href="http://ruby-lang.org/"&gt;Ruby&lt;/a&gt;. Li alguns tutoriais e fiquei muito
+empolgado com a facilidade de uso e com o método de programação. A
+linguagem Ruby é muito flexivel, nela quase tudo é tratado como um
+objeto. Se você não acredita e quer ver com seus próprios olhos, dê uma
+olhada no shell interativo do tutorial
+&lt;a href="http://tryruby.hobix.com/%20"&gt;TryRuby&lt;/a&gt; (em inglês) ou instale o Ruby na
+sua máquina e siga o tutorial &lt;a href="http://www.ruby-lang.org/pt/documentacao/ruby-em-vinte-minutos/"&gt;Ruby em Vinte
+Minutos&lt;/a&gt;
+(bom e velho Português do Brasil!).&lt;/p&gt;
+&lt;p&gt;Aprendi trabalhar com variáveis, fazer loops, criar classes, blocos,
+etc., porém foi muito difícil encontrar um bom tutorial que me
+explicasse como usar a liguagem Ruby para gerar páginas dinâmicas, sem
+usar o framework &lt;a href="http://rubyonrails.org/"&gt;Rails&lt;/a&gt;. Tudo o que eu
+procurava na web me levava ao Rails. Acredito que isso faz muitas
+pessoas desistirem de continuar estudando a linguagem.&lt;/p&gt;
+&lt;p&gt;Quero deixar claro que não tenho nada contra o Rails. O Rails é um ótimo
+framework, faz as coisas se tornarem muito simples, porém fica dificil
+para o iniciante em Ruby separar o que faz parte do framework e o que
+faz parte da linguagem em si. E na verdade a pessoa terá que aprender a
+usar o framework e os novos métodos do Ruby ao mesmo tempo. Se você
+conhece alguém possa tirar suas dúvidas, acredito que aprender os dois
+simultâneamente é o caminho a seguir, porém, se como eu você é
+auto-didata, você pode passar mais um pouco de tempo aprendendo a usar a
+linguagem Ruby antes de partir para Rails.&lt;/p&gt;
+&lt;p&gt;O Rails foi desenvolvido para aumentar a produtividade, mas se você tem
+muitas dúvidas sobre Ruby você não será produtivo e pode acabar se
+confundindo. Por outro lado, se as suas dúvidas quanto a linguagem forem
+sanadas, você realmente alcançará a produtividade desejada.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;O Ruby sem o Rails&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Antes de sair procurando na web decidi entar no diretório de instalação
+do Ruby para revirar o código fonte de alguns scripts e ver se
+encontrava algo que me apontasse o caminho das pedras. Abri o meu
+terminal e fiz aquela pergunta que todo bom usuário do Slackware faz
+"whereis ruby", uma das respostas apontava para "/usr/lib/ruby/" entrei
+nesse diretório e encontrei os scripts do Ruby 1.8, alguns minutos
+depois cheguei ao arquivo erb.rb (outro ponto forte do Ruby, todo script
+vem com muita documentação incluída em seu código fonte).&lt;/p&gt;
+&lt;p&gt;O ERB é um sistema de template poderoso e de fácil uso, que permite
+embutir o Ruby dentro de arquivos de texto, xml e até mesmo arquivos
+HTML. Todo código Ruby que for incluido dentro de tags &amp;lt;% %&amp;gt; será
+executado como um script Ruby.&lt;/p&gt;
+&lt;p&gt;No fim da documentação encontrei o que estava procurando, segue a
+tradução:&lt;br /&gt;
+# Há uma variedade de soluções para geração de templates disponíveis
+em vários projetos feitos em Ruby:&lt;br /&gt;
+# * O grande irmão do ERB, eRuby, trabalha da mesma forma mas é
+escrito em C para performance;&lt;br /&gt;
+# * Amrita (bom para produzirHTML/XML);&lt;br /&gt;
+# * cs/Template (C para performance);&lt;br /&gt;
+# * RDoc, distribuído com Ruby, usa o seu próprio motor para gerar
+templates, o qual pode ser usado em qualquer lugar;&lt;br /&gt;
+# * e outros; faça uma busca no RAA.&lt;br /&gt;
+# Rails, o framework para aplicações web, usa ERB para criar views.&lt;/p&gt;
+&lt;p&gt;Isso era tudo o que eu precisava saber. Apartir disso começei a
+pesquisar na web sobre ERB e eRuby.&lt;/p&gt;
+&lt;p&gt;O eRuby pode executar o código Ruby incluido dentro de páginas HTML e em
+conjunto com o mod_ruby você pode fazer o Apache servir suas páginas
+dinâmicas escritas em Ruby (essas páginas levam a extensão .rhtml). Para
+trabalhar com sessões e recuperar dados de formulários do HTML pelo
+método POST, você deve criar um objeto CGI dentro do código Ruby e esse
+objeto fará o trabalho pesado para você. No tutorial de Ruby do
+&lt;a href="http://www.eustaquiorangel.com/downloads/tutorialruby.pdf"&gt;Eustáquio
+Rangel&lt;/a&gt; você
+encontra um exemplo de uso do objeto CGI.&lt;/p&gt;
+&lt;p&gt;Consulte o site do &lt;a href="http://modruby.net/en/"&gt;mod_ruby&lt;/a&gt; para pegar o
+código fonte dos e fazer a integração com o Apache.&lt;/p&gt;
+&lt;p&gt;No próximo post vou explicar a integração com o Apache e fornecer os
+pacotes para instalação no Slackware.&lt;/p&gt;
+&lt;p&gt;Vou ficando por aqui.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry></feed>

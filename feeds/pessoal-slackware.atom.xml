@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/pessoal-slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-03-11T16:39:00-03:00</updated><entry><title>irb(main):001:0&gt; print "Hello world!"</title><link href="http://silvino.net/2008/03/11/hello-world-2/" rel="alternate"></link><updated>2008-03-11T16:39:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-03-11:2008/03/11/hello-world-2/</id><summary type="html">&lt;p&gt;É isso ai pessoal, eu sou Thiago Silvino e esse é o meu blog pessoal.
+Vamos usar esse espaçao para compartilhar informações sobre software
+livre, Linux, redes de computadores e programação. Vamos falar muito
+sobre o mundo open source, seus aspectos e desafios.&lt;/p&gt;
+&lt;p&gt;Eu faço parte do projeto de tradução do Slackbook para português do
+Brasil. Quer saber mais sobre o sistema Slackware Linux? Visite o site
+&lt;a href="http://slackbookptbr.sf.net/"&gt;http://slackbookptbr.sf.net&lt;/a&gt;, leia o
+livro e saiba tudo sobre o sistema Slackware.&lt;/p&gt;
+&lt;p&gt;Estamos iniciando o processo de atualização do livro, precisamos de mais
+colaboradores, caso queira participar da nossa equipe se inscreva na
+lista &lt;a href="http://groups.google.com/group/slackbookptbr"&gt;http://groups.google.com/group/slackbookptbr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;</summary><category term="linux"></category></entry></feed>

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Ruby sem Rails - parte 2</title>
+        <link rel="stylesheet" href="http://silvino.net/theme/css/main.css" />
+        <link href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Thiago Silvino Atom Feed" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://silvino.net/">Thiago Silvino  <strong>… o tempo e a oportunidade ocorrem a todos.</strong></a></h1>
+                <nav><ul>
+                    <li><a href="http://silvino.net/pages/curriculum/">Curriculum</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="http://silvino.net/2008/04/04/ruby-sem-rails-2/" rel="bookmark"
+           title="Permalink to Ruby sem Rails - parte 2">Ruby sem Rails - parte 2</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2008-04-04T14:52:00-03:00">
+                Published: Fri 04 April 2008
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="http://silvino.net/author/tdmsilvino/">tdmsilvino</a>
+        </address>
+<p>In <a href="http://silvino.net/category/ruby-slackware/">ruby, slackware</a>.</p>
+
+</footer><!-- /.post-info -->      <p><strong><em>Usando mod_ruby, eruby e erubis no Slackware</em></strong></p>
+<p>O mod_ruby é um módulo que permite que o Apache execute de forma nativa
+os scripts feitos em Ruby. Depois de instalar o mod_ruby você deve
+escolher qual será o seu gerador de templates, usando um gerador de
+templates você pode incluir o código Ruby em páginas HTML e programar no
+mesmo estilo do ASP e PHP. Você pode escolher o ERB que já vem incluído
+na distribuição padrão do Ruby ou pode usar o eRuby que foi escrito em C
+para ganho de desempenho. Caso você queira usar o eRuby você precisa
+instalar ele na sua máquina.</p>
+<p>O código fonte do mod_ruby e do eruby podem ser encontrados no site
+http://modruby.net/, mas se você quer facilidade basta baixar os dois
+pacotes <a href="http://fotoleitura.com/downloads/eruby-1.0.5-i486-1tdm.tgz"></a>
+que fiz para o Slackware 12 e instalar no seu sistema.</p>
+<p>Baixe os pacotes
+<a href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/mod_ruby/mod_ruby-1.2.6-i486-1tdm.tgz" title="mod_ruby no linuxpackages.net">mod_ruby-1.2.6</a>
+e
+<a href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/eRuby/eruby-1.0.5-i486-1tdm.tgz" title="eruby no linuxpackages.net">eruby-1.0.5</a>.
+Depois use a ferramente installpkg para instalar no Slackware.</p>
+<p>Depois de instalar o mod_ruby e o eruby na sua máquina, você pode
+instalar também o erubis. O erubis é um gerador de templates,
+implementado em Ruby e também usa algumas funções do eRuby.</p>
+<p>O erubis é muito rápido, quase três vezes mais rápido do que o ERB e
+ainda é 10% mais rápido do que o eRuby, tem suporte à várias linguagens
+(Ruby/PHP/C/Java/Scheme/Perl/Javascript). Permite que você combine
+templates com arquivos YAML, para usar arquivos de contexto e tem
+suporte à Ruby on Rails.</p>
+<p>Para instalar o erubis você deve baixar os pacotes abstract e erubis do
+site http://rubyforge.net e executar os comandos abaixo como root:</p>
+<p>\$ tar xjf abstract_1.0.0.tar.bz2<br />
+\$ cd abstract_1.0.0/<br />
+\$ su root<br />
+# ruby setup.rb<br />
+# exit<br />
+\$ cd ..<br />
+\$ tar xjf erubis-2.5.0.tar.bz2<br />
+\$ cd erubis-2.5.0/<br />
+# su root<br />
+# ruby setup.rb<br />
+\$ cp contrib/erubis-run /usr/lib/ruby/1.8/apache</p>
+<p>Agora vamos configurar a integração com o Apache.</p>
+<p>Inclua as linhas abaixo no seu arquivo /etc/httpd/httpd.conf e salve o
+arquivo.</p>
+<p>LoadModule ruby_module lib/httpd/modules/mod_ruby.so<br />
+&lt;IfModule mod_ruby.c&gt;<br />
+RubyRequire apache/ruby-run<br />
+RubyRequire apache/eruby-run<br />
+RubyRequire apache/erubis-run<br />
+&lt;Location /erubis&gt;<br />
+SetHandler ruby-object<br />
+RubyHandler Apache::ErubisRun.instance<br />
+&lt;/Location&gt;<br />
+&lt;Files *.rhtml&gt;<br />
+SetHandler ruby-object<br />
+RubyHandler Apache::ErubisRun.instance<br />
+&lt;/Files&gt;<br />
+&lt;/IfModule&gt;</p>
+<p>Depois disso faça com que o usuário apache seja o dono do diretório onde
+as páginas web estarão.</p>
+<p>chown -R apache:apache /var/www</p>
+<p>Isso é necessário pois o erubis precisa de acesso de escrita no
+diretório htdocs para criar uma área de cache.</p>
+<p>Para fazer um teste copie o arquivo de exemplo da pasta do erubis para
+dentro da pasta /var/www/htdocs</p>
+<p># cp erubis-2.5.0/examples/basic/example.eruby
+/var/www/htdocs/example.rhtml</p>
+<p>Agora abra o arquivo example.rhtml no navegador.</p>
+<p>Pronto, agora você está rodando Ruby sem Rails!</p>
+<p>Até mais!</p>
+    </div><!-- /.entry-content -->
+    <div class="comments">
+      <h2>Comments !</h2>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_shortname = 'silvino.disqus.com';
+        var disqus_identifier = '2008/04/04/ruby-sem-rails-2/';
+        var disqus_url = 'http://silvino.net/2008/04/04/ruby-sem-rails-2/';
+        (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//silvino.disqus.com.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      </script>
+      <noscript>Please enable JavaScript to view the comments.</noscript>
+    </div>
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+<script type="text/javascript">
+    var disqus_shortname = 'silvino.disqus.com';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</body>
+</html>

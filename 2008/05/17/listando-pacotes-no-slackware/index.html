@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Listando pacotes no Slackware</title>
+        <link rel="stylesheet" href="http://silvino.net/theme/css/main.css" />
+        <link href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Thiago Silvino Atom Feed" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://silvino.net/">Thiago Silvino  <strong>… o tempo e a oportunidade ocorrem a todos.</strong></a></h1>
+                <nav><ul>
+                    <li><a href="http://silvino.net/pages/curriculum/">Curriculum</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="http://silvino.net/2008/05/17/listando-pacotes-no-slackware/" rel="bookmark"
+           title="Permalink to Listando pacotes no Slackware">Listando pacotes no Slackware</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2008-05-17T13:56:00-03:00">
+                Published: Sat 17 May 2008
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="http://silvino.net/author/tdmsilvino/">tdmsilvino</a>
+        </address>
+<p>In <a href="http://silvino.net/category/slackware/">slackware</a>.</p>
+
+</footer><!-- /.post-info -->      <p>Boa tarde.</p>
+<p>Todos os pacotes que são instalados no Slackware ficam guardados em
+/var/log/packages. Isso significa que sempre que você quiser saber se
+tem um determinado pacote instalado você deve listar o conteúdo do
+diretório /var/log/packages e procurar pelo pacote desejado. Essa é a
+forma mais rápida, a outra forma de consultar os pacotes instalados é
+executar como root a ferramenta pkgtool e ir na opção view, então
+pkgtool listará todos os pacotes instalados.</p>
+<p>Como eu já estava cansado de ficar executando o comando "ls
+/var/log/packages/pacotetal*" decidi criar um script que me ajudasse
+nessa tarefa. Eu queria algo bem simples, algo bem parecido com o
+comando ls. Então criei o script abaixo e o nomeei lspkg. Dá uma olhada
+no script:</p>
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28</pre></div></td><td class="code"><div class="highlight"><pre><span class="c">#!/bin/bash</span>
+<span class="nb">cd</span> /var/log/packages/
+<span class="nv">package_list</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$*</span> <span class="p">|</span> sed s/<span class="s2">&quot; &quot;</span>/<span class="s2">&quot;* &quot;</span>/g <span class="p">|</span> sed s/<span class="nv">$/</span><span class="s2">$&quot;*&quot;</span>/ <span class="sb">`</span>
+<span class="k">for</span> package in <span class="nv">$package_list</span> <span class="p">;</span> <span class="k">do</span>
+    <span class="k">if</span> <span class="o">[</span> -e <span class="nv">$package</span> <span class="o">]</span> <span class="p">;</span>
+    <span class="k">then</span>
+    <span class="nv">number_of_fields</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> gawk -F <span class="s2">&quot;-&quot;</span> <span class="s1">&#39;{ split($0,fields); print length(fields) }&#39;</span><span class="sb">`</span>
+        <span class="k">if</span> <span class="o">[</span> <span class="nv">$number_of_fields</span> <span class="o">==</span> <span class="m">5</span> <span class="o">]</span> <span class="p">;</span>
+        <span class="k">then</span>
+            <span class="nv">name</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> cut -d - -f 1,2<span class="sb">`</span>
+            <span class="nv">version</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> cut -d - -f 3<span class="sb">`</span>
+            <span class="nv">arch</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> cut -d - -f 4<span class="sb">`</span>
+            <span class="nv">build</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> cut -d - -f 5<span class="sb">`</span>
+        <span class="k">else</span>
+            <span class="nv">name</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> cut -d - -f 1<span class="sb">`</span>
+            <span class="nv">version</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> cut -d - -f 2<span class="sb">`</span>
+            <span class="nv">arch</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> cut -d - -f 3<span class="sb">`</span>
+            <span class="nv">build</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> cut -d - -f 4<span class="sb">`</span>
+        <span class="k">fi</span>
+            <span class="nb">echo</span> -e -n <span class="s2">&quot;Package: 33[1m</span><span class="nv">$name33</span><span class="s2">[0m - &quot;</span>
+            <span class="nb">echo</span> -n  <span class="s2">&quot;version: </span><span class="nv">$version</span><span class="s2"> - &quot;</span>
+            <span class="nb">echo</span> -n <span class="s2">&quot;arch: </span><span class="nv">$arch</span><span class="s2"> - &quot;</span>
+            <span class="nb">echo</span> <span class="s2">&quot;build: </span><span class="nv">$build</span><span class="s2">&quot;</span>
+    <span class="k">else</span>
+        <span class="nv">package_not_found</span><span class="o">=</span><span class="sb">`</span><span class="nb">echo</span> <span class="nv">$package</span> <span class="p">|</span> tr -d <span class="s2">&quot;*&quot;</span><span class="sb">`</span>
+        <span class="nb">echo</span> -e <span class="s2">&quot;The package 33[1m</span><span class="nv">$package_not_found</span><span class="s2"> was not found33[0m in your system.&quot;</span>
+    <span class="k">fi</span>
+<span class="k">done</span>
+</pre></div>
+</td></tr></table>
+
+<p>Agora é só copiar esse código para um arquivo de texto e salvá-lo como
+lspkg, você também deve dar permissão de execução para esse arquivo e
+copiá-lo para /usr/bin.</p>
+<p>Depois de fazer o procedimento acim, faça um teste. Veja o resultado
+quando executei na minha máquina:</p>
+<p>bash-3.1\$ lspkg ruby bash pkgtoo teste<br />
+Package: ruby - version: 1.8.6_p114 - arch: i486 - build: 1<br />
+Package: bash - version: 3.1.017 - arch: i486 - build: 2<br />
+Package: pkgtools - version: 12.1.0 - arch: noarch - build: 7<br />
+The package teste was not found in your system.</p>
+<p>Caso você tenha alguma sugestão para melhorar esse script faça o seu
+comentário.</p>
+<p>Até mais!</p>
+    </div><!-- /.entry-content -->
+    <div class="comments">
+      <h2>Comments !</h2>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_shortname = 'silvino.disqus.com';
+        var disqus_identifier = '2008/05/17/listando-pacotes-no-slackware/';
+        var disqus_url = 'http://silvino.net/2008/05/17/listando-pacotes-no-slackware/';
+        (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//silvino.disqus.com.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      </script>
+      <noscript>Please enable JavaScript to view the comments.</noscript>
+    </div>
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+<script type="text/javascript">
+    var disqus_shortname = 'silvino.disqus.com';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</body>
+</html>

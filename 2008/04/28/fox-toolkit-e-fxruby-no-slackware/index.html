@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>FOX Toolkit e FXRuby no Slackware</title>
+        <link rel="stylesheet" href="http://silvino.net/theme/css/main.css" />
+        <link href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Thiago Silvino Atom Feed" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://silvino.net/">Thiago Silvino  <strong>… o tempo e a oportunidade ocorrem a todos.</strong></a></h1>
+                <nav><ul>
+                    <li><a href="http://silvino.net/pages/curriculum/">Curriculum</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="http://silvino.net/2008/04/28/fox-toolkit-e-fxruby-no-slackware/" rel="bookmark"
+           title="Permalink to FOX Toolkit e FXRuby no Slackware">FOX Toolkit e FXRuby no Slackware</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2008-04-28T22:57:00-03:00">
+                Published: Mon 28 April 2008
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="http://silvino.net/author/tdmsilvino/">tdmsilvino</a>
+        </address>
+<p>In <a href="http://silvino.net/category/ruby-slackware/">ruby, slackware</a>.</p>
+
+</footer><!-- /.post-info -->      <p>O FOX é um toolkit baseado no C++ para desenvolvimento de aplicações
+gráficas (também conhecidas como GUIs) de forma fácil e eficaz. O FOX
+oferece uma coleção vasta e crescente de controles e provê muitas
+facilidades como arrastar e soltar (drag and drop), seleções e também
+widgets do OpenGL para manipulação de gráficos 3D.<br />
+O FOX também implementa ícones, imagens, e itens de conveniência para o
+usuário como ajuda e dicas (tooltips). Tooltips podem ser usadas em
+objetos 3D.</p>
+<p>Para mais detalhes visitem a homepage no endereço
+http://www.fox-toolkit.org/</p>
+<p>Esse toolkit tem ligações (bindings) para várias linguagens. Para
+programar em Python use FXPy, em Eiffel use EiffelFox e para programar
+em Ruby use FXRuby.</p>
+<p>Existem alguns projetos grandes usando FXRuby, entre eles o
+<a href="http://freeride.rubyforge.org/" title="IDE para Ruby">FreeRIDE</a> que abordei
+no <a href="http://tdmsilvino.wordpress.com/2008/04/28/usando-o-freeride-no-linux/" title="Usando o FreeRIDE no Linux">post
+anterior</a>,
+o gerenciador de banco de dados
+<a href="http://www.insula.cz/dbtalk" title="Gerenciador de banco de dados">DbTalk</a> e
+o gerenciador de projetos
+<a href="http://www.mondrian-ide.com/" title="Gerenciador de projetos">Mondrian</a>. Veja
+mais detalhes na homepage http://www.fxruby.org/.</p>
+<p>Se você usa o Slackware 12 e quer instalar o FOX, você pode baixar o
+pacote
+<a href="http://fotoleitura.com/downloads/fox-1.6.32-i486-1tdm.tgz" title="Pacote para Slackware 12.0">fox-1.6.32-i486-1tdm.tgz</a>.
+Se você não usa o Slackware você deve pesquisar no repositório da sua
+distro preferida ou baixar o código fonte e compilar usando o famoso
+trio "./configure &amp;&amp; make &amp;&amp; make install". Obs: não deixe de executar
+./configure --help para ver quais opções você vai querer ativar.</p>
+<p>Depois de instalar o FOX você deve instalar o FXRuby usando o comando
+gem.</p>
+<p>\$ su root<br />
+# gem install fxruby</p>
+<p>Veja os exemploes em de código em
+/usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/</p>
+<p>\$ ls -m /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/<br />
+babelfish.rb, bounce.rb, browser.rb, button.rb, custom_table_item.rb,
+datatarget.rb, dctest.rb, dialog.rb, dilbert.rb, dirlist.rb,
+dragdrop.rb, dragsource.rb, dropsite.rb, foursplit.rb, gltest.rb,
+glviewer.rb, groupbox.rb, header.rb, hello2.rb, hello.rb, iconlist.rb,
+icons, image.rb, imageviewer.rb, inputs.rb, iRAA.rb, mditest.rb, pig.rb,
+raabrowser.rb, RAA.rb, ratio.rb, README, rulerview.rb,
+scintilla-test.rb, scribble-orig.rb, scribble.rb, shutter.rb,
+splitter.rb, styledtext.rb, tabbook.rb, table.rb, textedit, unicode.rb<br />
+\$ ruby /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/hello.rb</p>
+<p>Pronto agora você pode se divertir fazendo programas multiplataformas
+usando FXRuby. Quem quiser ir a fundo no assunto pode até comprar o
+livro do FXRuby http://www.pragprog.com/titles/fxruby.</p>
+<p>[]'s</p>
+    </div><!-- /.entry-content -->
+    <div class="comments">
+      <h2>Comments !</h2>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_shortname = 'silvino.disqus.com';
+        var disqus_identifier = '2008/04/28/fox-toolkit-e-fxruby-no-slackware/';
+        var disqus_url = 'http://silvino.net/2008/04/28/fox-toolkit-e-fxruby-no-slackware/';
+        (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//silvino.disqus.com.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      </script>
+      <noscript>Please enable JavaScript to view the comments.</noscript>
+    </div>
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+<script type="text/javascript">
+    var disqus_shortname = 'silvino.disqus.com';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</body>
+</html>

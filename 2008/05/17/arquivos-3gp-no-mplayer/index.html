@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Arquivos .3gp no Mplayer</title>
+        <link rel="stylesheet" href="http://silvino.net/theme/css/main.css" />
+        <link href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Thiago Silvino Atom Feed" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="http://silvino.net/">Thiago Silvino  <strong>… o tempo e a oportunidade ocorrem a todos.</strong></a></h1>
+                <nav><ul>
+                    <li><a href="http://silvino.net/pages/curriculum/">Curriculum</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="http://silvino.net/2008/05/17/arquivos-3gp-no-mplayer/" rel="bookmark"
+           title="Permalink to Arquivos .3gp no Mplayer">Arquivos .3gp no Mplayer</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2008-05-17T18:12:00-03:00">
+                Published: Sat 17 May 2008
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="http://silvino.net/author/tdmsilvino/">tdmsilvino</a>
+        </address>
+<p>In <a href="http://silvino.net/category/slackware/">slackware</a>.</p>
+
+</footer><!-- /.post-info -->      <p>Hoje precisei copiar alguns vídeos do celular da minha cunhada. A gente
+queria converter os vídeos e postar no Youtube. Todos os vídeos do
+celular estavam no formato 3gp e ao abrí-los no mplayer o vídeo foi
+reproduzido porém o som estava mudo. Decidi executar o mplayer pela
+linha de comando para verificar as mensagens de erro e descobri que o
+mplayer não conseguia encontrar o codec libamr_nb e por isso não
+reproduzia o som.</p>
+<p>Ao fazer um pesquisa no Google, descobri as peças que estavam faltando.</p>
+<p>O formato de arquivo 3gp foi definido pelo grupo <a href="http://www.3gpp.org/About/about.htm">3GPP - 3rd Generation
+Partnership Project</a> que é composto
+por vários fabricantes da área de telecomunicações, afim de ditar os
+padrões a serem usados nos aparelhos de terceira geração, como os
+celulares GSM.</p>
+<p>Para ativar o suporte à arquivos 3gp no mplayer dentro do Slackware, nós
+podemos usar os scripts disponíveis no site Slackbuilds.org. Você
+precisa baixar os arquivos referentes às bibliotecas
+<a href="http://slackbuilds.org/repository/12.1/audio/amrnb/" title="Biblioteca amrnb">amrnb</a>
+e
+<a href="http://slackbuilds.org/repository/12.1/audio/amrwb/" title="Biblioteca amrwb">amrwb</a>.
+Antes de executar o Slackbuild da biblioteca amrnb você deve baixar o
+arquivo
+<a href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.104/26104-700.zip">26104-700.zip</a>
+no mesmo diretório do script Slackbuild. Já para a biblioteca amrwb você
+deve baixar o arquivo
+<a href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.204/26204-700.zip">26204-700.zip</a>
+no mesmo diretório do Slackbuild antes de executar o script para a
+geração do pacote.</p>
+<p>Depois que você instalar os pacotes para as bibliotecas amrnb e amrwb,
+você deve recompilar o mplayer para que ele detecte as novas bibliotecas
+e passe a usá-las. Para fazer isso você também pode usar Slackbuilds
+como expliquei no meu post <a href="http://tdmsilvino.wordpress.com/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/">Mplayer no Slackware 12.1 com
+Slackbuilds</a>.</p>
+<p>Até mais!</p>
+    </div><!-- /.entry-content -->
+    <div class="comments">
+      <h2>Comments !</h2>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_shortname = 'silvino.disqus.com';
+        var disqus_identifier = '2008/05/17/arquivos-3gp-no-mplayer/';
+        var disqus_url = 'http://silvino.net/2008/05/17/arquivos-3gp-no-mplayer/';
+        (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//silvino.disqus.com.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      </script>
+      <noscript>Please enable JavaScript to view the comments.</noscript>
+    </div>
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>blogroll</h2>
+                        <ul>
+                            <li><a href="http://getpelican.com/">Pelican</a></li>
+                            <li><a href="http://python.org/">Python.org</a></li>
+                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
+                            <li><a href="#">You can modify those links in your config file</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="http://silvino.net/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="#">You can add links in your config file</a></li>
+                            <li><a href="#">Another social link</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+<script type="text/javascript">
+    var disqus_shortname = 'silvino.disqus.com';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</body>
+</html>
