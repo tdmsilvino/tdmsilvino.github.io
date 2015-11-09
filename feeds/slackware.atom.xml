@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="/" rel="alternate"></link><link href="/feeds/slackware.atom.xml" rel="self"></link><id>/</id><updated>2009-08-28T12:05:00-03:00</updated><entry><title>Slackware 13</title><link href="/2009/08/28/slackware-13/" rel="alternate"></link><updated>2009-08-28T12:05:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2009-08-28:2009/08/28/slackware-13/</id><summary type="html">&lt;p&gt;Acabei de ler o changelog no site slackware.com e temos uma novidade: O
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2009-08-28T12:05:00-03:00</updated><entry><title>Slackware 13</title><link href="http://silvino.net/2009/08/28/slackware-13/" rel="alternate"></link><updated>2009-08-28T12:05:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2009-08-28:2009/08/28/slackware-13/</id><summary type="html">&lt;p&gt;Acabei de ler o changelog no site slackware.com e temos uma novidade: O
 slackware 13 já está pronto, segue uma tradução livre da entrada no
 changelog:&lt;/p&gt;
 &lt;p&gt;O Slackware 13.0 x86 foi lançado como estável! Obrigado a todos os que
@@ -16,7 +16,7 @@ Como sempre, divirtam-se e curtam a distro!  -P.&lt;/p&gt;
 &lt;p&gt;Você pode ler o anúncio de lançamento no link abaixo:&lt;/p&gt;
 &lt;p&gt;http://slackware.com/announce/13.0.php&lt;/p&gt;
 &lt;p&gt;Agora é só baixar o Slackware e ver as novidades&lt;/p&gt;
-&lt;p&gt;http://slackware.com/getslack/&lt;/p&gt;</summary></entry><entry><title>Novidades sobre o Slackware</title><link href="/2008/08/16/novidades-sobre-o-slackware/" rel="alternate"></link><updated>2008-08-16T10:46:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-08-16:2008/08/16/novidades-sobre-o-slackware/</id><summary type="html">&lt;p&gt;No dia 13 de agosto o Patrick, desenvolvedor do Slackware, anunciou que
+&lt;p&gt;http://slackware.com/getslack/&lt;/p&gt;</summary></entry><entry><title>Novidades sobre o Slackware</title><link href="http://silvino.net/2008/08/16/novidades-sobre-o-slackware/" rel="alternate"></link><updated>2008-08-16T10:46:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/novidades-sobre-o-slackware/</id><summary type="html">&lt;p&gt;No dia 13 de agosto o Patrick, desenvolvedor do Slackware, anunciou que
 o KDE 4.1 foi incluído no Slackware. Por enquanto os pacotes estão no
 -current /testing, mas ele diz que toda a equipe de desenvolvimento, já
 está usando o KDE 4.1 sem nenhum problema. Para usar o KDE 4.1 você
@@ -37,7 +37,7 @@ kde3-compat/*.tgz&lt;/p&gt;
 &lt;p&gt;Bom, além do KDE 4.1 o time do Slackware desenvolveu um novo logo para o
 Slackware. Entre no site slackware.com e confira, o Patrick disse que o
 logo antigo era muito difícil de ler e de guardar na memória rsrsrsrsrs.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Arquivos .3gp no Mplayer</title><link href="/2008/05/17/arquivos-3gp-no-mplayer/" rel="alternate"></link><updated>2008-05-17T18:12:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-05-17:2008/05/17/arquivos-3gp-no-mplayer/</id><summary type="html">&lt;p&gt;Hoje precisei copiar alguns vídeos do celular da minha cunhada. A gente
+&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Arquivos .3gp no Mplayer</title><link href="http://silvino.net/2008/05/17/arquivos-3gp-no-mplayer/" rel="alternate"></link><updated>2008-05-17T18:12:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/arquivos-3gp-no-mplayer/</id><summary type="html">&lt;p&gt;Hoje precisei copiar alguns vídeos do celular da minha cunhada. A gente
 queria converter os vídeos e postar no Youtube. Todos os vídeos do
 celular estavam no formato 3gp e ao abrí-los no mplayer o vídeo foi
 reproduzido porém o som estava mudo. Decidi executar o mplayer pela
@@ -69,7 +69,7 @@ você deve recompilar o mplayer para que ele detecte as novas bibliotecas
 e passe a usá-las. Para fazer isso você também pode usar Slackbuilds
 como expliquei no meu post &lt;a href="http://tdmsilvino.wordpress.com/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/"&gt;Mplayer no Slackware 12.1 com
 Slackbuilds&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Listando pacotes no Slackware</title><link href="/2008/05/17/listando-pacotes-no-slackware/" rel="alternate"></link><updated>2008-05-17T13:56:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-05-17:2008/05/17/listando-pacotes-no-slackware/</id><summary type="html">&lt;p&gt;Boa tarde.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Listando pacotes no Slackware</title><link href="http://silvino.net/2008/05/17/listando-pacotes-no-slackware/" rel="alternate"></link><updated>2008-05-17T13:56:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/listando-pacotes-no-slackware/</id><summary type="html">&lt;p&gt;Boa tarde.&lt;/p&gt;
 &lt;p&gt;Todos os pacotes que são instalados no Slackware ficam guardados em
 /var/log/packages. Isso significa que sempre que você quiser saber se
 tem um determinado pacote instalado você deve listar o conteúdo do
@@ -152,7 +152,7 @@ Package: pkgtools - version: 12.1.0 - arch: noarch - build: 7&lt;br /&gt;
 The package teste was not found in your system.&lt;/p&gt;
 &lt;p&gt;Caso você tenha alguma sugestão para melhorar esse script faça o seu
 comentário.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Mplayer no Slackware 12.1 com Slackbuilds</title><link href="/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/" rel="alternate"></link><updated>2008-05-11T15:17:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-05-11:2008/05/11/mplayer-no-slackware-121-com-slackbuilds/</id><summary type="html">&lt;p&gt;Boa tarde pessoal.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Mplayer no Slackware 12.1 com Slackbuilds</title><link href="http://silvino.net/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/" rel="alternate"></link><updated>2008-05-11T15:17:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/mplayer-no-slackware-121-com-slackbuilds/</id><summary type="html">&lt;p&gt;Boa tarde pessoal.&lt;/p&gt;
 &lt;p&gt;No meu último
 &lt;a href="http://tdmsilvino.wordpress.com/2008/05/11/usando-slackbuilds-no-slackware-121/" title="Slackbuilds no Slackare 12.1"&gt;post&lt;/a&gt;
 eu expliquei como fazer a instalação de programas usando
@@ -194,7 +194,7 @@ dentro do diretório do Slackbuild. Feito isso é só continuar.&lt;/p&gt;
 &lt;p&gt;Depois que tudo for instalado você pode apagar os diretórios com os
 Slackbuilds pois eles não serão mais necessários.&lt;/p&gt;
 &lt;p&gt;Agora é só curtir.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Usando Slackbuilds no Slackware 12.1</title><link href="/2008/05/11/usando-slackbuilds-no-slackware-121/" rel="alternate"></link><updated>2008-05-11T13:46:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-05-11:2008/05/11/usando-slackbuilds-no-slackware-121/</id><summary type="html">&lt;p&gt;Boa tarde para todos!&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Usando Slackbuilds no Slackware 12.1</title><link href="http://silvino.net/2008/05/11/usando-slackbuilds-no-slackware-121/" rel="alternate"></link><updated>2008-05-11T13:46:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/usando-slackbuilds-no-slackware-121/</id><summary type="html">&lt;p&gt;Boa tarde para todos!&lt;/p&gt;
 &lt;p&gt;Após atualizar o meu sistema para o Slackware 12.1 precisei instalar
 alguns programas como o Yakuake e o Mplayer. Fiz uma visita no
 &lt;a href="http://www.linuxpackages.net/search_view.php?orderby=p_date&amp;amp;advance=DESC&amp;amp;ver=12.1" title="Pacotes para o Slackware"&gt;linuxpackages.net&lt;/a&gt;
@@ -259,7 +259,7 @@ pronto o yakuake está pronto para usar.&lt;/p&gt;
 &lt;p&gt;Usando um script do slackbuilds.org você pode gerar os seus próprios
 pacotes sem passar por todas as complicações que o processo manual
 causaria.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Visão geral do Slackware 12.1</title><link href="/2008/05/09/visao-geral-do-slackware-121/" rel="alternate"></link><updated>2008-05-09T14:54:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-05-09:2008/05/09/visao-geral-do-slackware-121/</id><summary type="html">&lt;p&gt;Na semana passada fiz a instalação da última versão do Slackware e vou
+&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Visão geral do Slackware 12.1</title><link href="http://silvino.net/2008/05/09/visao-geral-do-slackware-121/" rel="alternate"></link><updated>2008-05-09T14:54:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-09:2008/05/09/visao-geral-do-slackware-121/</id><summary type="html">&lt;p&gt;Na semana passada fiz a instalação da última versão do Slackware e vou
 dar uma visão geral do Slackware 12.1.&lt;/p&gt;
 &lt;p&gt;O processo de instalação não mudou. Você inicializa a máquina com um CD
 ou DVD, escolhe um kernel, usa o cfdisk criar as partições, roda o
@@ -296,7 +296,7 @@ wireless, interpretadores para muitas linguages de script (Ruby
 1.8.6_p114, Python 2.5.2, Perl 5.8.8, TCL 8.4.18), Apache 2.2.8 e muito
 mais.&lt;/p&gt;
 &lt;p&gt;Slacware 12.1 é o que há!&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Slackware 12.1 - Lançamento oficial</title><link href="/2008/05/02/slackware-121-lancamento-oficial/" rel="alternate"></link><updated>2008-05-02T20:20:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-05-02:2008/05/02/slackware-121-lancamento-oficial/</id><summary type="html">&lt;p&gt;Boa noite a todos.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Slackware 12.1 - Lançamento oficial</title><link href="http://silvino.net/2008/05/02/slackware-121-lancamento-oficial/" rel="alternate"></link><updated>2008-05-02T20:20:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-02:2008/05/02/slackware-121-lancamento-oficial/</id><summary type="html">&lt;p&gt;Boa noite a todos.&lt;/p&gt;
 &lt;p&gt;Trago boas novas para o mundo open source, o Slackware 12.1 foi lançado!
 Vistem a homepage do &lt;a href="http://slackware.com" title="Slackware"&gt;Slackware&lt;/a&gt; e
 façam o download da imagem do sistema que já foi liberada.&lt;/p&gt;
@@ -320,7 +320,7 @@ façam o download da imagem do sistema que já foi liberada.&lt;/p&gt;
 divertir?&lt;br /&gt;
 Valeu Patrick, obrigado a você e a toda comunidade Linux!&lt;br /&gt;
 Obs: estou começando o download agora mesmo!&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Slackware 12.1 rc4 - estamos quase lá!</title><link href="/2008/05/01/slackware-121-rc4-estamos-quase-la/" rel="alternate"></link><updated>2008-05-01T10:05:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-05-01:2008/05/01/slackware-121-rc4-estamos-quase-la/</id><summary type="html">&lt;p&gt;Ontem a noite tivemos mais atividade no -current. O Patrick lançou o
+&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Slackware 12.1 rc4 - estamos quase lá!</title><link href="http://silvino.net/2008/05/01/slackware-121-rc4-estamos-quase-la/" rel="alternate"></link><updated>2008-05-01T10:05:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-01:2008/05/01/slackware-121-rc4-estamos-quase-la/</id><summary type="html">&lt;p&gt;Ontem a noite tivemos mais atividade no -current. O Patrick lançou o
 Slackware 12.1 rc4 devido à um patch de segurança que foi aplicado no
 kernel 2.6.24.5, segue a tradução:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;Quarta Abr 30 20:36:48 CDT 2008
@@ -343,7 +343,7 @@ slackpkg do &lt;a href="http://stoa.usp.br/piterpk/profile/" title="Piter Punk"&
 Punk&lt;/a&gt;.&lt;br /&gt;
 Leia o changelog no endereço
 &lt;a href="ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt"&gt;ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt&lt;/a&gt;&lt;br /&gt;
-Até mais!&lt;/p&gt;</summary></entry><entry><title>O Slackware 12.1 está chegando</title><link href="/2008/04/29/o-slackware-121-esta-chegando/" rel="alternate"></link><updated>2008-04-29T09:09:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:,2008-04-29:2008/04/29/o-slackware-121-esta-chegando/</id><summary type="html">&lt;p&gt;Durante as últimas semanas estive acompanhando o changelog do Slackware
+Até mais!&lt;/p&gt;</summary></entry><entry><title>O Slackware 12.1 está chegando</title><link href="http://silvino.net/2008/04/29/o-slackware-121-esta-chegando/" rel="alternate"></link><updated>2008-04-29T09:09:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-29:2008/04/29/o-slackware-121-esta-chegando/</id><summary type="html">&lt;p&gt;Durante as últimas semanas estive acompanhando o changelog do Slackware
 e vejam só, temos boas notícias.&lt;/p&gt;
 &lt;p&gt;No início do mês o Patrick Volkerding já tinha anunciado que estávamos
 próximos da versão final do Slackware 12.1&lt;/p&gt;
