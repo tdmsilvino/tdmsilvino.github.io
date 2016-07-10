@@ -1,66 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/multimedia.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-06-14T12:02:00-03:00</updated><entry><title>Usando o dvdauthor para editar DVD's</title><link href="http://silvino.net/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><updated>2008-06-14T12:02:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;p&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB
-para gravar em um DVD.&lt;br /&gt;
-Você pode usar um arquivo de configuração no formato XML ou parâmetros
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/multimedia.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-06-14T12:02:00-03:00</updated><entry><title>Usando o dvdauthor para editar DVD's</title><link href="http://silvino.net/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><published>2008-06-14T12:02:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB
+para gravar em um DVD.&lt;/div&gt;
+&lt;div class="line"&gt;Você pode usar um arquivo de configuração no formato XML ou parâmetros
 na linha de comando para dizer ao dvdauthor como ele deve criar os
-arquivos VOB.&lt;br /&gt;
-Com o dvdauthor você pode criar menus e criar capítulos para cada
-título do seu DVD.&lt;/p&gt;
+arquivos VOB.&lt;/div&gt;
+&lt;div class="line"&gt;Com o dvdauthor você pode criar menus e criar capítulos para cada
+título do seu DVD.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Abaixo estou mostrando um exemplo de arquivo de configuração do
 dvdauthor:&lt;/p&gt;
-&lt;p&gt;&amp;lt;dvdauthor dest="dvd"&amp;gt;&lt;br /&gt;
-&amp;lt;vmgm/&amp;gt;&lt;br /&gt;
-&amp;lt;titleset&amp;gt;&lt;br /&gt;
-&amp;lt;titles&amp;gt;&lt;br /&gt;
-&amp;lt;pgc&amp;gt;&lt;br /&gt;
-&amp;lt;vob file="filme01.mpeg" chapters="0:00:20.00,0:10:20.00,0:20:20.00"
-/&amp;gt;&lt;br /&gt;
-&amp;lt;vob file="filme02.mpeg" chapters="0:00:20.00,0:10:20.00,0:20:20.00"
-/&amp;gt;&lt;br /&gt;
-&amp;lt;/pgc&amp;gt;&lt;br /&gt;
-&amp;lt;/titles&amp;gt;&lt;br /&gt;
-&amp;lt;/titleset&amp;gt;&lt;br /&gt;
-&amp;lt;/dvdauthor&amp;gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&amp;lt;dvdauthor dest=&amp;quot;dvd&amp;quot;&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vmgm/&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;titleset&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;titles&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;pgc&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme01.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot;
+/&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme02.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot;
+/&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/pgc&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/titles&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/titleset&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/dvdauthor&amp;gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;O arquivo de configuração deve estar localizado no mesmo diretório dos
-arquivos MPEG. No exemplo acima eu usei a opção "file" para indicar o
-nome dos arquivos e a opção "chapters" para indicar uma lista de
+arquivos MPEG. No exemplo acima eu usei a opção &amp;quot;file&amp;quot; para indicar o
+nome dos arquivos e a opção &amp;quot;chapters&amp;quot; para indicar uma lista de
 capitulos, essa lista deve ser separada por vírgulas e deve estar no
 formato H:MM:ss.frac, isso indica que no exemplo acima o primeiro
 capítulo deve ser criado aos 20 segundos do começo do filme.&lt;/p&gt;
 &lt;p&gt;Depois de criar o arquivo de configuração basta entrar no mesmo
-diretório dos filmes e executar o comando "dvdauthor -c dvd.xml". O
-dvdauthor criará um diretório chamado "dvd" com os subdiretórios
+diretório dos filmes e executar o comando &amp;quot;dvdauthor -c dvd.xml&amp;quot;. O
+dvdauthor criará um diretório chamado &amp;quot;dvd&amp;quot; com os subdiretórios
 AUDIO_TS e VIDEO_TS, nesses diretórios você tem os arquivos
 necessários para gerar um DVD.&lt;/p&gt;
-&lt;p&gt;Para gravar um DVD você pode usar o comando "growisofs -dvd-compat -Z
-/dev/dvd -dvd-video dvd". Se você preferir usar o K3b para queimar o
-DVD, você deve usar a opção "Novo Projeto de DVD de Vídeo" na aba
-"Ínicio Rápido" e você só precisará copiar os arquivos de dentro do
+&lt;p&gt;Para gravar um DVD você pode usar o comando &amp;quot;growisofs -dvd-compat -Z
+/dev/dvd -dvd-video dvd&amp;quot;. Se você preferir usar o K3b para queimar o
+DVD, você deve usar a opção &amp;quot;Novo Projeto de DVD de Vídeo&amp;quot; na aba
+&amp;quot;Ínicio Rápido&amp;quot; e você só precisará copiar os arquivos de dentro do
 diretório VIDEO_TS para o diretório VIDEO_TS no seu projeto de DVD de
 vídeo.&lt;/p&gt;
 &lt;p&gt;Pronto agora você pode usar o Linux para editar os seus DVD's.&lt;/p&gt;
 &lt;p&gt;Obs: Para instalar o dvdauthor no Slackware 12.1 você pode usar o
 Slackbuild que pode ser encontrado nessa URL
-http://slackbuilds.org/repository/12.1/multimedia/dvdauthor/&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Convertendo filmes AVI e RMVB para MPEG</title><link href="http://silvino.net/2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/" rel="alternate"></link><updated>2008-05-25T09:01:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-25:2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/</id><summary type="html">&lt;p&gt;Há um tempo atrás eu estava precisando converter uns filmes no formato
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/multimedia/dvdauthor/"&gt;http://slackbuilds.org/repository/12.1/multimedia/dvdauthor/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Convertendo filmes AVI e RMVB para MPEG</title><link href="http://silvino.net/2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/" rel="alternate"></link><published>2008-05-25T09:01:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-25:2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/</id><summary type="html">&lt;p&gt;Há um tempo atrás eu estava precisando converter uns filmes no formato
 AVI e RMVB para MPEG. Depois de ler muitos tutoriais descobri muitas
 formas de fazer esse tipo de conversão. Acabei escolhendo o mencoder,
 que é o codificador do projeto mplayer.&lt;/p&gt;
 &lt;p&gt;Eu criei um script para converter todos os filmes de um determinado
 diretório para o formato MPEG afim de gravá-los em um DVD. Segue o
 código do script:&lt;/p&gt;
-&lt;p&gt;for filme in `ls *.avi *.rmvb`; do&lt;br /&gt;
-filmempeg=`echo \$filme | sed s/.avi/.mpeg/`;&lt;br /&gt;
-echo "Convertendo \$filme para \$filmempeg";&lt;br /&gt;
-mencoder -oac lavc -ovc lavc -of mpeg -mpegopts format=dvd:tsaf -vf
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;for filme in `ls *.avi *.rmvb`; do&lt;/div&gt;
+&lt;div class="line"&gt;filmempeg=`echo $filme | sed s/.avi/.mpeg/`;&lt;/div&gt;
+&lt;div class="line"&gt;echo &amp;quot;Convertendo $filme para $filmempeg&amp;quot;;&lt;/div&gt;
+&lt;div class="line"&gt;mencoder -oac lavc -ovc lavc -of mpeg -mpegopts format=dvd:tsaf -vf
 scale=720:480,harddup -srate 48000 -af lavcresample=48000 -lavcopts
 vcodec=mpeg2video:vrc_buf_size=1835:vrc_maxrate=9800:vbitrate=5000:keyint=18:vstrict=0:acodec=ac3:abitrate=192:aspect=4/3
--ofps 30000/1001 -o \$filmempeg \$filme&lt;br /&gt;
-done&lt;/p&gt;
+-ofps 30000/1001 -o $filmempeg $filme&lt;/div&gt;
+&lt;div class="line"&gt;done&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Esse script cria arquivos MPEG no formato NTSC com uma resolução de
 720x480, com 29,97 frames por segundo (30000/1001) e aspecto 4:3. Você
 pode alterar o script acima e ajustá-lo às duas necessidades. Basta
-consultar a tabela &lt;a href="http://www.mplayerhq.hu/DOCS/HTML-single/en/MPlayer.html#menc-feat-vcd-dvd" title="Tabela de formatos de DVD"&gt;Format
+consultar a tabela &lt;a class="reference external" href="http://www.mplayerhq.hu/DOCS/HTML-single/en/MPlayer.html#menc-feat-vcd-dvd"&gt;Format
 Constraints&lt;/a&gt;
 apresentada no site do Mplayer para obter mais informações e exemplos.
 Depois altere a linha do comando mencoder de acordo com o que você
@@ -69,4 +76,5 @@ precisar.&lt;/p&gt;
 RMVB tem uma taxa de frames váriavel, portanto prefira baixar filmes no
 formato AVI.&lt;/p&gt;
 &lt;p&gt;Espero ter ajudado.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry></feed>

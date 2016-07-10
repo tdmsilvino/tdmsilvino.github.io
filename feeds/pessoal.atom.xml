@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/pessoal.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-09-08T00:53:00-03:00</updated><entry><title>Novo blog e novo domínio</title><link href="http://silvino.net/2013/09/08/novo-blog-novo-dominio/" rel="alternate"></link><updated>2013-09-08T00:53:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-08:2013/09/08/novo-blog-novo-dominio/</id><summary type="html">&lt;p&gt;Boa noite,&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/pessoal.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-09-08T00:53:00-03:00</updated><entry><title>Novo blog e novo domínio</title><link href="http://silvino.net/2013/09/08/novo-blog-novo-dominio/" rel="alternate"></link><published>2013-09-08T00:53:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-08:2013/09/08/novo-blog-novo-dominio/</id><summary type="html">&lt;p&gt;Boa noite,&lt;/p&gt;
 &lt;p&gt;Depois de muito tempo sem publicar nada decidi fazer várias mudanças.
 Registrei um novo domínio e comecei esse novo blog. Todo o conteúdo do
 meu blog antigo (tdmsilvino.wordpress.com) foi importado nesse novo
@@ -9,7 +9,7 @@ redirecionar o blog antigo para cá.&lt;/p&gt;
 firewall, inglês e qualquer outro assunto que achar relevante. Esse blog
 não será apenas sobre tecnologia da informação, vou tentar concentrar as
 minhas informações pessoais públicas nesse domínio silvino.net e a minha
-"identidade virtual" estará aqui, não estará no facebook, g+ ou twitter,
+&amp;quot;identidade virtual&amp;quot; estará aqui, não estará no facebook, g+ ou twitter,
 eu não vou deletar o meu perfil nesses serviços mas a maior parte das
 minhas informações vão sumir de lá em breve. Vou fazer alguns
 experimentos com owncloud e aos poucos vou deixar de usar serviços de
@@ -20,44 +20,51 @@ o Google decidisse cancelar a minha conta? Eu perderia os meus contatos,
 o meu e-mail, os arquivos do Google drive e muitas outras coisas. Fiz
 algumas pesquisas e vi que não é difícil disso acontecer. Depois de ler
 sobre o movimento
-&lt;a href="http://indiewebcamp.com/Getting_Started"&gt;IndieWebCamp&lt;/a&gt; eu percebi que a
-melhor forma de sair dessa  roubada é ter a posse da minha "identidade
-virtual". Eu vou ter o meu próprio domínio, vou gerenciar o meu e-mail e
-os meus arquivos ou vou pagar para algum provedor gerenciar.&lt;/p&gt;
+&lt;a class="reference external" href="http://indiewebcamp.com/Getting_Started"&gt;IndieWebCamp&lt;/a&gt;&amp;nbsp;eu percebi
+que a melhor forma de sair dessa &amp;nbsp;roubada é ter a posse da minha
+&amp;quot;identidade virtual&amp;quot;. Eu vou ter o meu próprio domínio, vou gerenciar o
+meu e-mail e os meus arquivos ou vou pagar para algum provedor
+gerenciar.&lt;/p&gt;
 &lt;p&gt;O layout desse blog provavelmente mudará em alguns dias porque estou
-pensando numa  forma de postar artigos em inglês também e ainda estou
+pensando numa &amp;nbsp;forma de postar artigos em inglês também e ainda estou
 pesquisando pra ver qual será a melhor forma de fazer isso. Mas já vou
 começar publicar alguns posts aqui.&lt;/p&gt;
 &lt;p&gt;A nova identidade virtual do Thiago Silvino aka tdmsilvino estará aqui
 no silvino.net.&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Voltando com a força toda</title><link href="http://silvino.net/2008/08/16/voltando-com-a-forca-toda/" rel="alternate"></link><updated>2008-08-16T10:28:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/voltando-com-a-forca-toda/</id><summary type="html">&lt;p&gt;É isso ai pessoal, esse blog não vai parar não. No mês passado fiz uma
-operação no joelho e agora estou fazendo um tratamento intensivo pra me
-recuperar o mais rápido possível. Fiz uma reforma na minha casa e meu
-micro ficou desmontado, eu estava só usando o laptop do serviço e por
-isso não postei mais nada no blog.&lt;/p&gt;
+&lt;p&gt;[]'s&lt;/p&gt;
+</summary></entry><entry><title>Voltando com a força toda</title><link href="http://silvino.net/2008/08/16/voltando-com-a-forca-toda/" rel="alternate"></link><published>2008-08-16T10:28:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/voltando-com-a-forca-toda/</id><summary type="html">&lt;p&gt;ão postei mais nada no blog.&lt;/p&gt;
 &lt;p&gt;Aproveitei esse tempo pra terminar de ler um livro preparatório para a
-certificação LPI. Também fiz a leitura dos livros "Ruby - Investigando a
-Linguagem" e "Ruby on Rails - Executando". Já estou desenvolvendo
+certificação LPI. Também fiz a leitura dos livros &amp;quot;Ruby - Investigando a
+Linguagem&amp;quot; e &amp;quot;Ruby on Rails - Executando&amp;quot;. Já estou desenvolvendo
 algumas aplicações usando Rails.&lt;/p&gt;
 &lt;p&gt;Então fica ai mais uma dica pra galera quem quer começar a usar o Rails,
 você pode comprar qualquer um dos vários livros disponíveis para compra
 e atualizar o seu conhecimento lendo os bons artigos disponíveis na
 Internet, segue uma breve lista:&lt;/p&gt;
-&lt;p&gt;Primeiro tutorial completo de Rails 2.0 - parte 1 e parte 2  &lt;/p&gt;
-&lt;p&gt;http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-1  &lt;/p&gt;
-&lt;p&gt;http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-2&lt;/p&gt;
-&lt;p&gt;Rails scaffolding step by step  &lt;/p&gt;
-&lt;p&gt;http://fairleads.blogspot.com/2007/12/rails-20-and-scaffolding-step-by-step.html  &lt;/p&gt;
-&lt;p&gt;http://fairleads.blogspot.com/2008/01/this-is-second-part-of-my-series.html&lt;/p&gt;
-&lt;p&gt;Primeiro tutorial completo de Rails 2.1 - parte 1 e parte 2  &lt;/p&gt;
-&lt;p&gt;http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1  &lt;/p&gt;
-&lt;p&gt;http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-2&lt;/p&gt;
-&lt;p&gt;Primeiro livro de Rails 2.1  &lt;/p&gt;
-&lt;p&gt;http://www.nomedojogo.com/2008/06/06/o-primeiro-livro-sobre-rails-21-e-brasileiro&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Primeiro tutorial completo de Rails 2.0 - parte 1 e parte 2&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-1"&gt;http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-1&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-2"&gt;http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-2&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Rails scaffolding step by step&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://fairleads.blogspot.com/2007/12/rails-20-and-scaffolding-step-by-step.html"&gt;http://fairleads.blogspot.com/2007/12/rails-20-and-scaffolding-step-by-step.html&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://fairleads.blogspot.com/2008/01/this-is-second-part-of-my-series.html"&gt;http://fairleads.blogspot.com/2008/01/this-is-second-part-of-my-series.html&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Primeiro tutorial completo de Rails 2.1 - parte 1 e parte 2&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1"&gt;http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-2"&gt;http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-2&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Primeiro livro de Rails 2.1&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.nomedojogo.com/2008/06/06/o-primeiro-livro-sobre-rails-21-e-brasileiro"&gt;http://www.nomedojogo.com/2008/06/06/o-primeiro-livro-sobre-rails-21-e-brasileiro&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Durante esse período também fiz a instalação do Kurumin NG e indico essa
 distribuição pra qualquer brasileiro que seja iniciante no Linux e quer
 um Desktop pronto para uso. Depois que você se acostumar com o ambiente
 Linux e realmente quiser aprender a configurar todo o sistema e ir a
 fundo nas funcionalidades você deve partir para uma distro robusta e a
 minha indicação sempre será o bom e velho Slackware.&lt;/p&gt;
-&lt;p&gt;Até mais.&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;Até mais.&lt;/p&gt;
+</summary></entry></feed>

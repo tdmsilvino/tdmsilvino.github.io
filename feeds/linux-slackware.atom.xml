@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/linux-slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-09-20T10:32:00-03:00</updated><entry><title>Usando o Slax Linux</title><link href="http://silvino.net/2013/09/20/usando-o-slax-linux/" rel="alternate"></link><updated>2013-09-20T10:32:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-20:2013/09/20/usando-o-slax-linux/</id><summary type="html">&lt;p&gt;O &lt;a href="http://www.slax.org" title="Slax"&gt;Slax&lt;/a&gt; é uma versão portável do Linux
-baseada na distribuição &lt;a href="http://slackware.com" title="Slackware"&gt;Slackware&lt;/a&gt;. O
-Slax traz o Firefox, mplayer (player multimedia), okular (leitor de
-PDF), gwenviewer (vizualizador de imagens), muitos outros programas e o
-desktop KDE em uma imagem de aproximadamente 220Mb e que está disponível
-em várias línguas.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/linux-slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-09-20T10:32:00-03:00</updated><entry><title>Usando o Slax Linux</title><link href="http://silvino.net/2013/09/20/usando-o-slax-linux/" rel="alternate"></link><published>2013-09-20T10:32:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-20:2013/09/20/usando-o-slax-linux/</id><summary type="html">&lt;p&gt;O &lt;a class="reference external" href="http://www.slax.org"&gt;Slax&lt;/a&gt; é uma versão portável do Linux baseada
+na distribuição &lt;a class="reference external" href="http://slackware.com"&gt;Slackware&lt;/a&gt;. O Slax traz o
+Firefox, mplayer (player multimedia), okular (leitor de PDF), gwenviewer
+(vizualizador de imagens), muitos outros programas e o desktop KDE em
+uma imagem de aproximadamente 220Mb e que está disponível em várias
+línguas.&lt;/p&gt;
 &lt;p&gt;Para usar o Slax no seu computador você deve fazer o download nesse link
-&lt;a href="http://www.slax.org/en/download.php"&gt;http://www.slax.org/en/download.php&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="http://www.slax.org/en/download.php"&gt;http://www.slax.org/en/download.php&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Você verá quatro opções de download:&lt;/p&gt;
 &lt;p&gt;Download for CD - duas imagens ISO (32 bits e 64 bits) que você pode
 usar numa máquina virtual como o VirtualBox ou queimar num CD/DVD para
@@ -18,12 +18,12 @@ computador.&lt;/p&gt;
 mais de um núcleo (exemplos dual core, quad core, corei3,5,7) use a
 versão 64 bits.&lt;/p&gt;
 &lt;p&gt;Para usar o Slax em Portugês num pendrive acesse a página de download,
-vá até a linha "Slax Brazilian (Portuguese)" e selecione uma das opções
-"32 bit ZIP" ou "64 bit ZIP".&lt;/p&gt;
+vá até a linha &amp;quot;Slax Brazilian (Portuguese)&amp;quot; e selecione uma das opções
+&amp;quot;32 bit ZIP&amp;quot; ou &amp;quot;64 bit ZIP&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Quando download terminar, copie o arquivo ZIP no seu pendrive (na minha
-máquina o pendrive foi reconhecido como E:, use a letra que o Windows
+máquina o pendrive foi reconhecido como E:\, use a letra que o Windows
 detectar) e descompacte o arquivo na raiz do pendrive, entre na pasta
-E:slaxboot e execute o script bootinst.bat. Se tudo der certo o seu
+E:\slax\boot e execute o script bootinst.bat. Se tudo der certo o seu
 pendrive já vai estar inicializável.&lt;/p&gt;
 &lt;p&gt;Obs: Se você já está usando o Linux e quer testar o Slax descompacte o
 arquivo no pendrive e execute o script slax/boot/bootinst.sh.&lt;/p&gt;
@@ -33,12 +33,13 @@ escolher a opção de boot pelo pendrive (USB disk), essa tecla varia em
 cada computador, normalmente é uma das teclas F8, F9, F10 ou ESC.&lt;/p&gt;
 &lt;p&gt;Depois de escolher a opção de boot pelo pendrive (USB disk) você verá a
 tela de boot do Slax, você pode apertar a tecla TAB para mudar as opções
-ou simplesmente escolher a opção "Run Slax" e pressionar a tecla ENTER.
+ou simplesmente escolher a opção &amp;quot;Run Slax&amp;quot; e pressionar a tecla ENTER.
 Escolhendo essa opção padrão o Slax vai iniciar o no modo gráfico com o
 KDE.&lt;/p&gt;
 &lt;p&gt;Se o Slax não reconhecer a placa de rede wireless ou algum outro
 hardware da sua máquina você deve conectar na Internet usando a placa de
-rede comum, com um cabo de rede, e abrir a "Central de Programas" e
-fazer o download do módulo "Linux Firmware" depois reinicie o Slax e
+rede comum, com um cabo de rede, e abrir a &amp;quot;Central de Programas&amp;quot; e
+fazer o download do módulo &amp;quot;Linux Firmware&amp;quot; depois reinicie o Slax e
 tente novamente.&lt;/p&gt;
-&lt;p&gt;Boa sorte!&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;Boa sorte!&lt;/p&gt;
+</summary></entry></feed>

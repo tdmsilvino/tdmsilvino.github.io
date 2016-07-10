@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/all.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-12-02T15:40:00-02:00</updated><entry><title>Exercícios de inglês e espanhol</title><link href="http://silvino.net/2013/12/02/exercicios-de-ingles-e-espanhol/" rel="alternate"></link><updated>2013-12-02T15:40:00-02:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-12-02:2013/12/02/exercicios-de-ingles-e-espanhol/</id><summary type="html">&lt;p&gt;Alguns dias atrás eu descobri que a minha amiga Kelly Dias mantém o blog
-&lt;a href="http://interajaagora.blogspot.com.br/"&gt;http://interajaagora.blogspot.com.br/&lt;/a&gt; e ela posta muitas dicas sobre
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/all.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-12-02T15:40:00-02:00</updated><entry><title>Exercícios de inglês e espanhol</title><link href="http://silvino.net/2013/12/02/exercicios-de-ingles-e-espanhol/" rel="alternate"></link><published>2013-12-02T15:40:00-02:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-12-02:2013/12/02/exercicios-de-ingles-e-espanhol/</id><summary type="html">&lt;p&gt;Alguns dias atrás eu descobri que a minha amiga Kelly Dias mantém o blog
+&lt;a class="reference external" href="http://interajaagora.blogspot.com.br/"&gt;http://interajaagora.blogspot.com.br/&lt;/a&gt; e ela posta muitas dicas sobre
 inglês e espanhol.&lt;/p&gt;
 &lt;p&gt;Ela mantém uma seção de exercícios. Então se você está estudando uma
 dessas línguas e quer se aprimorar em um tópico específico acesse a
-seção de &lt;a href="http://interajaagora.blogspot.com.br/p/exercicios-de-ingles.html" title="Exercícios de inglês"&gt;exercícios de
+seção de &lt;a class="reference external" href="http://interajaagora.blogspot.com.br/p/exercicios-de-ingles.html"&gt;exercícios de
 inglês&lt;/a&gt;
-ou &lt;a href="http://interajaagora.blogspot.com.br/p/exercicios-de-espanhol.html" title="Exercícios de espanhol"&gt;exercícios de
+ou &lt;a class="reference external" href="http://interajaagora.blogspot.com.br/p/exercicios-de-espanhol.html"&gt;exercícios de
 espanhol&lt;/a&gt;
 e faça os exercícios.&lt;/p&gt;
 &lt;p&gt;No blog dela também há muitos links para sites externos com muitas aulas
 interessantes e ela também aceita o recebimento de dúvidas no e-mail:
-contato_interajaagora@yahoo.com.br.&lt;/p&gt;
+&lt;a class="reference external" href="mailto:contato_interajaagora&amp;#64;yahoo.com.br"&gt;contato_interajaagora&amp;#64;yahoo.com.br&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Então não perca tempo e acesse o blog
-&lt;a href="http://interajaagora.blogspot.com.br/"&gt;http://interajaagora.blogspot.com.br/&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Bons estudos!&lt;/p&gt;</summary></entry><entry><title>Palestra online sobre firewalls pela Fundação Bradesco</title><link href="http://silvino.net/2013/11/24/palestra-online-sobre-firewalls-fundacao-bradesco/" rel="alternate"></link><updated>2013-11-24T19:31:00-02:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-11-24:2013/11/24/palestra-online-sobre-firewalls-fundacao-bradesco/</id><summary type="html">&lt;p&gt;Updated: 27/11/2013 16h45 UTC-2&lt;/p&gt;
-&lt;p&gt;Boa ~~noite~~ tarde,&lt;/p&gt;
-&lt;p&gt;~~Amanhã~~, No dia 25/11/23 às 14h, ~~vou apresentar~~ eu apresentei uma
-palestra sobre firewalls pela Fundação Bradesco.&lt;/p&gt;
+&lt;a class="reference external" href="http://interajaagora.blogspot.com.br/"&gt;http://interajaagora.blogspot.com.br/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bons estudos!&lt;/p&gt;
+</summary></entry><entry><title>Palestra online sobre firewalls pela Fundação Bradesco</title><link href="http://silvino.net/2013/11/24/palestra-online-sobre-firewalls-fundacao-bradesco/" rel="alternate"></link><published>2013-11-24T19:31:00-02:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-11-24:2013/11/24/palestra-online-sobre-firewalls-fundacao-bradesco/</id><summary type="html">&lt;p&gt;Updated: 27/11/2013 16h45 UTC-2&lt;/p&gt;
+&lt;p&gt;Boa [STRIKEOUT:noite] tarde,&lt;/p&gt;
+&lt;p&gt;[STRIKEOUT:Amanhã], No dia 25/11/23 às 14h, [STRIKEOUT:vou apresentar]
+eu apresentei uma palestra sobre firewalls pela Fundação Bradesco.&lt;/p&gt;
 &lt;p&gt;Se você estiver interessado em saber o básico sobre firewalls CheckPoint
 acesse o
-link &lt;a href="http://videos3.fb.org.br/FundacaoBradesco/Eventos/25112013OUsodeFirewallsnaSegurancadeRedes/25112013OUsodeFirewallsnaSegurancadeRedes.html"&gt;http://videos3.fb.org.br/&lt;wbr&gt;&lt;/wbr&gt;FundacaoBradesco/Eventos/&lt;wbr&gt;&lt;/wbr&gt;25112013OUsodeFirewallsnaSegur&lt;wbr&gt;&lt;/wbr&gt;ancadeRedes/&lt;wbr&gt;&lt;/wbr&gt;25112013OUsodeFirewallsnaSegur&lt;wbr&gt;&lt;/wbr&gt;ancadeRedes.html&lt;/a&gt;
-~~se registre~~ para assistir a palestra.&lt;/p&gt;
+link&amp;nbsp;&lt;a class="reference external" href="http://videos3.fb.org.br/FundacaoBradesco/Eventos/25112013OUsodeFirewallsnaSegurancadeRedes/25112013OUsodeFirewallsnaSegurancadeRedes.html"&gt;http://videos3.fb.org.br/FundacaoBradesco/Eventos/25112013OUsodeFirewallsnaSegurancadeRedes/25112013OUsodeFirewallsnaSegurancadeRedes.html&lt;/a&gt;
+[STRIKEOUT:se registre] para assistir a palestra.&lt;/p&gt;
 &lt;p&gt;Se você preferir você pode fazer o download dos slides da apresentação
-no link a seguir: &lt;a href="http://silvino.net/wp-content/uploads/2013/11/Thiago_Silvino_Firewalls1.pptx" title="Slides da Palestra sobre Firewalls"&gt;Slides da Palestra sobre
+no link a seguir: &lt;a class="reference external" href="http://www.silvino.net/wp-content/uploads/2013/11/Thiago_Silvino_Firewalls.pptx"&gt;Slides da Palestra sobre
 Firewalls.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Se tiver dúvidas deixa a sua pergunta nos comentários desse post.&lt;/p&gt;
-&lt;p&gt;Abraços!&lt;/p&gt;</summary></entry><entry><title>Como estudar inglês</title><link href="http://silvino.net/2013/10/19/como-estudar-ingles/" rel="alternate"></link><updated>2013-10-19T23:57:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-10-19:2013/10/19/como-estudar-ingles/</id><summary type="html">&lt;p&gt;Tenho recebido muitas perguntas sobre como estudar inglês por conta
+&lt;p&gt;Abraços!&lt;/p&gt;
+</summary></entry><entry><title>Como estudar inglês</title><link href="http://silvino.net/2013/10/19/como-estudar-ingles/" rel="alternate"></link><published>2013-10-19T23:57:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-10-19:2013/10/19/como-estudar-ingles/</id><summary type="html">&lt;p&gt;Tenho recebido muitas perguntas sobre como estudar inglês por conta
 própria. Algumas pessoas que tem me procurado querem começar a estudar
 do zero e outras já tem um conhecimento intermediário e querem aprimorar
 suas habilidades na língua inglesa.&lt;/p&gt;
@@ -35,11 +37,11 @@ pessoas.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vocabulário:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Se você não tem muito conhecimento de inglês, só sabe aquilo que
 aprendemos no ensino médio, e quer começar a estudar você pode usar o
-site &lt;a href="http://www.languageguide.org/" title="Language Guide"&gt;Language Guide&lt;/a&gt;
-para começar os seus estudos. Nesse site você pode estudar várias
-línguas, mas vamos focar na língua inglesa.&lt;/p&gt;
+site &lt;a class="reference external" href="http://www.languageguide.org/"&gt;Language Guide&lt;/a&gt; para começar os
+seus estudos. Nesse site você pode estudar várias línguas, mas vamos
+focar na língua inglesa.&lt;/p&gt;
 &lt;p&gt;Comece acessando esse link
-&lt;a href="http://www.languageguide.org/inglês/" title="Language Guide - Inglês"&gt;http://www.languageguide.org/inglês/&lt;/a&gt;.
+&lt;a class="reference external" href="http://www.languageguide.org/inglês/"&gt;http://www.languageguide.org/inglês/&lt;/a&gt;.
 Nessa primeira seção você vai encontrar um guia de vocabulário, é um
 guia super interativo, basta escolher um tópico que você quer aprender e
 passar os mouse em cima das figuras e você vai ouvir a pronúncia da
@@ -47,22 +49,19 @@ palavra escolhida. Dessa forma você pode aprender várias palavras novas
 em único dia e já vai saber a pronúncia correta. São setenta e sete
 tópicos diferentes com várias palavras a disposição.&lt;/p&gt;
 &lt;p&gt;Para treinar vocabulário e aprender novas palavras você também pode usar
-o site &lt;a href="http://www.duolingo.com/"&gt;http://www.duolingo.com/&lt;/a&gt; esse site também provê um aplicativo
+o site &lt;a class="reference external" href="http://www.duolingo.com/"&gt;http://www.duolingo.com/&lt;/a&gt; esse site também provê um aplicativo
 para celulares Android e iPhone que você pode baixar e fazer as aulas
 direto no seu celular.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Gramática:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Depois você pode acessar a &lt;a href="http://www.languageguide.org/english/br/grammar.jsp" title="Guia de Gramática"&gt;guia de
-gramática&lt;/a&gt;,
-que é um curso de inglês completo dividido em quatro partes. Basta
-acessar os links abaixo e ler as páginas, passe o mouse por cima das
-frases em inglês para ouvir a pronúncia das frases.&lt;/p&gt;
-&lt;p&gt;Links: &lt;a href="http://www.languageguide.org/english/grammar/br/part1/" title="Guia de Gramática - Parte 1"&gt;Parte
-1&lt;/a&gt;,
-&lt;a href="http://www.languageguide.org/english/grammar/br/part2/" title="Guia de Gramática - Parte 2"&gt;Parte
-2&lt;/a&gt;,
-&lt;a href="http://www.languageguide.org/english/grammar/br/part3/" title="Guia de Gramática - Parte 3"&gt;Parte
-3&lt;/a&gt;
-e &lt;a href="http://www.languageguide.org/english/grammar/br/part4/" title="Guia de Gramática - Parte 4"&gt;Parte
+&lt;p&gt;Depois você pode acessar a &lt;a class="reference external" href="http://www.languageguide.org/english/br/grammar.jsp"&gt;guia de
+gramática&lt;/a&gt;, que
+é um curso de inglês completo dividido em quatro partes. Basta acessar
+os links abaixo e ler as páginas, passe o mouse por cima das frases em
+inglês para ouvir a pronúncia das frases.&lt;/p&gt;
+&lt;p&gt;Links: &lt;a class="reference external" href="http://www.languageguide.org/english/grammar/br/part1/"&gt;Parte
+1&lt;/a&gt;, &lt;a class="reference external" href="http://www.languageguide.org/english/grammar/br/part2/"&gt;Parte
+2&lt;/a&gt;, &lt;a class="reference external" href="http://www.languageguide.org/english/grammar/br/part3/"&gt;Parte
+3&lt;/a&gt; e &lt;a class="reference external" href="http://www.languageguide.org/english/grammar/br/part4/"&gt;Parte
 4&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;O guia de gramática também pode ser usado por quem já tem um
 conhecimento intermediário e quer revisar ou relembrar alguns tópicos.&lt;/p&gt;
@@ -71,12 +70,12 @@ conhecimento intermediário e quer revisar ou relembrar alguns tópicos.&lt;/p&g
 inglês você pode usar outros sites de conteúdo mais amplo e que trazem o
 texto escrito completamente em inglês.&lt;/p&gt;
 &lt;p&gt;Um site muito bom é o site do jornal Voice of America,
-&lt;a href="http://learningenglish.voanews.com/"&gt;http://learningenglish.voanews.com/&lt;/a&gt;, esse site tem a seção Learn
-English onde você encontra notícias em inglês e o apresentador fala bem
-devagar, assim você pode acompanhar o texto enquanto ouve a notícia.
-Isso é muito bom porque você já aprende a pronúncia correta das palavras
-e já se acostuma com o sotaque do inglês americano.&lt;/p&gt;
-&lt;p&gt;Acesse o site &lt;a href="http://learningenglish.voanews.com/"&gt;http://learningenglish.voanews.com/&lt;/a&gt; e clique no link de
+&lt;a class="reference external" href="http://learningenglish.voanews.com/"&gt;http://learningenglish.voanews.com/&lt;/a&gt;, esse site tem a seção Learn English
+onde você encontra notícias em inglês e o apresentador fala bem devagar,
+assim você pode acompanhar o texto enquanto ouve a notícia. Isso é muito
+bom porque você já aprende a pronúncia correta das palavras e já se
+acostuma com o sotaque do inglês americano.&lt;/p&gt;
+&lt;p&gt;Acesse o site &lt;a class="reference external" href="http://learningenglish.voanews.com/"&gt;http://learningenglish.voanews.com/&lt;/a&gt; e clique no link de
 uma notícia, na página da notícia você verá do lado esquerdo uma seção
 chamada MULTIMEDIA, clique no link Listen, aparecerá uma nova janela com
 um player de áudio, clique no botão play para ouvir a notícia e
@@ -84,40 +83,42 @@ acompanhe o texto na página da notícia.&lt;/p&gt;
 &lt;p&gt;Nesse site também tem uma seção chamada Learn English TV, que traz
 vídeos com legendas em inglês e os apresentadores falam bem devagar para
 que você possa acompanhar. Acesse esse link para ver os vídeos:
-&lt;a href="http://learningenglish.voanews.com/media/all/latest.html?z=3613"&gt;http://learningenglish.voanews.com/media/all/latest.html?z=3613&lt;/a&gt;.&lt;/p&gt;
+&lt;a class="reference external" href="http://learningenglish.voanews.com/media/all/latest.html?z=3613"&gt;http://learningenglish.voanews.com/media/all/latest.html?z=3613&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Veja também os vídeos da seção English in a Minute, onde os professores
 explicam o uso das expressões idiomáticas no inglês americano, as aulas
 nesses vídeos curtos são completamente em inglês e também trazem a
 legenda para você acompanhar. Acesse esse link para ver os vídeos:
-&lt;a href="http://learningenglish.voanews.com/media/all/latest.html?z=3619"&gt;http://learningenglish.voanews.com/media/all/latest.html?z=3619&lt;/a&gt;.&lt;/p&gt;
+&lt;a class="reference external" href="http://learningenglish.voanews.com/media/all/latest.html?z=3619"&gt;http://learningenglish.voanews.com/media/all/latest.html?z=3619&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Se você tem dúvidas de gramática e já lê em inglês com facilidade veja
 as explicações no site The Purdue Online Writing Lab, nesse link
-&lt;a href="https://owl.english.purdue.edu/owl/section/1/5/"&gt;https://owl.english.purdue.edu/owl/section/1/5/&lt;/a&gt;. Há explicações sobre
+&lt;a class="reference external" href="https://owl.english.purdue.edu/owl/section/1/5/"&gt;https://owl.english.purdue.edu/owl/section/1/5/&lt;/a&gt;. Há explicações sobre
 vários tópicos como adjetivos, advérbios, preposições, pronomes, etc.&lt;/p&gt;
 &lt;p&gt;O site de notícias da BBC UK também oferece muitos recursos para estudar
 inglês. Acesse o link
-&lt;a href="http://www.bbc.co.uk/worldservice/learningenglish/"&gt;http://www.bbc.co.uk/worldservice/learningenglish/&lt;/a&gt;. Navegue no menu do
-lado esquerdo para escolher entre as seções &lt;a href="http://www.bbc.co.uk/worldservice/learningenglish/general/" title="General and Business English"&gt;General &amp;amp; Businesse
+&lt;a class="reference external" href="http://www.bbc.co.uk/worldservice/learningenglish/"&gt;http://www.bbc.co.uk/worldservice/learningenglish/&lt;/a&gt;. Navegue no menu do
+lado esquerdo para escolher entre as seções &lt;a class="reference external" href="http://www.bbc.co.uk/worldservice/learningenglish/general/"&gt;General &amp;amp; Businesse
 English&lt;/a&gt;,
-&lt;a href="http://www.bbc.co.uk/worldservice/learningenglish/language/" title="Grammar, vocabulary and pronunciation"&gt;Grammar, vocabulary &amp;amp;
+&lt;a class="reference external" href="http://www.bbc.co.uk/worldservice/learningenglish/language/"&gt;Grammar, vocabulary &amp;amp;
 pronunciation&lt;/a&gt;
 e outros.&lt;/p&gt;
 &lt;p&gt;Como você pode ver há muitos recursos gratuitos na internet para você
 estudar e aprimorar o seu inglês.&lt;/p&gt;
 &lt;p&gt;Se você tem alguma dica para compartilhar deixe o seu comentário.&lt;/p&gt;
-&lt;p&gt;Bons estudos e boa sorte!&lt;/p&gt;</summary></entry><entry><title>Slides da Palestra sobre Software Livre e Código Aberto</title><link href="http://silvino.net/2013/09/24/slides-da-palestra-sobre-software-livre-e-codigo-aberto/" rel="alternate"></link><updated>2013-09-24T18:08:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-24:2013/09/24/slides-da-palestra-sobre-software-livre-e-codigo-aberto/</id><summary type="html">&lt;p&gt;No dia 19 de setembro de 2013 eu ministrei uma palestra sobre Software
+&lt;p&gt;Bons estudos e boa sorte!&lt;/p&gt;
+</summary></entry><entry><title>Slides da Palestra sobre Software Livre e Código Aberto</title><link href="http://silvino.net/2013/09/24/slides-da-palestra-sobre-software-livre-e-codigo-aberto/" rel="alternate"></link><published>2013-09-24T18:08:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-24:2013/09/24/slides-da-palestra-sobre-software-livre-e-codigo-aberto/</id><summary type="html">&lt;p&gt;No dia 19 de setembro de 2013 eu ministrei uma palestra sobre Software
 Livre e Código Aberto na Unidade 2 das Faculdades Anhanguera Campinas.&lt;/p&gt;
 &lt;p&gt;Estou postando os slides da palestra assim você pode ter uma idéia do
 que foi apresentado.&lt;/p&gt;
-&lt;p&gt;Acesse os slides nesse link: &lt;a href="http://silvino.net/wp-content/uploads/2013/09/Software_Livre_e_Codigo_Aberto1.pdf"&gt;Software Livre e Código
-Aberto&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Usando o Slax Linux</title><link href="http://silvino.net/2013/09/20/usando-o-slax-linux/" rel="alternate"></link><updated>2013-09-20T10:32:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-20:2013/09/20/usando-o-slax-linux/</id><summary type="html">&lt;p&gt;O &lt;a href="http://www.slax.org" title="Slax"&gt;Slax&lt;/a&gt; é uma versão portável do Linux
-baseada na distribuição &lt;a href="http://slackware.com" title="Slackware"&gt;Slackware&lt;/a&gt;. O
-Slax traz o Firefox, mplayer (player multimedia), okular (leitor de
-PDF), gwenviewer (vizualizador de imagens), muitos outros programas e o
-desktop KDE em uma imagem de aproximadamente 220Mb e que está disponível
-em várias línguas.&lt;/p&gt;
+&lt;p&gt;Acesse os slides nesse link: &lt;a class="reference external" href="http://www.silvino.net/wp-content/uploads/2013/09/Software_Livre_e_Codigo_Aberto.pdf"&gt;Software Livre e Código
+Aberto&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Usando o Slax Linux</title><link href="http://silvino.net/2013/09/20/usando-o-slax-linux/" rel="alternate"></link><published>2013-09-20T10:32:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-20:2013/09/20/usando-o-slax-linux/</id><summary type="html">&lt;p&gt;O &lt;a class="reference external" href="http://www.slax.org"&gt;Slax&lt;/a&gt; é uma versão portável do Linux baseada
+na distribuição &lt;a class="reference external" href="http://slackware.com"&gt;Slackware&lt;/a&gt;. O Slax traz o
+Firefox, mplayer (player multimedia), okular (leitor de PDF), gwenviewer
+(vizualizador de imagens), muitos outros programas e o desktop KDE em
+uma imagem de aproximadamente 220Mb e que está disponível em várias
+línguas.&lt;/p&gt;
 &lt;p&gt;Para usar o Slax no seu computador você deve fazer o download nesse link
-&lt;a href="http://www.slax.org/en/download.php"&gt;http://www.slax.org/en/download.php&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="http://www.slax.org/en/download.php"&gt;http://www.slax.org/en/download.php&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Você verá quatro opções de download:&lt;/p&gt;
 &lt;p&gt;Download for CD - duas imagens ISO (32 bits e 64 bits) que você pode
 usar numa máquina virtual como o VirtualBox ou queimar num CD/DVD para
@@ -129,12 +130,12 @@ computador.&lt;/p&gt;
 mais de um núcleo (exemplos dual core, quad core, corei3,5,7) use a
 versão 64 bits.&lt;/p&gt;
 &lt;p&gt;Para usar o Slax em Portugês num pendrive acesse a página de download,
-vá até a linha "Slax Brazilian (Portuguese)" e selecione uma das opções
-"32 bit ZIP" ou "64 bit ZIP".&lt;/p&gt;
+vá até a linha &amp;quot;Slax Brazilian (Portuguese)&amp;quot; e selecione uma das opções
+&amp;quot;32 bit ZIP&amp;quot; ou &amp;quot;64 bit ZIP&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Quando download terminar, copie o arquivo ZIP no seu pendrive (na minha
-máquina o pendrive foi reconhecido como E:, use a letra que o Windows
+máquina o pendrive foi reconhecido como E:\, use a letra que o Windows
 detectar) e descompacte o arquivo na raiz do pendrive, entre na pasta
-E:slaxboot e execute o script bootinst.bat. Se tudo der certo o seu
+E:\slax\boot e execute o script bootinst.bat. Se tudo der certo o seu
 pendrive já vai estar inicializável.&lt;/p&gt;
 &lt;p&gt;Obs: Se você já está usando o Linux e quer testar o Slax descompacte o
 arquivo no pendrive e execute o script slax/boot/bootinst.sh.&lt;/p&gt;
@@ -144,15 +145,16 @@ escolher a opção de boot pelo pendrive (USB disk), essa tecla varia em
 cada computador, normalmente é uma das teclas F8, F9, F10 ou ESC.&lt;/p&gt;
 &lt;p&gt;Depois de escolher a opção de boot pelo pendrive (USB disk) você verá a
 tela de boot do Slax, você pode apertar a tecla TAB para mudar as opções
-ou simplesmente escolher a opção "Run Slax" e pressionar a tecla ENTER.
+ou simplesmente escolher a opção &amp;quot;Run Slax&amp;quot; e pressionar a tecla ENTER.
 Escolhendo essa opção padrão o Slax vai iniciar o no modo gráfico com o
 KDE.&lt;/p&gt;
 &lt;p&gt;Se o Slax não reconhecer a placa de rede wireless ou algum outro
 hardware da sua máquina você deve conectar na Internet usando a placa de
-rede comum, com um cabo de rede, e abrir a "Central de Programas" e
-fazer o download do módulo "Linux Firmware" depois reinicie o Slax e
+rede comum, com um cabo de rede, e abrir a &amp;quot;Central de Programas&amp;quot; e
+fazer o download do módulo &amp;quot;Linux Firmware&amp;quot; depois reinicie o Slax e
 tente novamente.&lt;/p&gt;
-&lt;p&gt;Boa sorte!&lt;/p&gt;</summary></entry><entry><title>Novo blog e novo domínio</title><link href="http://silvino.net/2013/09/08/novo-blog-novo-dominio/" rel="alternate"></link><updated>2013-09-08T00:53:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-08:2013/09/08/novo-blog-novo-dominio/</id><summary type="html">&lt;p&gt;Boa noite,&lt;/p&gt;
+&lt;p&gt;Boa sorte!&lt;/p&gt;
+</summary></entry><entry><title>Novo blog e novo domínio</title><link href="http://silvino.net/2013/09/08/novo-blog-novo-dominio/" rel="alternate"></link><published>2013-09-08T00:53:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-08:2013/09/08/novo-blog-novo-dominio/</id><summary type="html">&lt;p&gt;Boa noite,&lt;/p&gt;
 &lt;p&gt;Depois de muito tempo sem publicar nada decidi fazer várias mudanças.
 Registrei um novo domínio e comecei esse novo blog. Todo o conteúdo do
 meu blog antigo (tdmsilvino.wordpress.com) foi importado nesse novo
@@ -162,7 +164,7 @@ redirecionar o blog antigo para cá.&lt;/p&gt;
 firewall, inglês e qualquer outro assunto que achar relevante. Esse blog
 não será apenas sobre tecnologia da informação, vou tentar concentrar as
 minhas informações pessoais públicas nesse domínio silvino.net e a minha
-"identidade virtual" estará aqui, não estará no facebook, g+ ou twitter,
+&amp;quot;identidade virtual&amp;quot; estará aqui, não estará no facebook, g+ ou twitter,
 eu não vou deletar o meu perfil nesses serviços mas a maior parte das
 minhas informações vão sumir de lá em breve. Vou fazer alguns
 experimentos com owncloud e aos poucos vou deixar de usar serviços de
@@ -173,34 +175,39 @@ o Google decidisse cancelar a minha conta? Eu perderia os meus contatos,
 o meu e-mail, os arquivos do Google drive e muitas outras coisas. Fiz
 algumas pesquisas e vi que não é difícil disso acontecer. Depois de ler
 sobre o movimento
-&lt;a href="http://indiewebcamp.com/Getting_Started"&gt;IndieWebCamp&lt;/a&gt; eu percebi que a
-melhor forma de sair dessa  roubada é ter a posse da minha "identidade
-virtual". Eu vou ter o meu próprio domínio, vou gerenciar o meu e-mail e
-os meus arquivos ou vou pagar para algum provedor gerenciar.&lt;/p&gt;
+&lt;a class="reference external" href="http://indiewebcamp.com/Getting_Started"&gt;IndieWebCamp&lt;/a&gt;&amp;nbsp;eu percebi
+que a melhor forma de sair dessa &amp;nbsp;roubada é ter a posse da minha
+&amp;quot;identidade virtual&amp;quot;. Eu vou ter o meu próprio domínio, vou gerenciar o
+meu e-mail e os meus arquivos ou vou pagar para algum provedor
+gerenciar.&lt;/p&gt;
 &lt;p&gt;O layout desse blog provavelmente mudará em alguns dias porque estou
-pensando numa  forma de postar artigos em inglês também e ainda estou
+pensando numa &amp;nbsp;forma de postar artigos em inglês também e ainda estou
 pesquisando pra ver qual será a melhor forma de fazer isso. Mas já vou
 começar publicar alguns posts aqui.&lt;/p&gt;
 &lt;p&gt;A nova identidade virtual do Thiago Silvino aka tdmsilvino estará aqui
 no silvino.net.&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Slackware 13</title><link href="http://silvino.net/2009/08/28/slackware-13/" rel="alternate"></link><updated>2009-08-28T12:05:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2009-08-28:2009/08/28/slackware-13/</id><summary type="html">&lt;p&gt;Acabei de ler o changelog no site slackware.com e temos uma novidade: O
+&lt;p&gt;[]'s&lt;/p&gt;
+</summary></entry><entry><title>Home</title><link href="http://silvino.net/2013/09/08/home/" rel="alternate"></link><published>2013-09-08T00:12:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-08:2013/09/08/home/</id><summary type="html"></summary></entry><entry><title>Slackware 13</title><link href="http://silvino.net/2009/08/28/slackware-13/" rel="alternate"></link><published>2009-08-28T12:05:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2009-08-28:2009/08/28/slackware-13/</id><summary type="html">&lt;p&gt;Acabei de ler o changelog no site slackware.com e temos uma novidade: O
 slackware 13 já está pronto, segue uma tradução livre da entrada no
 changelog:&lt;/p&gt;
-&lt;p&gt;O Slackware 13.0 x86 foi lançado como estável! Obrigado a todos os que
-ajudaram a fazer isso possível -- veja o arquivo RELEASE_NOTES para os
-créditos.&lt;br /&gt;
-As imagens ISOs já estão no gravador.  Desta vez teremos um conjunto de
-6 CD-ROM de 32-bits e um DVD de camada dupla 32-bit/64-bit x86/x86_64.
-Estamos aceitando pedidos de pré-venda no link store.slackware.com. Por
-favor considere pegar uma cópia para ajudar a suportar o projeto. Mais
-uma vez, obrigado a toda a comunidade do Slackware por toda a ajuda nos
-testes, correções e envio de sugestões durante o ciclo de
-desenvolvimento.&lt;br /&gt;
-Como sempre, divirtam-se e curtam a distro!  -P.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O Slackware 13.0 x86 foi lançado como estável! Obrigado a todos os que
+ajudaram a fazer isso possível -- veja o arquivo RELEASE_NOTES para
+os créditos.&lt;/div&gt;
+&lt;div class="line"&gt;As imagens ISOs já estão no gravador.&amp;nbsp; Desta vez teremos um conjunto
+de 6 CD-ROM de 32-bits e um DVD de camada dupla 32-bit/64-bit
+x86/x86_64. Estamos aceitando pedidos de pré-venda no link
+store.slackware.com. Por favor considere pegar uma cópia para ajudar a
+suportar o projeto. Mais uma vez, obrigado a toda a comunidade do
+Slackware por toda a ajuda nos testes, correções e envio de sugestões
+durante o ciclo de desenvolvimento.&lt;/div&gt;
+&lt;div class="line"&gt;Como sempre, divirtam-se e curtam a distro!&amp;nbsp; -P.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Você pode ler o anúncio de lançamento no link abaixo:&lt;/p&gt;
-&lt;p&gt;http://slackware.com/announce/13.0.php&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://slackware.com/announce/13.0.php"&gt;http://slackware.com/announce/13.0.php&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Agora é só baixar o Slackware e ver as novidades&lt;/p&gt;
-&lt;p&gt;http://slackware.com/getslack/&lt;/p&gt;</summary></entry><entry><title>Novidades sobre o Slackware</title><link href="http://silvino.net/2008/08/16/novidades-sobre-o-slackware/" rel="alternate"></link><updated>2008-08-16T10:46:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/novidades-sobre-o-slackware/</id><summary type="html">&lt;p&gt;No dia 13 de agosto o Patrick, desenvolvedor do Slackware, anunciou que
+&lt;p&gt;&lt;a class="reference external" href="http://slackware.com/getslack/"&gt;http://slackware.com/getslack/&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Novidades sobre o Slackware</title><link href="http://silvino.net/2008/08/16/novidades-sobre-o-slackware/" rel="alternate"></link><published>2008-08-16T10:46:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/novidades-sobre-o-slackware/</id><summary type="html">&lt;p&gt;No dia 13 de agosto o Patrick, desenvolvedor do Slackware, anunciou que
 o KDE 4.1 foi incluído no Slackware. Por enquanto os pacotes estão no
 -current /testing, mas ele diz que toda a equipe de desenvolvimento, já
 está usando o KDE 4.1 sem nenhum problema. Para usar o KDE 4.1 você
@@ -208,111 +215,126 @@ precisa atualizar o seu sistema para o -current e fazer o download dos
 pacotes em qualquer um dos mirrors do Slackware. Se você quiser usar um
 mirror do Brasil use o link abaixo, baixe toda a estrutura de
 sub-diretórios:&lt;/p&gt;
-&lt;p&gt;ftp://ftp.slackware-brasil.com.br/slackware-current/testing/packages/kde4/&lt;/p&gt;
-&lt;p&gt;O arquivo README traz uma série de recomendações que devem ser seguidas.
-Além de atualizar o sistema para o -current, você deve remover todos os
-pacotes relacionados ao KDE 3, incluindo o qt, qca, qca-tls e knemo.
-Você deve fazer um backup e depois remover os seguintes diretórios:
-/etc/kde, \$HOME/.kde.&lt;br /&gt;
-Entre no diretório com os pacotes do KDE 4.1 e use esse comando:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="ftp://ftp.slackware-brasil.com.br/slackware-current/testing/packages/kde4/"&gt;ftp://ftp.slackware-brasil.com.br/slackware-current/testing/packages/kde4/&lt;/a&gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O arquivo README traz uma série de recomendações que devem ser
+seguidas. Além de atualizar o sistema para o -current, você deve
+remover todos os pacotes relacionados ao KDE 3, incluindo o qt, qca,
+qca-tls e knemo. Você deve fazer um backup e depois remover os
+seguintes diretórios: /etc/kde, $HOME/.kde.&lt;/div&gt;
+&lt;div class="line"&gt;Entre no diretório com os pacotes do KDE 4.1 e use esse comando:&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;upgradepkg --install-new deps/*.tgz extragear/*.tgz kde/*.tgz
 kde3-compat/*.tgz&lt;/p&gt;
 &lt;p&gt;Dê uma olhada no arquivo README e mãos-à-obra.&lt;/p&gt;
 &lt;p&gt;Bom, além do KDE 4.1 o time do Slackware desenvolveu um novo logo para o
 Slackware. Entre no site slackware.com e confira, o Patrick disse que o
 logo antigo era muito difícil de ler e de guardar na memória rsrsrsrsrs.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Voltando com a força toda</title><link href="http://silvino.net/2008/08/16/voltando-com-a-forca-toda/" rel="alternate"></link><updated>2008-08-16T10:28:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/voltando-com-a-forca-toda/</id><summary type="html">&lt;p&gt;É isso ai pessoal, esse blog não vai parar não. No mês passado fiz uma
-operação no joelho e agora estou fazendo um tratamento intensivo pra me
-recuperar o mais rápido possível. Fiz uma reforma na minha casa e meu
-micro ficou desmontado, eu estava só usando o laptop do serviço e por
-isso não postei mais nada no blog.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Voltando com a força toda</title><link href="http://silvino.net/2008/08/16/voltando-com-a-forca-toda/" rel="alternate"></link><published>2008-08-16T10:28:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/voltando-com-a-forca-toda/</id><summary type="html">&lt;p&gt;ão postei mais nada no blog.&lt;/p&gt;
 &lt;p&gt;Aproveitei esse tempo pra terminar de ler um livro preparatório para a
-certificação LPI. Também fiz a leitura dos livros "Ruby - Investigando a
-Linguagem" e "Ruby on Rails - Executando". Já estou desenvolvendo
+certificação LPI. Também fiz a leitura dos livros &amp;quot;Ruby - Investigando a
+Linguagem&amp;quot; e &amp;quot;Ruby on Rails - Executando&amp;quot;. Já estou desenvolvendo
 algumas aplicações usando Rails.&lt;/p&gt;
 &lt;p&gt;Então fica ai mais uma dica pra galera quem quer começar a usar o Rails,
 você pode comprar qualquer um dos vários livros disponíveis para compra
 e atualizar o seu conhecimento lendo os bons artigos disponíveis na
 Internet, segue uma breve lista:&lt;/p&gt;
-&lt;p&gt;Primeiro tutorial completo de Rails 2.0 - parte 1 e parte 2  &lt;/p&gt;
-&lt;p&gt;http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-1  &lt;/p&gt;
-&lt;p&gt;http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-2&lt;/p&gt;
-&lt;p&gt;Rails scaffolding step by step  &lt;/p&gt;
-&lt;p&gt;http://fairleads.blogspot.com/2007/12/rails-20-and-scaffolding-step-by-step.html  &lt;/p&gt;
-&lt;p&gt;http://fairleads.blogspot.com/2008/01/this-is-second-part-of-my-series.html&lt;/p&gt;
-&lt;p&gt;Primeiro tutorial completo de Rails 2.1 - parte 1 e parte 2  &lt;/p&gt;
-&lt;p&gt;http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1  &lt;/p&gt;
-&lt;p&gt;http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-2&lt;/p&gt;
-&lt;p&gt;Primeiro livro de Rails 2.1  &lt;/p&gt;
-&lt;p&gt;http://www.nomedojogo.com/2008/06/06/o-primeiro-livro-sobre-rails-21-e-brasileiro&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Primeiro tutorial completo de Rails 2.0 - parte 1 e parte 2&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-1"&gt;http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-1&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-2"&gt;http://www.akitaonrails.com/2008/2/1/rolling-with-rails-2-0-o-primeiro-tutorial-completo-parte-2&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Rails scaffolding step by step&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://fairleads.blogspot.com/2007/12/rails-20-and-scaffolding-step-by-step.html"&gt;http://fairleads.blogspot.com/2007/12/rails-20-and-scaffolding-step-by-step.html&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://fairleads.blogspot.com/2008/01/this-is-second-part-of-my-series.html"&gt;http://fairleads.blogspot.com/2008/01/this-is-second-part-of-my-series.html&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Primeiro tutorial completo de Rails 2.1 - parte 1 e parte 2&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1"&gt;http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-2"&gt;http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-2&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Primeiro livro de Rails 2.1&lt;/div&gt;
+&lt;div class="line"&gt;&lt;a class="reference external" href="http://www.nomedojogo.com/2008/06/06/o-primeiro-livro-sobre-rails-21-e-brasileiro"&gt;http://www.nomedojogo.com/2008/06/06/o-primeiro-livro-sobre-rails-21-e-brasileiro&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Durante esse período também fiz a instalação do Kurumin NG e indico essa
 distribuição pra qualquer brasileiro que seja iniciante no Linux e quer
 um Desktop pronto para uso. Depois que você se acostumar com o ambiente
 Linux e realmente quiser aprender a configurar todo o sistema e ir a
 fundo nas funcionalidades você deve partir para uma distro robusta e a
 minha indicação sempre será o bom e velho Slackware.&lt;/p&gt;
-&lt;p&gt;Até mais.&lt;/p&gt;</summary></entry><entry><title>Usando o dvdauthor para editar DVD's</title><link href="http://silvino.net/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><updated>2008-06-14T12:02:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;p&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB
-para gravar em um DVD.&lt;br /&gt;
-Você pode usar um arquivo de configuração no formato XML ou parâmetros
+&lt;p&gt;Até mais.&lt;/p&gt;
+</summary></entry><entry><title>Usando o dvdauthor para editar DVD's</title><link href="http://silvino.net/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><published>2008-06-14T12:02:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB
+para gravar em um DVD.&lt;/div&gt;
+&lt;div class="line"&gt;Você pode usar um arquivo de configuração no formato XML ou parâmetros
 na linha de comando para dizer ao dvdauthor como ele deve criar os
-arquivos VOB.&lt;br /&gt;
-Com o dvdauthor você pode criar menus e criar capítulos para cada
-título do seu DVD.&lt;/p&gt;
+arquivos VOB.&lt;/div&gt;
+&lt;div class="line"&gt;Com o dvdauthor você pode criar menus e criar capítulos para cada
+título do seu DVD.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Abaixo estou mostrando um exemplo de arquivo de configuração do
 dvdauthor:&lt;/p&gt;
-&lt;p&gt;&amp;lt;dvdauthor dest="dvd"&amp;gt;&lt;br /&gt;
-&amp;lt;vmgm/&amp;gt;&lt;br /&gt;
-&amp;lt;titleset&amp;gt;&lt;br /&gt;
-&amp;lt;titles&amp;gt;&lt;br /&gt;
-&amp;lt;pgc&amp;gt;&lt;br /&gt;
-&amp;lt;vob file="filme01.mpeg" chapters="0:00:20.00,0:10:20.00,0:20:20.00"
-/&amp;gt;&lt;br /&gt;
-&amp;lt;vob file="filme02.mpeg" chapters="0:00:20.00,0:10:20.00,0:20:20.00"
-/&amp;gt;&lt;br /&gt;
-&amp;lt;/pgc&amp;gt;&lt;br /&gt;
-&amp;lt;/titles&amp;gt;&lt;br /&gt;
-&amp;lt;/titleset&amp;gt;&lt;br /&gt;
-&amp;lt;/dvdauthor&amp;gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;&amp;lt;dvdauthor dest=&amp;quot;dvd&amp;quot;&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vmgm/&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;titleset&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;titles&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;pgc&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme01.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot;
+/&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme02.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot;
+/&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/pgc&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/titles&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/titleset&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/dvdauthor&amp;gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;O arquivo de configuração deve estar localizado no mesmo diretório dos
-arquivos MPEG. No exemplo acima eu usei a opção "file" para indicar o
-nome dos arquivos e a opção "chapters" para indicar uma lista de
+arquivos MPEG. No exemplo acima eu usei a opção &amp;quot;file&amp;quot; para indicar o
+nome dos arquivos e a opção &amp;quot;chapters&amp;quot; para indicar uma lista de
 capitulos, essa lista deve ser separada por vírgulas e deve estar no
 formato H:MM:ss.frac, isso indica que no exemplo acima o primeiro
 capítulo deve ser criado aos 20 segundos do começo do filme.&lt;/p&gt;
 &lt;p&gt;Depois de criar o arquivo de configuração basta entrar no mesmo
-diretório dos filmes e executar o comando "dvdauthor -c dvd.xml". O
-dvdauthor criará um diretório chamado "dvd" com os subdiretórios
+diretório dos filmes e executar o comando &amp;quot;dvdauthor -c dvd.xml&amp;quot;. O
+dvdauthor criará um diretório chamado &amp;quot;dvd&amp;quot; com os subdiretórios
 AUDIO_TS e VIDEO_TS, nesses diretórios você tem os arquivos
 necessários para gerar um DVD.&lt;/p&gt;
-&lt;p&gt;Para gravar um DVD você pode usar o comando "growisofs -dvd-compat -Z
-/dev/dvd -dvd-video dvd". Se você preferir usar o K3b para queimar o
-DVD, você deve usar a opção "Novo Projeto de DVD de Vídeo" na aba
-"Ínicio Rápido" e você só precisará copiar os arquivos de dentro do
+&lt;p&gt;Para gravar um DVD você pode usar o comando &amp;quot;growisofs -dvd-compat -Z
+/dev/dvd -dvd-video dvd&amp;quot;. Se você preferir usar o K3b para queimar o
+DVD, você deve usar a opção &amp;quot;Novo Projeto de DVD de Vídeo&amp;quot; na aba
+&amp;quot;Ínicio Rápido&amp;quot; e você só precisará copiar os arquivos de dentro do
 diretório VIDEO_TS para o diretório VIDEO_TS no seu projeto de DVD de
 vídeo.&lt;/p&gt;
 &lt;p&gt;Pronto agora você pode usar o Linux para editar os seus DVD's.&lt;/p&gt;
 &lt;p&gt;Obs: Para instalar o dvdauthor no Slackware 12.1 você pode usar o
 Slackbuild que pode ser encontrado nessa URL
-http://slackbuilds.org/repository/12.1/multimedia/dvdauthor/&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Convertendo filmes AVI e RMVB para MPEG</title><link href="http://silvino.net/2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/" rel="alternate"></link><updated>2008-05-25T09:01:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-25:2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/</id><summary type="html">&lt;p&gt;Há um tempo atrás eu estava precisando converter uns filmes no formato
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/multimedia/dvdauthor/"&gt;http://slackbuilds.org/repository/12.1/multimedia/dvdauthor/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Convertendo filmes AVI e RMVB para MPEG</title><link href="http://silvino.net/2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/" rel="alternate"></link><published>2008-05-25T09:01:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-25:2008/05/25/convertendo-filmes-avi-e-rmvb-para-mpeg/</id><summary type="html">&lt;p&gt;Há um tempo atrás eu estava precisando converter uns filmes no formato
 AVI e RMVB para MPEG. Depois de ler muitos tutoriais descobri muitas
 formas de fazer esse tipo de conversão. Acabei escolhendo o mencoder,
 que é o codificador do projeto mplayer.&lt;/p&gt;
 &lt;p&gt;Eu criei um script para converter todos os filmes de um determinado
 diretório para o formato MPEG afim de gravá-los em um DVD. Segue o
 código do script:&lt;/p&gt;
-&lt;p&gt;for filme in `ls *.avi *.rmvb`; do&lt;br /&gt;
-filmempeg=`echo \$filme | sed s/.avi/.mpeg/`;&lt;br /&gt;
-echo "Convertendo \$filme para \$filmempeg";&lt;br /&gt;
-mencoder -oac lavc -ovc lavc -of mpeg -mpegopts format=dvd:tsaf -vf
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;for filme in `ls *.avi *.rmvb`; do&lt;/div&gt;
+&lt;div class="line"&gt;filmempeg=`echo $filme | sed s/.avi/.mpeg/`;&lt;/div&gt;
+&lt;div class="line"&gt;echo &amp;quot;Convertendo $filme para $filmempeg&amp;quot;;&lt;/div&gt;
+&lt;div class="line"&gt;mencoder -oac lavc -ovc lavc -of mpeg -mpegopts format=dvd:tsaf -vf
 scale=720:480,harddup -srate 48000 -af lavcresample=48000 -lavcopts
 vcodec=mpeg2video:vrc_buf_size=1835:vrc_maxrate=9800:vbitrate=5000:keyint=18:vstrict=0:acodec=ac3:abitrate=192:aspect=4/3
--ofps 30000/1001 -o \$filmempeg \$filme&lt;br /&gt;
-done&lt;/p&gt;
+-ofps 30000/1001 -o $filmempeg $filme&lt;/div&gt;
+&lt;div class="line"&gt;done&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Esse script cria arquivos MPEG no formato NTSC com uma resolução de
 720x480, com 29,97 frames por segundo (30000/1001) e aspecto 4:3. Você
 pode alterar o script acima e ajustá-lo às duas necessidades. Basta
-consultar a tabela &lt;a href="http://www.mplayerhq.hu/DOCS/HTML-single/en/MPlayer.html#menc-feat-vcd-dvd" title="Tabela de formatos de DVD"&gt;Format
+consultar a tabela &lt;a class="reference external" href="http://www.mplayerhq.hu/DOCS/HTML-single/en/MPlayer.html#menc-feat-vcd-dvd"&gt;Format
 Constraints&lt;/a&gt;
 apresentada no site do Mplayer para obter mais informações e exemplos.
 Depois altere a linha do comando mencoder de acordo com o que você
@@ -321,7 +343,8 @@ precisar.&lt;/p&gt;
 RMVB tem uma taxa de frames váriavel, portanto prefira baixar filmes no
 formato AVI.&lt;/p&gt;
 &lt;p&gt;Espero ter ajudado.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Arquivos .3gp no Mplayer</title><link href="http://silvino.net/2008/05/17/arquivos-3gp-no-mplayer/" rel="alternate"></link><updated>2008-05-17T18:12:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/arquivos-3gp-no-mplayer/</id><summary type="html">&lt;p&gt;Hoje precisei copiar alguns vídeos do celular da minha cunhada. A gente
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Arquivos .3gp no Mplayer</title><link href="http://silvino.net/2008/05/17/arquivos-3gp-no-mplayer/" rel="alternate"></link><published>2008-05-17T18:12:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/arquivos-3gp-no-mplayer/</id><summary type="html">&lt;p&gt;Hoje precisei copiar alguns vídeos do celular da minha cunhada. A gente
 queria converter os vídeos e postar no Youtube. Todos os vídeos do
 celular estavam no formato 3gp e ao abrí-los no mplayer o vídeo foi
 reproduzido porém o som estava mudo. Decidi executar o mplayer pela
@@ -329,31 +352,30 @@ linha de comando para verificar as mensagens de erro e descobri que o
 mplayer não conseguia encontrar o codec libamr_nb e por isso não
 reproduzia o som.&lt;/p&gt;
 &lt;p&gt;Ao fazer um pesquisa no Google, descobri as peças que estavam faltando.&lt;/p&gt;
-&lt;p&gt;O formato de arquivo 3gp foi definido pelo grupo &lt;a href="http://www.3gpp.org/About/about.htm"&gt;3GPP - 3rd Generation
-Partnership Project&lt;/a&gt; que é composto
-por vários fabricantes da área de telecomunicações, afim de ditar os
-padrões a serem usados nos aparelhos de terceira geração, como os
-celulares GSM.&lt;/p&gt;
+&lt;p&gt;O formato de arquivo 3gp foi definido pelo grupo &lt;a class="reference external" href="http://www.3gpp.org/About/about.htm"&gt;3GPP - 3rd Generation
+Partnership Project&lt;/a&gt; que é
+composto por vários fabricantes da área de telecomunicações, afim de
+ditar os padrões a serem usados nos aparelhos de terceira geração, como
+os celulares GSM.&lt;/p&gt;
 &lt;p&gt;Para ativar o suporte à arquivos 3gp no mplayer dentro do Slackware, nós
 podemos usar os scripts disponíveis no site Slackbuilds.org. Você
 precisa baixar os arquivos referentes às bibliotecas
-&lt;a href="http://slackbuilds.org/repository/12.1/audio/amrnb/" title="Biblioteca amrnb"&gt;amrnb&lt;/a&gt;
-e
-&lt;a href="http://slackbuilds.org/repository/12.1/audio/amrwb/" title="Biblioteca amrwb"&gt;amrwb&lt;/a&gt;.
-Antes de executar o Slackbuild da biblioteca amrnb você deve baixar o
-arquivo
-&lt;a href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.104/26104-700.zip"&gt;26104-700.zip&lt;/a&gt;
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/audio/amrnb/"&gt;amrnb&lt;/a&gt; e
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/audio/amrwb/"&gt;amrwb&lt;/a&gt;. Antes
+de executar o Slackbuild da biblioteca amrnb você deve baixar o arquivo
+&lt;a class="reference external" href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.104/26104-700.zip"&gt;26104-700.zip&lt;/a&gt;
 no mesmo diretório do script Slackbuild. Já para a biblioteca amrwb você
 deve baixar o arquivo
-&lt;a href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.204/26204-700.zip"&gt;26204-700.zip&lt;/a&gt;
+&lt;a class="reference external" href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.204/26204-700.zip"&gt;26204-700.zip&lt;/a&gt;
 no mesmo diretório do Slackbuild antes de executar o script para a
 geração do pacote.&lt;/p&gt;
 &lt;p&gt;Depois que você instalar os pacotes para as bibliotecas amrnb e amrwb,
 você deve recompilar o mplayer para que ele detecte as novas bibliotecas
 e passe a usá-las. Para fazer isso você também pode usar Slackbuilds
-como expliquei no meu post &lt;a href="http://tdmsilvino.wordpress.com/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/"&gt;Mplayer no Slackware 12.1 com
+como expliquei no meu post &lt;a class="reference external" href="http://tdmsilvino.wordpress.com/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/"&gt;Mplayer no Slackware 12.1 com
 Slackbuilds&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Listando pacotes no Slackware</title><link href="http://silvino.net/2008/05/17/listando-pacotes-no-slackware/" rel="alternate"></link><updated>2008-05-17T13:56:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/listando-pacotes-no-slackware/</id><summary type="html">&lt;p&gt;Boa tarde.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Listando pacotes no Slackware</title><link href="http://silvino.net/2008/05/17/listando-pacotes-no-slackware/" rel="alternate"></link><published>2008-05-17T13:56:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/listando-pacotes-no-slackware/</id><summary type="html">&lt;p&gt;Boa tarde.&lt;/p&gt;
 &lt;p&gt;Todos os pacotes que são instalados no Slackware ficam guardados em
 /var/log/packages. Isso significa que sempre que você quiser saber se
 tem um determinado pacote instalado você deve listar o conteúdo do
@@ -361,127 +383,106 @@ diretório /var/log/packages e procurar pelo pacote desejado. Essa é a
 forma mais rápida, a outra forma de consultar os pacotes instalados é
 executar como root a ferramenta pkgtool e ir na opção view, então
 pkgtool listará todos os pacotes instalados.&lt;/p&gt;
-&lt;p&gt;Como eu já estava cansado de ficar executando o comando "ls
-/var/log/packages/pacotetal*" decidi criar um script que me ajudasse
+&lt;p&gt;Como eu já estava cansado de ficar executando o comando &amp;quot;ls
+/var/log/packages/pacotetal*&amp;quot; decidi criar um script que me ajudasse
 nessa tarefa. Eu queria algo bem simples, algo bem parecido com o
 comando ls. Então criei o script abaixo e o nomeei lspkg. Dá uma olhada
 no script:&lt;/p&gt;
-&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt; 1
- 2
- 3
- 4
- 5
- 6
- 7
- 8
- 9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c"&gt;#!/bin/bash&lt;/span&gt;
-&lt;span class="nb"&gt;cd&lt;/span&gt; /var/log/packages/
-&lt;span class="nv"&gt;package_list&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$*&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; sed s/&lt;span class="s2"&gt;&amp;quot; &amp;quot;&lt;/span&gt;/&lt;span class="s2"&gt;&amp;quot;* &amp;quot;&lt;/span&gt;/g &lt;span class="p"&gt;|&lt;/span&gt; sed s/&lt;span class="nv"&gt;$/&lt;/span&gt;&lt;span class="s2"&gt;$&amp;quot;*&amp;quot;&lt;/span&gt;/ &lt;span class="sb"&gt;`&lt;/span&gt;
-&lt;span class="k"&gt;for&lt;/span&gt; package in &lt;span class="nv"&gt;$package_list&lt;/span&gt; &lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
-    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt; -e &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;;&lt;/span&gt;
-    &lt;span class="k"&gt;then&lt;/span&gt;
-    &lt;span class="nv"&gt;number_of_fields&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; gawk -F &lt;span class="s2"&gt;&amp;quot;-&amp;quot;&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;{ split($0,fields); print length(fields) }&amp;#39;&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;
-        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt; &lt;span class="nv"&gt;$number_of_fields&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="m"&gt;5&lt;/span&gt; &lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;;&lt;/span&gt;
-        &lt;span class="k"&gt;then&lt;/span&gt;
-            &lt;span class="nv"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 1,2&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;version&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 3&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;arch&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 4&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;build&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 5&lt;span class="sb"&gt;`&lt;/span&gt;
-        &lt;span class="k"&gt;else&lt;/span&gt;
-            &lt;span class="nv"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 1&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;version&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 2&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;arch&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 3&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;build&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 4&lt;span class="sb"&gt;`&lt;/span&gt;
-        &lt;span class="k"&gt;fi&lt;/span&gt;
-            &lt;span class="nb"&gt;echo&lt;/span&gt; -e -n &lt;span class="s2"&gt;&amp;quot;Package: 33[1m&lt;/span&gt;&lt;span class="nv"&gt;$name33&lt;/span&gt;&lt;span class="s2"&gt;[0m - &amp;quot;&lt;/span&gt;
-            &lt;span class="nb"&gt;echo&lt;/span&gt; -n  &lt;span class="s2"&gt;&amp;quot;version: &lt;/span&gt;&lt;span class="nv"&gt;$version&lt;/span&gt;&lt;span class="s2"&gt; - &amp;quot;&lt;/span&gt;
-            &lt;span class="nb"&gt;echo&lt;/span&gt; -n &lt;span class="s2"&gt;&amp;quot;arch: &lt;/span&gt;&lt;span class="nv"&gt;$arch&lt;/span&gt;&lt;span class="s2"&gt; - &amp;quot;&lt;/span&gt;
-            &lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;build: &lt;/span&gt;&lt;span class="nv"&gt;$build&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;&lt;/span&gt;
-    &lt;span class="k"&gt;else&lt;/span&gt;
-        &lt;span class="nv"&gt;package_not_found&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; tr -d &lt;span class="s2"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;
-        &lt;span class="nb"&gt;echo&lt;/span&gt; -e &lt;span class="s2"&gt;&amp;quot;The package 33[1m&lt;/span&gt;&lt;span class="nv"&gt;$package_not_found&lt;/span&gt;&lt;span class="s2"&gt; was not found33[0m in your system.&amp;quot;&lt;/span&gt;
-    &lt;span class="k"&gt;fi&lt;/span&gt;
-&lt;span class="k"&gt;done&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
+&lt;pre class="literal-block"&gt;
+#!/bin/bash
+cd /var/log/packages/
+package_list=`echo $* | sed s/&amp;quot; &amp;quot;/&amp;quot;* &amp;quot;/g | sed s/$/$&amp;quot;*&amp;quot;/ `
+for package in $package_list ; do
+    if [ -e $package ] ;
+    then
+    number_of_fields=`echo $package | gawk -F &amp;quot;-&amp;quot; '{ split($0,fields); print length(fields) }'`
+        if [ $number_of_fields == 5 ] ;
+        then
+            name=`echo $package | cut -d - -f 1,2`
+            version=`echo $package | cut -d - -f 3`
+            arch=`echo $package | cut -d - -f 4`
+            build=`echo $package | cut -d - -f 5`
+        else
+            name=`echo $package | cut -d - -f 1`
+            version=`echo $package | cut -d - -f 2`
+            arch=`echo $package | cut -d - -f 3`
+            build=`echo $package | cut -d - -f 4`
+        fi
+            echo -e -n &amp;quot;Package: 33[1m$name33[0m - &amp;quot;
+            echo -n  &amp;quot;version: $version - &amp;quot;
+            echo -n &amp;quot;arch: $arch - &amp;quot;
+            echo &amp;quot;build: $build&amp;quot;
+    else
+        package_not_found=`echo $package | tr -d &amp;quot;*&amp;quot;`
+        echo -e &amp;quot;The package 33[1m$package_not_found was not found33[0m in your system.&amp;quot;
+    fi
+done
+&lt;/pre&gt;
 &lt;p&gt;Agora é só copiar esse código para um arquivo de texto e salvá-lo como
 lspkg, você também deve dar permissão de execução para esse arquivo e
 copiá-lo para /usr/bin.&lt;/p&gt;
 &lt;p&gt;Depois de fazer o procedimento acim, faça um teste. Veja o resultado
 quando executei na minha máquina:&lt;/p&gt;
-&lt;p&gt;bash-3.1\$ lspkg ruby bash pkgtoo teste&lt;br /&gt;
-Package: ruby - version: 1.8.6_p114 - arch: i486 - build: 1&lt;br /&gt;
-Package: bash - version: 3.1.017 - arch: i486 - build: 2&lt;br /&gt;
-Package: pkgtools - version: 12.1.0 - arch: noarch - build: 7&lt;br /&gt;
-The package teste was not found in your system.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;bash-3.1$ lspkg ruby bash pkgtoo teste&lt;/div&gt;
+&lt;div class="line"&gt;Package: ruby - version: 1.8.6_p114 - arch: i486 - build: 1&lt;/div&gt;
+&lt;div class="line"&gt;Package: bash - version: 3.1.017 - arch: i486 - build: 2&lt;/div&gt;
+&lt;div class="line"&gt;Package: pkgtools - version: 12.1.0 - arch: noarch - build: 7&lt;/div&gt;
+&lt;div class="line"&gt;The package teste was not found in your system.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Caso você tenha alguma sugestão para melhorar esse script faça o seu
 comentário.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Mplayer no Slackware 12.1 com Slackbuilds</title><link href="http://silvino.net/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/" rel="alternate"></link><updated>2008-05-11T15:17:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/mplayer-no-slackware-121-com-slackbuilds/</id><summary type="html">&lt;p&gt;Boa tarde pessoal.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Mplayer no Slackware 12.1 com Slackbuilds</title><link href="http://silvino.net/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/" rel="alternate"></link><published>2008-05-11T15:17:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/mplayer-no-slackware-121-com-slackbuilds/</id><summary type="html">&lt;p&gt;Boa tarde pessoal.&lt;/p&gt;
 &lt;p&gt;No meu último
-&lt;a href="http://tdmsilvino.wordpress.com/2008/05/11/usando-slackbuilds-no-slackware-121/" title="Slackbuilds no Slackare 12.1"&gt;post&lt;/a&gt;
+&lt;a class="reference external" href="http://tdmsilvino.wordpress.com/2008/05/11/usando-slackbuilds-no-slackware-121/"&gt;post&lt;/a&gt;
 eu expliquei como fazer a instalação de programas usando
-&lt;a href="http://slackbuilds.org" title="Página oficial do Slackbuilds"&gt;Slackbuilds&lt;/a&gt;.
-Como exemplo eu mostrei os passos para a instalação do emulador de
-terminal Yakuake, e é lógico que o procedimento se aplica para todos os
-demais Slackbuilds. Porém devemos tomar cuidados com as dependências.&lt;/p&gt;
+&lt;a class="reference external" href="http://slackbuilds.org"&gt;Slackbuilds&lt;/a&gt;. Como exemplo eu mostrei os
+passos para a instalação do emulador de terminal Yakuake, e é lógico que
+o procedimento se aplica para todos os demais Slackbuilds. Porém devemos
+tomar cuidados com as dependências.&lt;/p&gt;
 &lt;p&gt;Por exemplo, antes de instalar o Mplayer você de ter os pacotes do Lame,
 que é usado pelo mencoder para gerar audio em mp3, e da biblioteca
 Libdvdnav, que é usada ler DVDs e os codecs do Mplayer instalados
 previamente.&lt;/p&gt;
-&lt;p&gt;A seguir os links para os Slackbuilds:&lt;br /&gt;
-Lame: &lt;a href="http://slackbuilds.org/repository/12.1/libraries/lame/"&gt;http://slackbuilds.org/repository/12.1/libraries/lame/&lt;/a&gt;&lt;br /&gt;
-Libdvdnav:
-&lt;a href="http://slackbuilds.org/repository/12.1/libraries/libdvdnav/"&gt;http://slackbuilds.org/repository/12.1/libraries/libdvdnav/&lt;/a&gt;&lt;br /&gt;
-Todos os codecs para o Mplayer:
-&lt;a href="http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/"&gt;http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Em cada um dos links citados você deve executar os passos abaixo:&lt;br /&gt;
-1. Fazer o download do Slackbuild e descompactá-lo, isso criará um
-diretório com o nome do Slackbuild.&lt;br /&gt;
-2. Depois você deve fazer o download do código fonte compactado
-(Download Source) e salvá-lo dentro do diretório do Slackbuild.&lt;br /&gt;
-3. Abrir um terminal e entrar no diretório do Slackbuild (supondo que o
-diretório está no seu Desktop "&lt;strong&gt;cd
-\~/Desktop/&amp;lt;nome_do_slackbuild&amp;gt;&lt;/strong&gt;")&lt;br /&gt;
-4. Logar como root, com o comando "&lt;strong&gt;su root&lt;/strong&gt;"&lt;br /&gt;
-5. Executar o script do Slackbuild
-"&lt;strong&gt;./&amp;lt;nome_do_slackbuild&amp;gt;.Slackbuild&lt;/strong&gt;"&lt;br /&gt;
-6. Instalar o pacote criado no diretório /tmp, com o comando
-"&lt;strong&gt;installpkg /tmp/&amp;lt;nome_do_pacote&amp;gt;.tgz&lt;/strong&gt;"&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;A seguir os links para os Slackbuilds:&lt;/div&gt;
+&lt;div class="line"&gt;Lame: &lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/libraries/lame/"&gt;http://slackbuilds.org/repository/12.1/libraries/lame/&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Libdvdnav: &lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/libraries/libdvdnav/"&gt;http://slackbuilds.org/repository/12.1/libraries/libdvdnav/&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Todos os codecs para o Mplayer:
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/"&gt;http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Em cada um dos links citados você deve executar os passos abaixo:&lt;/div&gt;
+&lt;div class="line"&gt;1. Fazer o download do Slackbuild e descompactá-lo, isso criará um
+diretório com o nome do Slackbuild.&lt;/div&gt;
+&lt;div class="line"&gt;2. Depois você deve fazer o download do código fonte compactado
+(Download Source) e salvá-lo dentro do diretório do Slackbuild.&lt;/div&gt;
+&lt;div class="line"&gt;3. Abrir um terminal e entrar no diretório do Slackbuild (supondo que
+o diretório está no seu Desktop &amp;quot;&lt;strong&gt;cd
+~/Desktop/&amp;lt;nome_do_slackbuild&amp;gt;&lt;/strong&gt;&amp;quot;)&lt;/div&gt;
+&lt;div class="line"&gt;4. Logar como root, com o comando &amp;quot;&lt;strong&gt;su root&lt;/strong&gt;&amp;quot;&lt;/div&gt;
+&lt;div class="line"&gt;5. Executar o script do Slackbuild
+&amp;quot;&lt;strong&gt;./&amp;lt;nome_do_slackbuild&amp;gt;.Slackbuild&lt;/strong&gt;&amp;quot;&lt;/div&gt;
+&lt;div class="line"&gt;6. Instalar o pacote criado no diretório /tmp, com o comando
+&amp;quot;&lt;strong&gt;installpkg /tmp/&amp;lt;nome_do_pacote&amp;gt;.tgz&lt;/strong&gt;&amp;quot;&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Depois que esses três pacotes estiverem instalados, você pode instalar o
 Mplayer. O Slackbuild do Mplayer está no link
-&lt;a href="http://slackbuilds.org/repository/12.1/multimedia/MPlayer/"&gt;http://slackbuilds.org/repository/12.1/multimedia/MPlayer/&lt;/a&gt;. Você vai
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/multimedia/MPlayer/"&gt;http://slackbuilds.org/repository/12.1/multimedia/MPlayer/&lt;/a&gt;. Você vai
 usar o mesmo procedimento citado acima, a única diferença é que no
 segundo passo, além do código fonte compactado, você também deve fazer o
 download do skin no link
-&lt;a href="http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2"&gt;http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2&lt;/a&gt; e salvá-lo
-dentro do diretório do Slackbuild. Feito isso é só continuar.&lt;/p&gt;
+&lt;a class="reference external" href="http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2"&gt;http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2&lt;/a&gt; e salvá-lo dentro
+do diretório do Slackbuild. Feito isso é só continuar.&lt;/p&gt;
 &lt;p&gt;Depois que tudo for instalado você pode apagar os diretórios com os
 Slackbuilds pois eles não serão mais necessários.&lt;/p&gt;
 &lt;p&gt;Agora é só curtir.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Usando Slackbuilds no Slackware 12.1</title><link href="http://silvino.net/2008/05/11/usando-slackbuilds-no-slackware-121/" rel="alternate"></link><updated>2008-05-11T13:46:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/usando-slackbuilds-no-slackware-121/</id><summary type="html">&lt;p&gt;Boa tarde para todos!&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Usando Slackbuilds no Slackware 12.1</title><link href="http://silvino.net/2008/05/11/usando-slackbuilds-no-slackware-121/" rel="alternate"></link><published>2008-05-11T13:46:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/usando-slackbuilds-no-slackware-121/</id><summary type="html">&lt;p&gt;Boa tarde para todos!&lt;/p&gt;
 &lt;p&gt;Após atualizar o meu sistema para o Slackware 12.1 precisei instalar
 alguns programas como o Yakuake e o Mplayer. Fiz uma visita no
-&lt;a href="http://www.linuxpackages.net/search_view.php?orderby=p_date&amp;amp;advance=DESC&amp;amp;ver=12.1" title="Pacotes para o Slackware"&gt;linuxpackages.net&lt;/a&gt;
+&lt;a class="reference external" href="http://www.linuxpackages.net/search_view.php?orderby=p_date&amp;amp;advance=DESC&amp;amp;ver=12.1"&gt;linuxpackages.net&lt;/a&gt;
 e vi que por enquanto só temos 6 pacotes atualizados para o Slackware
 12.1. Isso faz sentido, pois os pacotes do linuxpackages são mantidos
 pela comunidade e nem todo mundo tem tempo livre pra ficar atualizando
@@ -490,46 +491,47 @@ hehehe).&lt;/p&gt;
 &lt;p&gt;Portanto a galera que quer instalar os programas deve partir para a
 instalação a partir do código fonte: baixar o fonte, descompactar, dar
 uma olhada nos arquivos README e INSTALL e finalmente compilar o
-programa usando os comandos "&lt;strong&gt;./configure --prefix=/usr &amp;amp;&amp;amp; make &amp;amp;&amp;amp; make
-install&lt;/strong&gt;".&lt;/p&gt;
-&lt;p&gt;Esses são os passos para instalar um programa direto do código fonte:&lt;br /&gt;
-1. Baixar o código fonte em /usr/src e descompactá-lo&lt;br /&gt;
-2. Entrar no diretório do código fonte e ler os arquivos README e
+programa usando os comandos &amp;quot;&lt;strong&gt;./configure --prefix=/usr &amp;amp;&amp;amp; make &amp;amp;&amp;amp; make
+install&lt;/strong&gt;&amp;quot;.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Esses são os passos para instalar um programa direto do código fonte:&lt;/div&gt;
+&lt;div class="line"&gt;1. Baixar o código fonte em /usr/src e descompactá-lo&lt;/div&gt;
+&lt;div class="line"&gt;2. Entrar no diretório do código fonte e ler os arquivos README e
 INSTALL para obter instruções detalhadas sobre a instalação do
-programa.&lt;br /&gt;
-3. Passar vários parâmetros para o comando configure, para ver a lista
+programa.&lt;/div&gt;
+&lt;div class="line"&gt;3. Passar vários parâmetros para o comando configure, para ver a lista
 completa execute &lt;strong&gt;./cofigure --help&lt;/strong&gt;. Se você não passar nenhum
 parâmetro para o comando configure, o seu programa será instalado em
-/usr/local e os arquivos serão divididos nos subdiretórios de /usr/local
-(por exemplo, os arquivos de configuração ficarão em /usr/local/etc).
-Para que isso não aconteça você deve passar no mínino as opções mais
-comuns ao comando configure, como no exemplo a seguir: &lt;strong&gt;./configure
---prefix=/usr --sysconfdir=/etc --localstatedir=/var&lt;/strong&gt;&lt;br /&gt;
-4. Depois de rodar o configure você deve executar o comando &lt;strong&gt;make&lt;/strong&gt;,
+/usr/local e os arquivos serão divididos nos subdiretórios de
+/usr/local (por exemplo, os arquivos de configuração ficarão em
+/usr/local/etc). Para que isso não aconteça você deve passar no mínino
+as opções mais comuns ao comando configure, como no exemplo a seguir:
+&lt;strong&gt;./configure --prefix=/usr --sysconfdir=/etc --localstatedir=/var&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;4. Depois de rodar o configure você deve executar o comando &lt;strong&gt;make&lt;/strong&gt;,
 para compilar o código fonte, e o &lt;strong&gt;make install&lt;/strong&gt;, para instalar o
 programa compilado. Ao invés de usar o make install você pode usar o
 comando &lt;strong&gt;checkinstall -S&lt;/strong&gt; para gerar um pacote do Slackware que será
 instalado pelo &lt;strong&gt;installpkg&lt;/strong&gt;. Obs: O checkinstall pode ser obtido em
-&lt;a href="http://www.asic-linux.com.mx/~izto/checkinstall/download.php"&gt;http://www.asic-linux.com.mx/~izto/checkinstall/download.php&lt;/a&gt;.&lt;br /&gt;
-5. Para desintalar um programa instalado com o comando &lt;strong&gt;make
+&lt;a class="reference external" href="http://www.asic-linux.com.mx/~izto/checkinstall/download.php"&gt;http://www.asic-linux.com.mx/~izto/checkinstall/download.php&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;5. Para desintalar um programa instalado com o comando &lt;strong&gt;make
 install&lt;/strong&gt;, você deve manter o diretório com o código fonte compilado e
-executar o comando &lt;strong&gt;make uninstall&lt;/strong&gt;.&lt;/p&gt;
+executar o comando &lt;strong&gt;make uninstall&lt;/strong&gt;.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Todo esse processo é muito complicado e cansativo, e se você esquecer de
 passar uma determinada opção para o comando configure, talvez o seu
 programa não funcionará como esperado.&lt;/p&gt;
 &lt;p&gt;Para automatizar o processo de geração de pacotes para o Slackware a
-comunidade criou o projeto
-&lt;a href="http://slackbuilds.org" title="Página oficial do Slackbuilds"&gt;Slackbuilds.org&lt;/a&gt;.
+comunidade criou o projeto &lt;a class="reference external" href="http://slackbuilds.org"&gt;Slackbuilds.org&lt;/a&gt;.
 Slackbuilds são scripts que contêm todos os passos necessários para a
 criação de um pacote. No final do processo o pacote será movido para o
 diretório /tmp para ser instalado no Slackware, usando o &lt;strong&gt;pkgtool&lt;/strong&gt;.
 Todos os pacotes oficiais do Slackware vêm com um Slackbuild incluído.&lt;/p&gt;
 &lt;p&gt;Vamos supor que você queira instalar o emulador de terminal
-&lt;a href="http://yakuake.kde.org" title="Emulador de terminal"&gt;Yakuake&lt;/a&gt; usando um
-script Slackbuild. Para isso você deve acessar o link
-&lt;a href="http://slackbuilds.org/repository/12.1/system/yakuake/"&gt;http://slackbuilds.org/repository/12.1/system/yakuake/&lt;/a&gt; e baixar o
-código fonte no link abaixo do título "Download Source" e o script de
-instalação no link abaixo do título "Download Slackbuild".&lt;/p&gt;
+&lt;a class="reference external" href="http://yakuake.kde.org"&gt;Yakuake&lt;/a&gt; usando um script Slackbuild. Para
+isso você deve acessar o link
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/system/yakuake/"&gt;http://slackbuilds.org/repository/12.1/system/yakuake/&lt;/a&gt; e baixar o código
+fonte no link abaixo do título &amp;quot;Download Source&amp;quot; e o script de
+instalação no link abaixo do título &amp;quot;Download Slackbuild&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Agora você deve descompactar o arquivo do Slackbuild, nesse caso
 yakuake.tar.gz, fazendo isso será criado um diretório chamado yakuake,
 mova o arquivo do código fonte para dentro do diretório yakuake. Agora
@@ -543,7 +545,8 @@ pronto o yakuake está pronto para usar.&lt;/p&gt;
 &lt;p&gt;Usando um script do slackbuilds.org você pode gerar os seus próprios
 pacotes sem passar por todas as complicações que o processo manual
 causaria.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Visão geral do Slackware 12.1</title><link href="http://silvino.net/2008/05/09/visao-geral-do-slackware-121/" rel="alternate"></link><updated>2008-05-09T14:54:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-09:2008/05/09/visao-geral-do-slackware-121/</id><summary type="html">&lt;p&gt;Na semana passada fiz a instalação da última versão do Slackware e vou
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Visão geral do Slackware 12.1</title><link href="http://silvino.net/2008/05/09/visao-geral-do-slackware-121/" rel="alternate"></link><published>2008-05-09T14:54:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-09:2008/05/09/visao-geral-do-slackware-121/</id><summary type="html">&lt;p&gt;Na semana passada fiz a instalação da última versão do Slackware e vou
 dar uma visão geral do Slackware 12.1.&lt;/p&gt;
 &lt;p&gt;O processo de instalação não mudou. Você inicializa a máquina com um CD
 ou DVD, escolhe um kernel, usa o cfdisk criar as partições, roda o
@@ -580,34 +583,38 @@ wireless, interpretadores para muitas linguages de script (Ruby
 1.8.6_p114, Python 2.5.2, Perl 5.8.8, TCL 8.4.18), Apache 2.2.8 e muito
 mais.&lt;/p&gt;
 &lt;p&gt;Slacware 12.1 é o que há!&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Slackware 12.1 - Lançamento oficial</title><link href="http://silvino.net/2008/05/02/slackware-121-lancamento-oficial/" rel="alternate"></link><updated>2008-05-02T20:20:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-02:2008/05/02/slackware-121-lancamento-oficial/</id><summary type="html">&lt;p&gt;Boa noite a todos.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Slackware 12.1 - Lançamento oficial</title><link href="http://silvino.net/2008/05/02/slackware-121-lancamento-oficial/" rel="alternate"></link><published>2008-05-02T20:20:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-02:2008/05/02/slackware-121-lancamento-oficial/</id><summary type="html">&lt;p&gt;Boa noite a todos.&lt;/p&gt;
 &lt;p&gt;Trago boas novas para o mundo open source, o Slackware 12.1 foi lançado!
-Vistem a homepage do &lt;a href="http://slackware.com" title="Slackware"&gt;Slackware&lt;/a&gt; e
-façam o download da imagem do sistema que já foi liberada.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;Quinta&lt;/span&gt; &lt;span class="nv"&gt;Mai&lt;/span&gt;  &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="mi"&gt;13&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;36&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;34&lt;/span&gt; &lt;span class="nv"&gt;CDT&lt;/span&gt; &lt;span class="mi"&gt;2008&lt;/span&gt;
-&lt;span class="nv"&gt;O&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.1&lt;/span&gt; &lt;span class="s-Atom"&gt;foi&lt;/span&gt; &lt;span class="s-Atom"&gt;lançado&lt;/span&gt; &lt;span class="s-Atom"&gt;como&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="s-Atom"&gt;stable&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="p"&gt;:-)&lt;/span&gt;  &lt;span class="nv"&gt;De&lt;/span&gt; &lt;span class="s-Atom"&gt;novo&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;muitíssimo&lt;/span&gt; &lt;span class="s-Atom"&gt;obrigado&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;todo&lt;/span&gt; &lt;span class="s-Atom"&gt;mundo&lt;/span&gt;
-&lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;deixou&lt;/span&gt; &lt;span class="s-Atom"&gt;sua&lt;/span&gt; &lt;span class="s-Atom"&gt;marca&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;ajudou&lt;/span&gt; &lt;span class="s-Atom"&gt;com&lt;/span&gt; &lt;span class="s-Atom"&gt;relatório&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;bugs&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;patches&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;testes&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;sugestões&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-&lt;span class="s-Atom"&gt;outros&lt;/span&gt; &lt;span class="s-Atom"&gt;comentários&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;tudo&lt;/span&gt; &lt;span class="s-Atom"&gt;mais&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;Sem&lt;/span&gt; &lt;span class="s-Atom"&gt;essa&lt;/span&gt; &lt;span class="s-Atom"&gt;ajuda&lt;/span&gt; &lt;span class="s-Atom"&gt;valiosa&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt;
-&lt;span class="s-Atom"&gt;não&lt;/span&gt; &lt;span class="s-Atom"&gt;estaria&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;forma&lt;/span&gt; &lt;span class="s-Atom"&gt;alguma&lt;/span&gt; &lt;span class="s-Atom"&gt;perto&lt;/span&gt; &lt;span class="s-Atom"&gt;do&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;ele&lt;/span&gt; &lt;span class="s-Atom"&gt;é&lt;/span&gt; &lt;span class="s-Atom"&gt;hoje&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;Um&lt;/span&gt; &lt;span class="s-Atom"&gt;agradecimento&lt;/span&gt; &lt;span class="s-Atom"&gt;especial&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;a&lt;/span&gt; &lt;span class="nv"&gt;MASSA&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; 
-&lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="s-Atom"&gt;povo&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;está&lt;/span&gt; &lt;span class="s-Atom"&gt;desenvolvendo&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;testando&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="s-Atom"&gt;slackbuilds&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;org&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s-Atom"&gt;onde&lt;/span&gt; &lt;span class="s-Atom"&gt;primeiramente&lt;/span&gt; &lt;span class="s-Atom"&gt;muitas&lt;/span&gt;
-&lt;span class="s-Atom"&gt;das&lt;/span&gt; &lt;span class="s-Atom"&gt;futuras&lt;/span&gt; &lt;span class="s-Atom"&gt;adições&lt;/span&gt; &lt;span class="s-Atom"&gt;do&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="s-Atom"&gt;são&lt;/span&gt;  &lt;span class="s-Atom"&gt;compiladas&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;testadas&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;todo&lt;/span&gt; &lt;span class="s-Atom"&gt;mundo&lt;/span&gt; &lt;span class="s-Atom"&gt;no&lt;/span&gt;
-&lt;span class="s-Atom"&gt;linuxquestions&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="s-Atom"&gt;org&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;nos&lt;/span&gt; &lt;span class="s-Atom"&gt;vários&lt;/span&gt; &lt;span class="s-Atom"&gt;canais&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="nv"&gt;IRC&lt;/span&gt; &lt;span class="s-Atom"&gt;#slackware&lt;/span&gt; &lt;span class="s-Atom"&gt;ou&lt;/span&gt; &lt;span class="s-Atom"&gt;##slackware&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;ou&lt;/span&gt; &lt;span class="s-Atom"&gt;em&lt;/span&gt; &lt;span class="s-Atom"&gt;outros&lt;/span&gt;
-&lt;span class="s-Atom"&gt;web&lt;/span&gt; &lt;span class="s-Atom"&gt;sites&lt;/span&gt; &lt;span class="s-Atom"&gt;relacionados&lt;/span&gt; &lt;span class="s-Atom"&gt;ao&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;outros&lt;/span&gt; &lt;span class="s-Atom"&gt;lugares&lt;/span&gt; &lt;span class="s-Atom"&gt;onde&lt;/span&gt; &lt;span class="s-Atom"&gt;a&lt;/span&gt; &lt;span class="s-Atom"&gt;comunidade&lt;/span&gt; &lt;span class="s-Atom"&gt;compartilha&lt;/span&gt; &lt;span class="s-Atom"&gt;suas&lt;/span&gt;
-&lt;span class="s-Atom"&gt;necessidades&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;considerações&lt;/span&gt; &lt;span class="s-Atom"&gt;com&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="s-Atom"&gt;nosso&lt;/span&gt; &lt;span class="s-Atom"&gt;time&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;E&lt;/span&gt; &lt;span class="s-Atom"&gt;da&lt;/span&gt; &lt;span class="s-Atom"&gt;parte&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;todo&lt;/span&gt; &lt;span class="s-Atom"&gt;mundo&lt;/span&gt; &lt;span class="s-Atom"&gt;aqui&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;obrigado&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;span class="nv"&gt;Nós&lt;/span&gt; &lt;span class="s-Atom"&gt;achamos&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;você&lt;/span&gt; &lt;span class="s-Atom"&gt;vai&lt;/span&gt; &lt;span class="s-Atom"&gt;curtir&lt;/span&gt; &lt;span class="s-Atom"&gt;esse&lt;/span&gt; &lt;span class="s-Atom"&gt;novo&lt;/span&gt; &lt;span class="s-Atom"&gt;lançamento&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;esperamos&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;você&lt;/span&gt; &lt;span class="s-Atom"&gt;descobrirá&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;essa&lt;/span&gt;
-&lt;span class="s-Atom"&gt;versão&lt;/span&gt; &lt;span class="s-Atom"&gt;é&lt;/span&gt; &lt;span class="s-Atom"&gt;muito&lt;/span&gt; &lt;span class="s-Atom"&gt;mais&lt;/span&gt; &lt;span class="s-Atom"&gt;do&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="mf"&gt;0.1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;é&lt;/span&gt; &lt;span class="s-Atom"&gt;bem&lt;/span&gt; &lt;span class="s-Atom"&gt;melhor&lt;/span&gt; &lt;span class="s-Atom"&gt;do&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.0&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="s-Atom"&gt;-&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="nv"&gt;Divirtam&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="s-Atom"&gt;se&lt;/span&gt;&lt;span class="p"&gt;!&lt;/span&gt;  &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;P&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;O que mais podemos fazer, senão seguir o conselho do Patrick e se
-divertir?&lt;br /&gt;
-Valeu Patrick, obrigado a você e a toda comunidade Linux!&lt;br /&gt;
-Obs: estou começando o download agora mesmo!&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Slackware 12.1 rc4 - estamos quase lá!</title><link href="http://silvino.net/2008/05/01/slackware-121-rc4-estamos-quase-la/" rel="alternate"></link><updated>2008-05-01T10:05:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-01:2008/05/01/slackware-121-rc4-estamos-quase-la/</id><summary type="html">&lt;p&gt;Ontem a noite tivemos mais atividade no -current. O Patrick lançou o
+Vistem a homepage do &lt;a class="reference external" href="http://slackware.com"&gt;Slackware&lt;/a&gt; e façam o
+download da imagem do sistema que já foi liberada.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Quinta Mai  1 13:36:34 CDT 2008
+O Slackware 12.1 foi lançado como -stable.  :-)  De novo, muitíssimo obrigado para todo mundo
+que deixou sua marca e ajudou com relatório de bugs, patches, testes, sugestões,
+outros comentários, e tudo mais.  Sem essa ajuda valiosa, o Slackware
+não estaria de forma alguma perto do que ele é hoje.  Um agradecimento especial para a MASSA,
+para o povo que está desenvolvendo e testando para o slackbuilds.org (onde primeiramente muitas
+das futuras adições do Slackware são  compiladas e testadas), e para todo mundo no
+linuxquestions.org, nos vários canais de IRC #slackware ou ##slackware, ou em outros
+web sites relacionados ao Slackware, e outros lugares onde a comunidade compartilha suas
+necessidades e considerações com o nosso time.  E da parte de todo mundo aqui, obrigado.
+Nós achamos que você vai curtir esse novo lançamento, e esperamos que você descobrirá que essa
+versão é muito mais do que 0.1, é bem melhor do que o Slackware 12.0.  ;-)
+Divirtam-se!  -P.
+&lt;/pre&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O que mais podemos fazer, senão seguir o conselho do Patrick e se
+divertir?&lt;/div&gt;
+&lt;div class="line"&gt;Valeu Patrick, obrigado a você e a toda comunidade Linux!&lt;/div&gt;
+&lt;div class="line"&gt;Obs: estou começando o download agora mesmo!&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[]'s&lt;/p&gt;
+</summary></entry><entry><title>Slackware 12.1 rc4 - estamos quase lá!</title><link href="http://silvino.net/2008/05/01/slackware-121-rc4-estamos-quase-la/" rel="alternate"></link><published>2008-05-01T10:05:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-01:2008/05/01/slackware-121-rc4-estamos-quase-la/</id><summary type="html">&lt;p&gt;Ontem a noite tivemos mais atividade no -current. O Patrick lançou o
 Slackware 12.1 rc4 devido à um patch de segurança que foi aplicado no
 kernel 2.6.24.5, segue a tradução:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Quarta Abr 30 20:36:48 CDT 2008
+&lt;pre class="literal-block"&gt;
+Quarta Abr 30 20:36:48 CDT 2008
 12.1 RC4.  Nós acreditamos que este deve ser o último.
 a/kernel-generic-2.6.24.5-i486-2.tgz:  Patch aplicado para corrigir um problema de segurança
  em fs/dnotify.c.  O uso do dnotify (largamente substituido por inotify nos sistemas 2.6.x)
@@ -618,156 +625,165 @@ o mais rápido possível.  O patch pode ser encontrado em source/k/linux-2.6.24.
 Para informações adicionais (quando o candidato CVE estiver aberto), veja:
     http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-1375
  Todos os pacotes do kernel listados abaixo também devem ser considerados correções de segurança.
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Todos os pacotes relativos ao kernel foram atulizados com o patch de
+&lt;/pre&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Todos os pacotes relativos ao kernel foram atulizados com o patch de
 segurança e recompilados, de quebra o Patrick atualizou o programa
-slackpkg do &lt;a href="http://stoa.usp.br/piterpk/profile/" title="Piter Punk"&gt;Piter
-Punk&lt;/a&gt;.&lt;br /&gt;
-Leia o changelog no endereço
-&lt;a href="ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt"&gt;ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt&lt;/a&gt;&lt;br /&gt;
-Até mais!&lt;/p&gt;</summary></entry><entry><title>O Slackware 12.1 está chegando</title><link href="http://silvino.net/2008/04/29/o-slackware-121-esta-chegando/" rel="alternate"></link><updated>2008-04-29T09:09:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-29:2008/04/29/o-slackware-121-esta-chegando/</id><summary type="html">&lt;p&gt;Durante as últimas semanas estive acompanhando o changelog do Slackware
+slackpkg do &lt;a class="reference external" href="http://stoa.usp.br/piterpk/profile/"&gt;Piter Punk&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;Leia o changelog no endereço
+&lt;a class="reference external" href="ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt"&gt;ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Até mais!&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>O Slackware 12.1 está chegando</title><link href="http://silvino.net/2008/04/29/o-slackware-121-esta-chegando/" rel="alternate"></link><published>2008-04-29T09:09:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-29:2008/04/29/o-slackware-121-esta-chegando/</id><summary type="html">&lt;p&gt;Durante as últimas semanas estive acompanhando o changelog do Slackware
 e vejam só, temos boas notícias.&lt;/p&gt;
 &lt;p&gt;No início do mês o Patrick Volkerding já tinha anunciado que estávamos
 próximos da versão final do Slackware 12.1&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;Quinta&lt;/span&gt; &lt;span class="nv"&gt;Abr&lt;/span&gt;  &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="mi"&gt;01&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;16&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt; &lt;span class="nv"&gt;CDT&lt;/span&gt; &lt;span class="mi"&gt;2008&lt;/span&gt;
-&lt;span class="nv"&gt;OK&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;vamos&lt;/span&gt; &lt;span class="s-Atom"&gt;chamar&lt;/span&gt; &lt;span class="s-Atom"&gt;isso&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.1&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="s-Atom"&gt;rc1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;no&lt;/span&gt; &lt;span class="s-Atom"&gt;entanto&lt;/span&gt; &lt;span class="s-Atom"&gt;há&lt;/span&gt; &lt;span class="s-Atom"&gt;ainda&lt;/span&gt; &lt;span class="s-Atom"&gt;algum&lt;/span&gt; &lt;span class="s-Atom"&gt;pequeno&lt;/span&gt; &lt;span class="s-Atom"&gt;trabalho&lt;/span&gt;
-&lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;ser&lt;/span&gt; &lt;span class="s-Atom"&gt;feito&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;Por&lt;/span&gt; &lt;span class="s-Atom"&gt;favor&lt;/span&gt; &lt;span class="s-Atom"&gt;ajuem&lt;/span&gt; &lt;span class="s-Atom"&gt;a&lt;/span&gt; &lt;span class="s-Atom"&gt;testar&lt;/span&gt;&lt;span class="p"&gt;!&lt;/span&gt; &lt;span class="nv"&gt;E&lt;/span&gt; &lt;span class="s-Atom"&gt;se&lt;/span&gt; &lt;span class="s-Atom"&gt;nós&lt;/span&gt; &lt;span class="s-Atom"&gt;perdemos&lt;/span&gt; &lt;span class="s-Atom"&gt;alguma&lt;/span&gt; &lt;span class="s-Atom"&gt;coisa&lt;/span&gt; &lt;span class="s-Atom"&gt;grande&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-&lt;span class="s-Atom"&gt;por&lt;/span&gt; &lt;span class="s-Atom"&gt;favor&lt;/span&gt; &lt;span class="s-Atom"&gt;me&lt;/span&gt; &lt;span class="s-Atom"&gt;deixe&lt;/span&gt; &lt;span class="s-Atom"&gt;saber&lt;/span&gt; &lt;span class="s-Atom"&gt;em&lt;/span&gt; &lt;span class="s-Atom"&gt;volkerdi@slackware&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="s-Atom"&gt;com&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;Obrigado&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="p"&gt;:-)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre class="literal-block"&gt;
+Quinta Abr  3 01:16:15 CDT 2008
+OK, vamos chamar isso de Slackware 12.1-rc1, no entanto há ainda algum pequeno trabalho
+para ser feito.  Por favor ajuem a testar! E se nós perdemos alguma coisa grande,
+por favor me deixe saber em volkerdi&amp;#64;slackware.com.  Obrigado.  :-)
+&lt;/pre&gt;
 &lt;p&gt;No decorrer do mês vimos muita atividade no -current incluindo o upgrade
 do kernel para a versão 2.6.24.5. Então na semana passada mais notícias
 vindas do Patrick:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;Segunda&lt;/span&gt; &lt;span class="nv"&gt;Abr&lt;/span&gt; &lt;span class="mi"&gt;21&lt;/span&gt; &lt;span class="mi"&gt;16&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;47&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt; &lt;span class="nv"&gt;CDT&lt;/span&gt; &lt;span class="mi"&gt;2008&lt;/span&gt;
-&lt;span class="nv"&gt;Nós&lt;/span&gt; &lt;span class="s-Atom"&gt;alcançamos&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.1&lt;/span&gt; &lt;span class="nv"&gt;RC2&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="p"&gt;:-)&lt;/span&gt;  &lt;span class="nv"&gt;Nós&lt;/span&gt; &lt;span class="s-Atom"&gt;estamos&lt;/span&gt; &lt;span class="s-Atom"&gt;além&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt;
-&lt;span class="s-Atom"&gt;atulizar&lt;/span&gt; &lt;span class="s-Atom"&gt;pacotes&lt;/span&gt; &lt;span class="s-Atom"&gt;ou&lt;/span&gt; &lt;span class="s-Atom"&gt;corrigir&lt;/span&gt; &lt;span class="s-Atom"&gt;pequenos&lt;/span&gt; &lt;span class="s-Atom"&gt;bugs&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;comética&lt;/span&gt; &lt;span class="s-Atom"&gt;neste&lt;/span&gt; &lt;span class="nf"&gt;ponto&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s-Atom"&gt;na&lt;/span&gt; &lt;span class="s-Atom"&gt;verdade&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;nós&lt;/span&gt;
-&lt;span class="s-Atom"&gt;esperamos&lt;/span&gt; &lt;span class="s-Atom"&gt;ter&lt;/span&gt; &lt;span class="s-Atom"&gt;passado&lt;/span&gt; &lt;span class="s-Atom"&gt;isso&lt;/span&gt; &lt;span class="s-Atom"&gt;com&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;RC1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;mas&lt;/span&gt; &lt;span class="s-Atom"&gt;ainda&lt;/span&gt; &lt;span class="s-Atom"&gt;há&lt;/span&gt; &lt;span class="s-Atom"&gt;alguns&lt;/span&gt; &lt;span class="s-Atom"&gt;itens&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;precisam&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;atenção&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;
-&lt;span class="nv"&gt;O&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;nós&lt;/span&gt; &lt;span class="s-Atom"&gt;temos&lt;/span&gt; &lt;span class="s-Atom"&gt;aqui&lt;/span&gt; &lt;span class="s-Atom"&gt;agora&lt;/span&gt; &lt;span class="s-Atom"&gt;tem&lt;/span&gt; &lt;span class="s-Atom"&gt;provado&lt;/span&gt; &lt;span class="s-Atom"&gt;ser&lt;/span&gt; &lt;span class="s-Atom"&gt;estável&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;os&lt;/span&gt; &lt;span class="s-Atom"&gt;nossos&lt;/span&gt; &lt;span class="s-Atom"&gt;testers&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-&lt;span class="s-Atom"&gt;portanto&lt;/span&gt; &lt;span class="s-Atom"&gt;a&lt;/span&gt; &lt;span class="s-Atom"&gt;não&lt;/span&gt; &lt;span class="s-Atom"&gt;ser&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;alguns&lt;/span&gt; &lt;span class="s-Atom"&gt;problemas&lt;/span&gt; &lt;span class="s-Atom"&gt;reais&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;possam&lt;/span&gt; &lt;span class="s-Atom"&gt;parar&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="s-Atom"&gt;show&lt;/span&gt; &lt;span class="s-Atom"&gt;sejam&lt;/span&gt; &lt;span class="s-Atom"&gt;encontrados&lt;/span&gt;
-&lt;span class="s-Atom"&gt;nós&lt;/span&gt; &lt;span class="s-Atom"&gt;lançaremos&lt;/span&gt; &lt;span class="s-Atom"&gt;este&lt;/span&gt; &lt;span class="s-Atom"&gt;como&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.1&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="s-Atom"&gt;final&lt;/span&gt; &lt;span class="s-Atom"&gt;em&lt;/span&gt; &lt;span class="s-Atom"&gt;breve&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre class="literal-block"&gt;
+Segunda Abr 21 16:47:32 CDT 2008
+Nós alcançamos o Slackware 12.1 RC2.  :-)  Nós estamos além de
+atulizar pacotes ou corrigir pequenos bugs de comética neste ponto (na verdade, nós
+esperamos ter passado isso com o RC1, mas ainda há alguns itens que precisam de atenção).
+O que nós temos aqui agora tem provado ser estável para os nossos testers,
+portanto a não ser que alguns problemas reais que possam parar o show sejam encontrados
+nós lançaremos este como o Slackware 12.1-final em breve.
+&lt;/pre&gt;
 &lt;p&gt;Depois disso vimos atualizações nos pacotes wireless-tools, initrd, jdk
 e aaa_base e mais uma frase do Patrick:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Quarta Abr 23 19:42:28 CDT 2008
+&lt;pre class="literal-block"&gt;
+Quarta Abr 23 19:42:28 CDT 2008
 Ainda não está completo, mas está chegando perto.
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;/pre&gt;
 &lt;p&gt;Uma semana se passou e vemos mais atividade no -current, incluindo
 atualizações de segurança nas bibliotecas do KDE, no initrd, na
 biblioteca libpng e mais algumas pequenas alterações. E então temos a
 última notícia.:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Segunda Abr 28 23:43:55 CDT 2008
+&lt;pre class="literal-block"&gt;
+Segunda Abr 28 23:43:55 CDT 2008
 Vamos chamar esse de Slackware 12.1 RC3, e congelar a árvore para qualquer coisa que não for crítica.
 As coisas parecem muito estáveis, então provavelmente isso é uma boa idéia salvar qualquer atualizações
 e adiciões até que o -current reinicie.
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;/pre&gt;
 &lt;p&gt;É isso ai pessoal, estamos quase lá.&lt;/p&gt;
 &lt;p&gt;Obs: Todas as frases do Patrick foram traduzidas diretamente do
 changelog que pode ser encontrado na íntegra em
-ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt,
+&lt;a class="reference external" href="ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt"&gt;ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt&lt;/a&gt;,
 caso você encontre algum erro de tradução, por favor me avise.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>FOX Toolkit e FXRuby no Slackware</title><link href="http://silvino.net/2008/04/28/fox-toolkit-e-fxruby-no-slackware/" rel="alternate"></link><updated>2008-04-28T22:57:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/fox-toolkit-e-fxruby-no-slackware/</id><summary type="html">&lt;p&gt;O FOX é um toolkit baseado no C++ para desenvolvimento de aplicações
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>FOX Toolkit e FXRuby no Slackware</title><link href="http://silvino.net/2008/04/28/fox-toolkit-e-fxruby-no-slackware/" rel="alternate"></link><published>2008-04-28T22:57:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/fox-toolkit-e-fxruby-no-slackware/</id><summary type="html">&lt;p&gt;O FOX é um toolkit baseado no C++ para desenvolvimento de aplicações
 gráficas (também conhecidas como GUIs) de forma fácil e eficaz. O FOX
 oferece uma coleção vasta e crescente de controles e provê muitas
 facilidades como arrastar e soltar (drag and drop), seleções e também
-widgets do OpenGL para manipulação de gráficos 3D.&lt;br /&gt;
-O FOX também implementa ícones, imagens, e itens de conveniência para o
-usuário como ajuda e dicas (tooltips). Tooltips podem ser usadas em
-objetos 3D.&lt;/p&gt;
-&lt;p&gt;Para mais detalhes visitem a homepage no endereço
-http://www.fox-toolkit.org/&lt;/p&gt;
-&lt;p&gt;Esse toolkit tem ligações (bindings) para várias linguagens. Para
-programar em Python use FXPy, em Eiffel use EiffelFox e para programar
-em Ruby use FXRuby.&lt;/p&gt;
+widgets do Opções (bindings) para várias linguagens. Para programar em
+Python use FXPy, em Eiffel use EiffelFox e para programar em Ruby use
+FXRuby.&lt;/p&gt;
 &lt;p&gt;Existem alguns projetos grandes usando FXRuby, entre eles o
-&lt;a href="http://freeride.rubyforge.org/" title="IDE para Ruby"&gt;FreeRIDE&lt;/a&gt; que abordei
-no &lt;a href="http://tdmsilvino.wordpress.com/2008/04/28/usando-o-freeride-no-linux/" title="Usando o FreeRIDE no Linux"&gt;post
+&lt;a class="reference external" href="http://freeride.rubyforge.org/"&gt;FreeRIDE&lt;/a&gt; que abordei no &lt;a class="reference external" href="http://tdmsilvino.wordpress.com/2008/04/28/usando-o-freeride-no-linux/"&gt;post
 anterior&lt;/a&gt;,
-o gerenciador de banco de dados
-&lt;a href="http://www.insula.cz/dbtalk" title="Gerenciador de banco de dados"&gt;DbTalk&lt;/a&gt; e
-o gerenciador de projetos
-&lt;a href="http://www.mondrian-ide.com/" title="Gerenciador de projetos"&gt;Mondrian&lt;/a&gt;. Veja
-mais detalhes na homepage http://www.fxruby.org/.&lt;/p&gt;
+o gerenciador de banco de dados &lt;a class="reference external" href="http://www.insula.cz/dbtalk"&gt;DbTalk&lt;/a&gt;
+e o gerenciador de projetos &lt;a class="reference external" href="http://www.mondrian-ide.com/"&gt;Mondrian&lt;/a&gt;.
+Veja mais detalhes na homepage &lt;a class="reference external" href="http://www.fxruby.org/"&gt;http://www.fxruby.org/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Se você usa o Slackware 12 e quer instalar o FOX, você pode baixar o
 pacote
-&lt;a href="http://fotoleitura.com/downloads/fox-1.6.32-i486-1tdm.tgz" title="Pacote para Slackware 12.0"&gt;fox-1.6.32-i486-1tdm.tgz&lt;/a&gt;.
+&lt;a class="reference external" href="http://fotoleitura.com/downloads/fox-1.6.32-i486-1tdm.tgz"&gt;fox-1.6.32-i486-1tdm.tgz&lt;/a&gt;.
 Se você não usa o Slackware você deve pesquisar no repositório da sua
 distro preferida ou baixar o código fonte e compilar usando o famoso
-trio "./configure &amp;amp;&amp;amp; make &amp;amp;&amp;amp; make install". Obs: não deixe de executar
+trio &amp;quot;./configure &amp;amp;&amp;amp; make &amp;amp;&amp;amp; make install&amp;quot;. Obs: não deixe de executar
 ./configure --help para ver quais opções você vai querer ativar.&lt;/p&gt;
 &lt;p&gt;Depois de instalar o FOX você deve instalar o FXRuby usando o comando
 gem.&lt;/p&gt;
-&lt;p&gt;\$ su root&lt;br /&gt;
-# gem install fxruby&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;$ su root&lt;/div&gt;
+&lt;div class="line"&gt;# gem install fxruby&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Veja os exemploes em de código em
 /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/&lt;/p&gt;
-&lt;p&gt;\$ ls -m /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/&lt;br /&gt;
-babelfish.rb, bounce.rb, browser.rb, button.rb, custom_table_item.rb,
-datatarget.rb, dctest.rb, dialog.rb, dilbert.rb, dirlist.rb,
-dragdrop.rb, dragsource.rb, dropsite.rb, foursplit.rb, gltest.rb,
-glviewer.rb, groupbox.rb, header.rb, hello2.rb, hello.rb, iconlist.rb,
-icons, image.rb, imageviewer.rb, inputs.rb, iRAA.rb, mditest.rb, pig.rb,
-raabrowser.rb, RAA.rb, ratio.rb, README, rulerview.rb,
-scintilla-test.rb, scribble-orig.rb, scribble.rb, shutter.rb,
-splitter.rb, styledtext.rb, tabbook.rb, table.rb, textedit, unicode.rb&lt;br /&gt;
-\$ ruby /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/hello.rb&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;$ ls -m /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/&lt;/div&gt;
+&lt;div class="line"&gt;babelfish.rb, bounce.rb, browser.rb, button.rb,
+custom_table_item.rb, datatarget.rb, dctest.rb, dialog.rb,
+dilbert.rb, dirlist.rb, dragdrop.rb, dragsource.rb, dropsite.rb,
+foursplit.rb, gltest.rb, glviewer.rb, groupbox.rb, header.rb,
+hello2.rb, hello.rb, iconlist.rb, icons, image.rb, imageviewer.rb,
+inputs.rb, iRAA.rb, mditest.rb, pig.rb, raabrowser.rb, RAA.rb,
+ratio.rb, README, rulerview.rb, scintilla-test.rb, scribble-orig.rb,
+scribble.rb, shutter.rb, splitter.rb, styledtext.rb, tabbook.rb,
+table.rb, textedit, unicode.rb&lt;/div&gt;
+&lt;div class="line"&gt;$ ruby /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/hello.rb&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Pronto agora você pode se divertir fazendo programas multiplataformas
 usando FXRuby. Quem quiser ir a fundo no assunto pode até comprar o
-livro do FXRuby http://www.pragprog.com/titles/fxruby.&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Usando o FreeRIDE no Linux</title><link href="http://silvino.net/2008/04/28/usando-o-freeride-no-linux/" rel="alternate"></link><updated>2008-04-28T22:19:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/usando-o-freeride-no-linux/</id><summary type="html">&lt;p&gt;O FreeRIDE (Free Ruby Integrated Development Environment) é um ambiente
-integrado para desenvolvimento em Ruby, ele foi desenvolvido usando o
-FxRuby, ou seja, uma versão do  Fox Toolkit para Ruby.&lt;br /&gt;
-O FreeRIDE inclui um interpretador Ruby, um navedor para documentação
-do Ruby (conhecido como RI ou Ruby Doc).&lt;br /&gt;
-Para instalar o FreeRIDE no Linux você deve fazer o download do arquivo
-freeride-linux-installer-0.9.6.sh no link a seguir 
-http://rubyforge.org/frs/download.php/10933/freeride-linux-installer-0.9.6.sh&lt;br /&gt;
-Para fazer a instalação você deve dar permissão de execução para o
-arquivo e executá-lo como root:&lt;/p&gt;
-&lt;p&gt;\$ chmod a+x freeride-linux-installer-0.9.6.sh&lt;br /&gt;
-\$ su root&lt;br /&gt;
-# ./freeride-linux-installer-0.9.6.sh&lt;/p&gt;
+livro do FXRuby &lt;a class="reference external" href="http://www.pragprog.com/titles/fxruby"&gt;http://www.pragprog.com/titles/fxruby&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[]'s&lt;/p&gt;
+</summary></entry><entry><title>Usando o FreeRIDE no Linux</title><link href="http://silvino.net/2008/04/28/usando-o-freeride-no-linux/" rel="alternate"></link><published>2008-04-28T22:19:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/usando-o-freeride-no-linux/</id><summary type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O FreeRIDE (Free Ruby Integrated Development Environment) é um
+ambiente integrado para desenvolvimento em Ruby, ele foi desenvolvido
+usando o FxRuby, ou seja, uma versão do&amp;nbsp; Fox Toolkit para Ruby.&lt;/div&gt;
+&lt;div class="line"&gt;O FreeRIDE inclui um interpretador Ruby, um navedor para documentação
+do Ruby (conhecido como RI ou Ruby Doc).&lt;/div&gt;
+&lt;div class="line"&gt;Para instalar o FreeRIDE no Linux você deve fazer o download do
+arquivo freeride-linux-installer-0.9.6.sh no link a seguir
+&lt;a class="reference external" href="http://rubyforge.org/frs/download.php/10933/freeride-linux-installer-0.9.6.sh"&gt;http://rubyforge.org/frs/download.php/10933/freeride-linux-installer-0.9.6.sh&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Para fazer a instalação você deve dar permissão de execução para o
+arquivo e executá-lo como root:&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;$ chmod a+x freeride-linux-installer-0.9.6.sh&lt;/div&gt;
+&lt;div class="line"&gt;$ su root&lt;/div&gt;
+&lt;div class="line"&gt;# ./freeride-linux-installer-0.9.6.sh&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Você será perguntado em qual diretório o FreeRIDE deve ser instalado, o
 ideal é instalar o FreeRIDE no diretório padrão. Veja a tela abaixo:&lt;/p&gt;
-&lt;p&gt;FreeRIDE  - starting installation...&lt;/p&gt;
-&lt;h2&gt;IMPORTANT NOTE&lt;/h2&gt;
-&lt;p&gt;FreeRIDE must be installed in /usr/local/FreeRIDE.&lt;br /&gt;
-If you want to install it elsewhere a symbolic link will&lt;br /&gt;
-be created from /usr/local/FreeRIDE to the chosen location&lt;/p&gt;
-&lt;p&gt;Choose where to install FreeRIDE [/usr/local] :&lt;br /&gt;
-Installing FreeRIDE. Please wait...&lt;/p&gt;
+&lt;p&gt;FreeRIDE&amp;nbsp; - starting installation...&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;IMPORTANT NOTE&lt;/div&gt;
+&lt;div class="line"&gt;--------------&lt;/div&gt;
+&lt;div class="line"&gt;FreeRIDE must be installed in /usr/local/FreeRIDE.&lt;/div&gt;
+&lt;div class="line"&gt;If you want to install it elsewhere a symbolic link will&lt;/div&gt;
+&lt;div class="line"&gt;be created from /usr/local/FreeRIDE to the chosen location&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Choose where to install FreeRIDE [/usr/local] :&lt;/div&gt;
+&lt;div class="line"&gt;Installing FreeRIDE. Please wait...&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;--------------------- MANIFEST ---------------------&lt;/p&gt;
-&lt;p&gt;This is version 0.9.6 of FreeRIDE, the Ruby integrated&lt;br /&gt;
-development environment.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;This is version 0.9.6 of FreeRIDE, the Ruby integrated&lt;/div&gt;
+&lt;div class="line"&gt;development environment.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;This version is built with the following components:&lt;/p&gt;
-&lt;p&gt;Ruby               1.8.4&lt;br /&gt;
-Fox Toolkit        1.2.16&lt;br /&gt;
-Fox Scintilla      1.62&lt;br /&gt;
-FXRuby             1.2.6&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;FreeRIDE succesfully installed.&lt;br /&gt;
-Start FreeRIDE with '/usr/local/FreeRIDE/freeride'&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Ruby&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.8.4&lt;/div&gt;
+&lt;div class="line"&gt;Fox Toolkit&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.2.16&lt;/div&gt;
+&lt;div class="line"&gt;Fox Scintilla&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.62&lt;/div&gt;
+&lt;div class="line"&gt;FXRuby&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.2.6&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;----------------------------------------------------&lt;/div&gt;
+&lt;div class="line"&gt;FreeRIDE succesfully installed.&lt;/div&gt;
+&lt;div class="line"&gt;Start FreeRIDE with '/usr/local/FreeRIDE/freeride'&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Agora basta executar o FreeRIDE, no KDE pressione ALT+F2 e aponte para o
 caminho do executável /usr/local/FreeRIDE/freeride&lt;/p&gt;
 &lt;p&gt;Pronto, agora você pode programar em Ruby usando uma interface gráfica.&lt;/p&gt;
 &lt;p&gt;Obs: O projeto do FreeRIDE foi interrompido na versão 0.9.6, os donos do
 projeto decidiram reescrever o FreeRIDE usando outro toolkit chamado
 wxRuby, que usa wxWidgets. Veja o link
-http://freeride.rubyforge.org/wiki/wiki.pl?FreeRIDE_Future. Para
-acompanhar o desenvolvimento visite o site http://wxride.ruby-im.net/.&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Instalando o mplayer no Slackware</title><link href="http://silvino.net/2008/04/18/instalando-o-mplayer-no-slackware/" rel="alternate"></link><updated>2008-04-18T00:07:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-18:2008/04/18/instalando-o-mplayer-no-slackware/</id><summary type="html">&lt;p&gt;Ontem eu peguei alguns filmes em rmvb e o xine nÃ£o exibia os filmes por
+&lt;a class="reference external" href="http://freeride.rubyforge.org/wiki/wiki.pl?FreeRIDE_Future"&gt;http://freeride.rubyforge.org/wiki/wiki.pl?FreeRIDE_Future&lt;/a&gt;. Para
+acompanhar o desenvolvimento visite o site &lt;a class="reference external" href="http://wxride.ruby-im.net/"&gt;http://wxride.ruby-im.net/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[]'s&lt;/p&gt;
+</summary></entry><entry><title>Instalando o mplayer no Slackware</title><link href="http://silvino.net/2008/04/18/instalando-o-mplayer-no-slackware/" rel="alternate"></link><published>2008-04-18T00:07:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-18:2008/04/18/instalando-o-mplayer-no-slackware/</id><summary type="html">&lt;p&gt;Ontem eu peguei alguns filmes em rmvb e o xine nÃ£o exibia os filmes por
 causa da falta de plugins (os melhores codecs de multimedia estÃ£o
 presentes no pacote de codecs do mplayer). EntÃ£o ao invÃ©s de instalar
-apenas os plugins eu decidi instalar o
-&lt;a href="http://mplayerhq.hu" title="Mplayer - mÃdia player completo para Linux"&gt;mplayer&lt;/a&gt;
+apenas os plugins eu decidi instalar o &lt;a class="reference external" href="http://mplayerhq.hu"&gt;mplayer&lt;/a&gt;
 completo e usufruir de todos os seus recursos (junto com o mplayer vÃªm
 um aplicativo chamado mencoder que pode ser usado para ripar DVD's)&lt;/p&gt;
 &lt;p&gt;A forma mais fÃ¡cil de instalar o mplayer Ã© pegar os pacotes jÃ¡
@@ -775,50 +791,55 @@ preparados para o Slackware no site linuxpackages.net&lt;/p&gt;
 &lt;p&gt;Primeiro tive que baixar o mplayer e os codecs:
 mplayer-1.0rc2try4-i486-1kjz.tgz e
 mplayer-codecs-20071007-noarch-1szl.tgz&lt;/p&gt;
-&lt;p&gt;Mas como tudo na vida nem sempre Ã© fÃ¡cil, tive que baixar as
-depÃªncias:&lt;br /&gt;
-a52dec-0.7.4-i486-1kjz.tgz, faac-1.25-i486-1gds.tgz,
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Mas como tudo na vida nem sempre Ã© fÃ¡cil, tive que baixar as
+depÃªncias:&lt;/div&gt;
+&lt;div class="line"&gt;a52dec-0.7.4-i486-1kjz.tgz, faac-1.25-i486-1gds.tgz,
 faad2-2.5-i486-1gds.tgz, ffmpeg-20071007-i486-1kjz.tgz,
 jack-0.109.2-i486-1mfb.tgz, lame-3.97-i486-1kjz.tgz,
 libdv-1.0.0-i486-1gds.tgz, libmpcdec-1.2.6-i486-1gds.tgz,
 speex-1.2beta2-i486-1kjz.tgz, twolame-0.3.12-i486-1kjz.tgz,
-x264-20070914-i486-1kjz.tgz, xvidcore-1.1.3-i486-1kjz.tgz&lt;/p&gt;
+x264-20070914-i486-1kjz.tgz, xvidcore-1.1.3-i486-1kjz.tgz&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Depois de tudo isso ... vou assistir os filmes. hehehehe&lt;/p&gt;
-&lt;p&gt;Boa noite!&lt;/p&gt;</summary></entry><entry><title>Usando o SciTE para programar em Ruby</title><link href="http://silvino.net/2008/04/17/usando-o-scite-para-programar-em-ruby/" rel="alternate"></link><updated>2008-04-17T23:18:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-17:2008/04/17/usando-o-scite-para-programar-em-ruby/</id><summary type="html">&lt;p&gt;Nessa última semana estive procurando algumas ferramentas gráficas para
+&lt;p&gt;Boa noite!&lt;/p&gt;
+</summary></entry><entry><title>Usando o SciTE para programar em Ruby</title><link href="http://silvino.net/2008/04/17/usando-o-scite-para-programar-em-ruby/" rel="alternate"></link><published>2008-04-17T23:18:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-17:2008/04/17/usando-o-scite-para-programar-em-ruby/</id><summary type="html">&lt;p&gt;Nessa última semana estive procurando algumas ferramentas gráficas para
 programar em Ruby. Hoje eu acabei de testar o
-&lt;a href="http://scintilla.sourceforge.net/SciTE.html" title="Editor de textos SciTE"&gt;SciTE&lt;/a&gt;.
-O SciTE foi criado para demonstrar o poder de um componente de edição de
-textos chamado
-&lt;a href="http://scintilla.sourceforge.net/" title="Componente programável de edição de textos"&gt;Scintilla&lt;/a&gt;.
-Usando o Scintilla você pode criar editores de textos e que podem ser
-usados para editar o código fonte de programas e chamar compiladores e
-depuradores externos. O SciTE ficou tão bom que decidiram dar
-continuidade ao seu desenvolvimento e ele deixou de ser um programa de
-demonstração e se tornou um editor completo com suporte à várias
-linguagens, entre elas C/C++, D, C#, Java, PHP e Ruby.&lt;/p&gt;
+&lt;a class="reference external" href="http://scintilla.sourceforge.net/SciTE.html"&gt;SciTE&lt;/a&gt;. O SciTE foi
+criado para demonstrar o poder de um componente de edição de textos
+chamado &lt;a class="reference external" href="http://scintilla.sourceforge.net/"&gt;Scintilla&lt;/a&gt;. Usando o
+Scintilla você pode criar editores de textos e que podem ser usados para
+editar o código fonte de programas e chamar compiladores e depuradores
+externos. O SciTE ficou tão bom que decidiram dar continuidade ao seu
+desenvolvimento e ele deixou de ser um programa de demonstração e se
+tornou um editor completo com suporte à várias linguagens, entre elas
+C/C++, D, C#, Java, PHP e Ruby.&lt;/p&gt;
 &lt;p&gt;Quer testar o programa? Baixe o executável já compilado para Linux no
 link abaixo (o único pré-requisito é ter uma versão do GTK+ igual ou
 superior à 2.8 na sua máquina)&lt;/p&gt;
-&lt;p&gt;http://prdownloads.sourceforge.net/scintilla/gscite176.tgz?download&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://prdownloads.sourceforge.net/scintilla/gscite176.tgz?download"&gt;http://prdownloads.sourceforge.net/scintilla/gscite176.tgz?download&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Assim que terminar o download, você deve descompactar o arquivo
 gscite176.tgz; a partir desse ponto o programa já está pronto para
 rodar, mas muitas funções não estarão funcionando. Para usar todos os
 recursos do programa você deve fazer o seguinte:&lt;/p&gt;
-&lt;p&gt;1. Entre no diretório descompactado e copie o executavél SciTE para o
-diretório /usr/bin (cd gscite; cp SciTE /usr/bin)&lt;br /&gt;
-2. Crie um diretório /usr/share/scite e copie todos os arquivos com a
-extenção properties para lá (cp *.properties /usr/share/scite)&lt;br /&gt;
-3. Copie o arquivo Sci48M.png para o diretório /usr/share/pixmaps (cp
-Sci48M.png /usr/share/pixmaps)&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;1. Entre no diretório descompactado e copie o executavél SciTE para o
+diretório /usr/bin (cd gscite; cp SciTE /usr/bin)&lt;/div&gt;
+&lt;div class="line"&gt;2. Crie um diretório /usr/share/scite e copie todos os arquivos com a
+extenção properties para lá (cp *.properties /usr/share/scite)&lt;/div&gt;
+&lt;div class="line"&gt;3. Copie o arquivo Sci48M.png para o diretório /usr/share/pixmaps (cp
+Sci48M.png /usr/share/pixmaps)&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Opicional: Se você quiser ainda pode baixar a tradução do SciTE para
 Português Brasileiro no endereço a seguir
-http://groups.google.com/group/scite-interest/web/locale.pt_BR.properties.
+&lt;a class="reference external" href="http://groups.google.com/group/scite-interest/web/locale.pt_BR.properties"&gt;http://groups.google.com/group/scite-interest/web/locale.pt_BR.properties&lt;/a&gt;.
 Basta copiar o arquivo de tradução para o diretório /usr/share/scite com
 o nome locale.properties (cp locale.pt_BR.properties
 /usr/share/scite/locale.properties) e reiniciar a aplicação.&lt;/p&gt;
 &lt;p&gt;Pronto agora sim você pode testar o programa a vontade. Pressione ALT+F2
 e execute o comando SciTE.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Ruby sem Rails - parte 2</title><link href="http://silvino.net/2008/04/04/ruby-sem-rails-2/" rel="alternate"></link><updated>2008-04-04T14:52:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-04:2008/04/04/ruby-sem-rails-2/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Usando mod_ruby, eruby e erubis no Slackware&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Ruby sem Rails - parte 2</title><link href="http://silvino.net/2008/04/04/ruby-sem-rails-2/" rel="alternate"></link><published>2008-04-04T14:52:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-04:2008/04/04/ruby-sem-rails-2/</id><summary type="html">&lt;p&gt;&lt;strong&gt;*Usando mod_ruby, eruby e erubis no Slackware*&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;O mod_ruby é um módulo que permite que o Apache execute de forma nativa
 os scripts feitos em Ruby. Depois de instalar o mod_ruby você deve
 escolher qual será o seu gerador de templates, usando um gerador de
@@ -828,13 +849,14 @@ na distribuição padrão do Ruby ou pode usar o eRuby que foi escrito em C
 para ganho de desempenho. Caso você queira usar o eRuby você precisa
 instalar ele na sua máquina.&lt;/p&gt;
 &lt;p&gt;O código fonte do mod_ruby e do eruby podem ser encontrados no site
-http://modruby.net/, mas se você quer facilidade basta baixar os dois
-pacotes &lt;a href="http://fotoleitura.com/downloads/eruby-1.0.5-i486-1tdm.tgz"&gt;&lt;/a&gt;
-que fiz para o Slackware 12 e instalar no seu sistema.&lt;/p&gt;
+&lt;a class="reference external" href="http://modruby.net/"&gt;http://modruby.net/&lt;/a&gt;, mas se você quer facilidade basta baixar os dois
+pacotes
+` &amp;lt;&lt;a class="reference external" href="http://fotoleitura.com/downloads/eruby-1.0.5-i486-1tdm.tgz"&gt;http://fotoleitura.com/downloads/eruby-1.0.5-i486-1tdm.tgz&lt;/a&gt;&amp;gt;`__ que
+fiz para o Slackware 12 e instalar no seu sistema.&lt;/p&gt;
 &lt;p&gt;Baixe os pacotes
-&lt;a href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/mod_ruby/mod_ruby-1.2.6-i486-1tdm.tgz" title="mod_ruby no linuxpackages.net"&gt;mod_ruby-1.2.6&lt;/a&gt;
+&lt;a class="reference external" href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/mod_ruby/mod_ruby-1.2.6-i486-1tdm.tgz"&gt;mod_ruby-1.2.6&lt;/a&gt;
 e
-&lt;a href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/eRuby/eruby-1.0.5-i486-1tdm.tgz" title="eruby no linuxpackages.net"&gt;eruby-1.0.5&lt;/a&gt;.
+&lt;a class="reference external" href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/eRuby/eruby-1.0.5-i486-1tdm.tgz"&gt;eruby-1.0.5&lt;/a&gt;.
 Depois use a ferramente installpkg para instalar no Slackware.&lt;/p&gt;
 &lt;p&gt;Depois de instalar o mod_ruby e o eruby na sua máquina, você pode
 instalar também o erubis. O erubis é um gerador de templates,
@@ -845,35 +867,39 @@ ainda é 10% mais rápido do que o eRuby, tem suporte à várias linguagens
 templates com arquivos YAML, para usar arquivos de contexto e tem
 suporte à Ruby on Rails.&lt;/p&gt;
 &lt;p&gt;Para instalar o erubis você deve baixar os pacotes abstract e erubis do
-site http://rubyforge.net e executar os comandos abaixo como root:&lt;/p&gt;
-&lt;p&gt;\$ tar xjf abstract_1.0.0.tar.bz2&lt;br /&gt;
-\$ cd abstract_1.0.0/&lt;br /&gt;
-\$ su root&lt;br /&gt;
-# ruby setup.rb&lt;br /&gt;
-# exit&lt;br /&gt;
-\$ cd ..&lt;br /&gt;
-\$ tar xjf erubis-2.5.0.tar.bz2&lt;br /&gt;
-\$ cd erubis-2.5.0/&lt;br /&gt;
-# su root&lt;br /&gt;
-# ruby setup.rb&lt;br /&gt;
-\$ cp contrib/erubis-run /usr/lib/ruby/1.8/apache&lt;/p&gt;
+site &lt;a class="reference external" href="http://rubyforge.net"&gt;http://rubyforge.net&lt;/a&gt; e executar os comandos abaixo como root:&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;$ tar xjf abstract_1.0.0.tar.bz2&lt;/div&gt;
+&lt;div class="line"&gt;$ cd abstract_1.0.0/&lt;/div&gt;
+&lt;div class="line"&gt;$ su root&lt;/div&gt;
+&lt;div class="line"&gt;# ruby setup.rb&lt;/div&gt;
+&lt;div class="line"&gt;# exit&lt;/div&gt;
+&lt;div class="line"&gt;$ cd ..&lt;/div&gt;
+&lt;div class="line"&gt;$ tar xjf erubis-2.5.0.tar.bz2&lt;/div&gt;
+&lt;div class="line"&gt;$ cd erubis-2.5.0/&lt;/div&gt;
+&lt;div class="line"&gt;# su root&lt;/div&gt;
+&lt;div class="line"&gt;# ruby setup.rb&lt;/div&gt;
+&lt;div class="line"&gt;$ cp contrib/erubis-run /usr/lib/ruby/1.8/apache&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Agora vamos configurar a integração com o Apache.&lt;/p&gt;
 &lt;p&gt;Inclua as linhas abaixo no seu arquivo /etc/httpd/httpd.conf e salve o
 arquivo.&lt;/p&gt;
-&lt;p&gt;LoadModule ruby_module lib/httpd/modules/mod_ruby.so&lt;br /&gt;
-&amp;lt;IfModule mod_ruby.c&amp;gt;&lt;br /&gt;
-RubyRequire apache/ruby-run&lt;br /&gt;
-RubyRequire apache/eruby-run&lt;br /&gt;
-RubyRequire apache/erubis-run&lt;br /&gt;
-&amp;lt;Location /erubis&amp;gt;&lt;br /&gt;
-SetHandler ruby-object&lt;br /&gt;
-RubyHandler Apache::ErubisRun.instance&lt;br /&gt;
-&amp;lt;/Location&amp;gt;&lt;br /&gt;
-&amp;lt;Files *.rhtml&amp;gt;&lt;br /&gt;
-SetHandler ruby-object&lt;br /&gt;
-RubyHandler Apache::ErubisRun.instance&lt;br /&gt;
-&amp;lt;/Files&amp;gt;&lt;br /&gt;
-&amp;lt;/IfModule&amp;gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;LoadModule ruby_module lib/httpd/modules/mod_ruby.so&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;IfModule mod_ruby.c&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;RubyRequire apache/ruby-run&lt;/div&gt;
+&lt;div class="line"&gt;RubyRequire apache/eruby-run&lt;/div&gt;
+&lt;div class="line"&gt;RubyRequire apache/erubis-run&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;Location /erubis&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;SetHandler ruby-object&lt;/div&gt;
+&lt;div class="line"&gt;RubyHandler Apache::ErubisRun.instance&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/Location&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;Files *.rhtml&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;SetHandler ruby-object&lt;/div&gt;
+&lt;div class="line"&gt;RubyHandler Apache::ErubisRun.instance&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/Files&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/IfModule&amp;gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Depois disso faça com que o usuário apache seja o dono do diretório onde
 as páginas web estarão.&lt;/p&gt;
 &lt;p&gt;chown -R apache:apache /var/www&lt;/p&gt;
@@ -885,21 +911,22 @@ dentro da pasta /var/www/htdocs&lt;/p&gt;
 /var/www/htdocs/example.rhtml&lt;/p&gt;
 &lt;p&gt;Agora abra o arquivo example.rhtml no navegador.&lt;/p&gt;
 &lt;p&gt;Pronto, agora você está rodando Ruby sem Rails!&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Ruby sem Rails</title><link href="http://silvino.net/2008/03/20/ruby-sem-rails-1/" rel="alternate"></link><updated>2008-03-20T19:47:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-03-20:2008/03/20/ruby-sem-rails-1/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;O Ruby e o Rails&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Ruby sem Rails</title><link href="http://silvino.net/2008/03/20/ruby-sem-rails-1/" rel="alternate"></link><published>2008-03-20T19:47:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-03-20:2008/03/20/ruby-sem-rails-1/</id><summary type="html">&lt;p&gt;&lt;strong&gt;*O Ruby e o Rails*&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Na semana passada comecei a estudar a linguagem
-&lt;a href="http://ruby-lang.org/"&gt;Ruby&lt;/a&gt;. Li alguns tutoriais e fiquei muito
+&lt;a class="reference external" href="http://ruby-lang.org/"&gt;Ruby&lt;/a&gt;. Li alguns tutoriais e fiquei muito
 empolgado com a facilidade de uso e com o método de programação. A
 linguagem Ruby é muito flexivel, nela quase tudo é tratado como um
 objeto. Se você não acredita e quer ver com seus próprios olhos, dê uma
 olhada no shell interativo do tutorial
-&lt;a href="http://tryruby.hobix.com/%20"&gt;TryRuby&lt;/a&gt; (em inglês) ou instale o Ruby na
-sua máquina e siga o tutorial &lt;a href="http://www.ruby-lang.org/pt/documentacao/ruby-em-vinte-minutos/"&gt;Ruby em Vinte
+&lt;a class="reference external" href="http://tryruby.hobix.com/%20"&gt;TryRuby&lt;/a&gt; (em inglês) ou instale o Ruby
+na sua máquina e siga o tutorial &lt;a class="reference external" href="http://www.ruby-lang.org/pt/documentacao/ruby-em-vinte-minutos/"&gt;Ruby em Vinte
 Minutos&lt;/a&gt;
 (bom e velho Português do Brasil!).&lt;/p&gt;
 &lt;p&gt;Aprendi trabalhar com variáveis, fazer loops, criar classes, blocos,
-etc., porém foi muito difícil encontrar um bom tutorial que me
+etc., porém&amp;nbsp;foi muito difícil&amp;nbsp;encontrar um bom tutorial que me
 explicasse como usar a liguagem Ruby para gerar páginas dinâmicas, sem
-usar o framework &lt;a href="http://rubyonrails.org/"&gt;Rails&lt;/a&gt;. Tudo o que eu
+usar o framework &lt;a class="reference external" href="http://rubyonrails.org/"&gt;Rails&lt;/a&gt;. Tudo o que eu
 procurava na web me levava ao Rails. Acredito que isso faz muitas
 pessoas desistirem de continuar estudando a linguagem.&lt;/p&gt;
 &lt;p&gt;Quero deixar claro que não tenho nada contra o Rails. O Rails é um ótimo
@@ -915,12 +942,12 @@ linguagem Ruby antes de partir para Rails.&lt;/p&gt;
 muitas dúvidas sobre Ruby você não será produtivo e pode acabar se
 confundindo. Por outro lado, se as suas dúvidas quanto a linguagem forem
 sanadas, você realmente alcançará a produtividade desejada.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;O Ruby sem o Rails&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;*O Ruby sem o Rails*&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Antes de sair procurando na web decidi entar no diretório de instalação
 do Ruby para revirar o código fonte de alguns scripts e ver se
 encontrava algo que me apontasse o caminho das pedras. Abri o meu
 terminal e fiz aquela pergunta que todo bom usuário do Slackware faz
-"whereis ruby", uma das respostas apontava para "/usr/lib/ruby/" entrei
+&amp;quot;whereis ruby&amp;quot;, uma das respostas apontava para &amp;quot;/usr/lib/ruby/&amp;quot; entrei
 nesse diretório e encontrei os scripts do Ruby 1.8, alguns minutos
 depois cheguei ao arquivo erb.rb (outro ponto forte do Ruby, todo script
 vem com muita documentação incluída em seu código fonte).&lt;/p&gt;
@@ -928,18 +955,20 @@ vem com muita documentação incluída em seu código fonte).&lt;/p&gt;
 embutir o Ruby dentro de arquivos de texto, xml e até mesmo arquivos
 HTML. Todo código Ruby que for incluido dentro de tags &amp;lt;% %&amp;gt; será
 executado como um script Ruby.&lt;/p&gt;
-&lt;p&gt;No fim da documentação encontrei o que estava procurando, segue a
-tradução:&lt;br /&gt;
-# Há uma variedade de soluções para geração de templates disponíveis
-em vários projetos feitos em Ruby:&lt;br /&gt;
-# * O grande irmão do ERB, eRuby, trabalha da mesma forma mas é
-escrito em C para performance;&lt;br /&gt;
-# * Amrita (bom para produzirHTML/XML);&lt;br /&gt;
-# * cs/Template (C para performance);&lt;br /&gt;
-# * RDoc, distribuído com Ruby, usa o seu próprio motor para gerar
-templates, o qual pode ser usado em qualquer lugar;&lt;br /&gt;
-# * e outros; faça uma busca no RAA.&lt;br /&gt;
-# Rails, o framework para aplicações web, usa ERB para criar views.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;No fim da documentação encontrei o que estava procurando, segue a
+tradução:&lt;/div&gt;
+&lt;div class="line"&gt;# Há uma variedade de soluções para geração de templates disponíveis
+em vários projetos feitos em Ruby:&lt;/div&gt;
+&lt;div class="line"&gt;# * O grande irmão do ERB, eRuby, trabalha da mesma forma mas é
+escrito em C para performance;&lt;/div&gt;
+&lt;div class="line"&gt;# * Amrita (bom para produzirHTML/XML);&lt;/div&gt;
+&lt;div class="line"&gt;# * cs/Template (C para performance);&lt;/div&gt;
+&lt;div class="line"&gt;# * RDoc, distribuído com Ruby, usa o seu próprio motor para gerar
+templates, o qual pode ser usado em qualquer lugar;&lt;/div&gt;
+&lt;div class="line"&gt;# * e outros; faça uma busca no RAA.&lt;/div&gt;
+&lt;div class="line"&gt;# Rails, o framework para aplicações web, usa ERB para criar views.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Isso era tudo o que eu precisava saber. Apartir disso começei a
 pesquisar na web sobre ERB e eRuby.&lt;/p&gt;
 &lt;p&gt;O eRuby pode executar o código Ruby incluido dentro de páginas HTML e em
@@ -948,23 +977,25 @@ dinâmicas escritas em Ruby (essas páginas levam a extensão .rhtml). Para
 trabalhar com sessões e recuperar dados de formulários do HTML pelo
 método POST, você deve criar um objeto CGI dentro do código Ruby e esse
 objeto fará o trabalho pesado para você. No tutorial de Ruby do
-&lt;a href="http://www.eustaquiorangel.com/downloads/tutorialruby.pdf"&gt;Eustáquio
-Rangel&lt;/a&gt; você
-encontra um exemplo de uso do objeto CGI.&lt;/p&gt;
-&lt;p&gt;Consulte o site do &lt;a href="http://modruby.net/en/"&gt;mod_ruby&lt;/a&gt; para pegar o
+&lt;a class="reference external" href="http://www.eustaquiorangel.com/downloads/tutorialruby.pdf"&gt;Eustáquio
+Rangel&lt;/a&gt;
+você encontra um exemplo de uso do objeto CGI.&lt;/p&gt;
+&lt;p&gt;Consulte o site do &lt;a class="reference external" href="http://modruby.net/en/"&gt;mod_ruby&lt;/a&gt; para pegar o
 código fonte dos e fazer a integração com o Apache.&lt;/p&gt;
 &lt;p&gt;No próximo post vou explicar a integração com o Apache e fornecer os
 pacotes para instalação no Slackware.&lt;/p&gt;
 &lt;p&gt;Vou ficando por aqui.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>irb(main):001:0&gt; print "Hello world!"</title><link href="http://silvino.net/2008/03/11/hello-world-2/" rel="alternate"></link><updated>2008-03-11T16:39:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-03-11:2008/03/11/hello-world-2/</id><summary type="html">&lt;p&gt;É isso ai pessoal, eu sou Thiago Silvino e esse é o meu blog pessoal.
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>irb(main):001:0&gt; print "Hello world!"</title><link href="http://silvino.net/2008/03/11/hello-world-2/" rel="alternate"></link><published>2008-03-11T16:39:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-03-11:2008/03/11/hello-world-2/</id><summary type="html">&lt;p&gt;É isso ai pessoal, eu sou Thiago Silvino e esse é o meu blog pessoal.
 Vamos usar esse espaçao para compartilhar informações sobre software
 livre, Linux, redes de computadores e programação. Vamos falar muito
 sobre o mundo open source, seus aspectos e desafios.&lt;/p&gt;
 &lt;p&gt;Eu faço parte do projeto de tradução do Slackbook para português do
 Brasil. Quer saber mais sobre o sistema Slackware Linux? Visite o site
-&lt;a href="http://slackbookptbr.sf.net/"&gt;http://slackbookptbr.sf.net&lt;/a&gt;, leia o
+&lt;a class="reference external" href="http://slackbookptbr.sf.net/"&gt;http://slackbookptbr.sf.net&lt;/a&gt;, leia o
 livro e saiba tudo sobre o sistema Slackware.&lt;/p&gt;
 &lt;p&gt;Estamos iniciando o processo de atualização do livro, precisamos de mais
 colaboradores, caso queira participar da nossa equipe se inscreva na
-lista &lt;a href="http://groups.google.com/group/slackbookptbr"&gt;http://groups.google.com/group/slackbookptbr&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary><category term="linux"></category></entry></feed>
+lista &lt;a class="reference external" href="http://groups.google.com/group/slackbookptbr"&gt;http://groups.google.com/group/slackbookptbr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary><category term="linux"></category></entry></feed>

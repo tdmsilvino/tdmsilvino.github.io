@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2009-08-28T12:05:00-03:00</updated><entry><title>Slackware 13</title><link href="http://silvino.net/2009/08/28/slackware-13/" rel="alternate"></link><updated>2009-08-28T12:05:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2009-08-28:2009/08/28/slackware-13/</id><summary type="html">&lt;p&gt;Acabei de ler o changelog no site slackware.com e temos uma novidade: O
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2009-08-28T12:05:00-03:00</updated><entry><title>Slackware 13</title><link href="http://silvino.net/2009/08/28/slackware-13/" rel="alternate"></link><published>2009-08-28T12:05:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2009-08-28:2009/08/28/slackware-13/</id><summary type="html">&lt;p&gt;Acabei de ler o changelog no site slackware.com e temos uma novidade: O
 slackware 13 já está pronto, segue uma tradução livre da entrada no
 changelog:&lt;/p&gt;
-&lt;p&gt;O Slackware 13.0 x86 foi lançado como estável! Obrigado a todos os que
-ajudaram a fazer isso possível -- veja o arquivo RELEASE_NOTES para os
-créditos.&lt;br /&gt;
-As imagens ISOs já estão no gravador.  Desta vez teremos um conjunto de
-6 CD-ROM de 32-bits e um DVD de camada dupla 32-bit/64-bit x86/x86_64.
-Estamos aceitando pedidos de pré-venda no link store.slackware.com. Por
-favor considere pegar uma cópia para ajudar a suportar o projeto. Mais
-uma vez, obrigado a toda a comunidade do Slackware por toda a ajuda nos
-testes, correções e envio de sugestões durante o ciclo de
-desenvolvimento.&lt;br /&gt;
-Como sempre, divirtam-se e curtam a distro!  -P.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O Slackware 13.0 x86 foi lançado como estável! Obrigado a todos os que
+ajudaram a fazer isso possível -- veja o arquivo RELEASE_NOTES para
+os créditos.&lt;/div&gt;
+&lt;div class="line"&gt;As imagens ISOs já estão no gravador.&amp;nbsp; Desta vez teremos um conjunto
+de 6 CD-ROM de 32-bits e um DVD de camada dupla 32-bit/64-bit
+x86/x86_64. Estamos aceitando pedidos de pré-venda no link
+store.slackware.com. Por favor considere pegar uma cópia para ajudar a
+suportar o projeto. Mais uma vez, obrigado a toda a comunidade do
+Slackware por toda a ajuda nos testes, correções e envio de sugestões
+durante o ciclo de desenvolvimento.&lt;/div&gt;
+&lt;div class="line"&gt;Como sempre, divirtam-se e curtam a distro!&amp;nbsp; -P.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Você pode ler o anúncio de lançamento no link abaixo:&lt;/p&gt;
-&lt;p&gt;http://slackware.com/announce/13.0.php&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://slackware.com/announce/13.0.php"&gt;http://slackware.com/announce/13.0.php&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Agora é só baixar o Slackware e ver as novidades&lt;/p&gt;
-&lt;p&gt;http://slackware.com/getslack/&lt;/p&gt;</summary></entry><entry><title>Novidades sobre o Slackware</title><link href="http://silvino.net/2008/08/16/novidades-sobre-o-slackware/" rel="alternate"></link><updated>2008-08-16T10:46:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/novidades-sobre-o-slackware/</id><summary type="html">&lt;p&gt;No dia 13 de agosto o Patrick, desenvolvedor do Slackware, anunciou que
+&lt;p&gt;&lt;a class="reference external" href="http://slackware.com/getslack/"&gt;http://slackware.com/getslack/&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Novidades sobre o Slackware</title><link href="http://silvino.net/2008/08/16/novidades-sobre-o-slackware/" rel="alternate"></link><published>2008-08-16T10:46:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/novidades-sobre-o-slackware/</id><summary type="html">&lt;p&gt;No dia 13 de agosto o Patrick, desenvolvedor do Slackware, anunciou que
 o KDE 4.1 foi incluído no Slackware. Por enquanto os pacotes estão no
 -current /testing, mas ele diz que toda a equipe de desenvolvimento, já
 está usando o KDE 4.1 sem nenhum problema. Para usar o KDE 4.1 você
@@ -24,20 +27,23 @@ precisa atualizar o seu sistema para o -current e fazer o download dos
 pacotes em qualquer um dos mirrors do Slackware. Se você quiser usar um
 mirror do Brasil use o link abaixo, baixe toda a estrutura de
 sub-diretórios:&lt;/p&gt;
-&lt;p&gt;ftp://ftp.slackware-brasil.com.br/slackware-current/testing/packages/kde4/&lt;/p&gt;
-&lt;p&gt;O arquivo README traz uma série de recomendações que devem ser seguidas.
-Além de atualizar o sistema para o -current, você deve remover todos os
-pacotes relacionados ao KDE 3, incluindo o qt, qca, qca-tls e knemo.
-Você deve fazer um backup e depois remover os seguintes diretórios:
-/etc/kde, \$HOME/.kde.&lt;br /&gt;
-Entre no diretório com os pacotes do KDE 4.1 e use esse comando:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="ftp://ftp.slackware-brasil.com.br/slackware-current/testing/packages/kde4/"&gt;ftp://ftp.slackware-brasil.com.br/slackware-current/testing/packages/kde4/&lt;/a&gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O arquivo README traz uma série de recomendações que devem ser
+seguidas. Além de atualizar o sistema para o -current, você deve
+remover todos os pacotes relacionados ao KDE 3, incluindo o qt, qca,
+qca-tls e knemo. Você deve fazer um backup e depois remover os
+seguintes diretórios: /etc/kde, $HOME/.kde.&lt;/div&gt;
+&lt;div class="line"&gt;Entre no diretório com os pacotes do KDE 4.1 e use esse comando:&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;upgradepkg --install-new deps/*.tgz extragear/*.tgz kde/*.tgz
 kde3-compat/*.tgz&lt;/p&gt;
 &lt;p&gt;Dê uma olhada no arquivo README e mãos-à-obra.&lt;/p&gt;
 &lt;p&gt;Bom, além do KDE 4.1 o time do Slackware desenvolveu um novo logo para o
 Slackware. Entre no site slackware.com e confira, o Patrick disse que o
 logo antigo era muito difícil de ler e de guardar na memória rsrsrsrsrs.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Arquivos .3gp no Mplayer</title><link href="http://silvino.net/2008/05/17/arquivos-3gp-no-mplayer/" rel="alternate"></link><updated>2008-05-17T18:12:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/arquivos-3gp-no-mplayer/</id><summary type="html">&lt;p&gt;Hoje precisei copiar alguns vídeos do celular da minha cunhada. A gente
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Arquivos .3gp no Mplayer</title><link href="http://silvino.net/2008/05/17/arquivos-3gp-no-mplayer/" rel="alternate"></link><published>2008-05-17T18:12:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/arquivos-3gp-no-mplayer/</id><summary type="html">&lt;p&gt;Hoje precisei copiar alguns vídeos do celular da minha cunhada. A gente
 queria converter os vídeos e postar no Youtube. Todos os vídeos do
 celular estavam no formato 3gp e ao abrí-los no mplayer o vídeo foi
 reproduzido porém o som estava mudo. Decidi executar o mplayer pela
@@ -45,31 +51,30 @@ linha de comando para verificar as mensagens de erro e descobri que o
 mplayer não conseguia encontrar o codec libamr_nb e por isso não
 reproduzia o som.&lt;/p&gt;
 &lt;p&gt;Ao fazer um pesquisa no Google, descobri as peças que estavam faltando.&lt;/p&gt;
-&lt;p&gt;O formato de arquivo 3gp foi definido pelo grupo &lt;a href="http://www.3gpp.org/About/about.htm"&gt;3GPP - 3rd Generation
-Partnership Project&lt;/a&gt; que é composto
-por vários fabricantes da área de telecomunicações, afim de ditar os
-padrões a serem usados nos aparelhos de terceira geração, como os
-celulares GSM.&lt;/p&gt;
+&lt;p&gt;O formato de arquivo 3gp foi definido pelo grupo &lt;a class="reference external" href="http://www.3gpp.org/About/about.htm"&gt;3GPP - 3rd Generation
+Partnership Project&lt;/a&gt; que é
+composto por vários fabricantes da área de telecomunicações, afim de
+ditar os padrões a serem usados nos aparelhos de terceira geração, como
+os celulares GSM.&lt;/p&gt;
 &lt;p&gt;Para ativar o suporte à arquivos 3gp no mplayer dentro do Slackware, nós
 podemos usar os scripts disponíveis no site Slackbuilds.org. Você
 precisa baixar os arquivos referentes às bibliotecas
-&lt;a href="http://slackbuilds.org/repository/12.1/audio/amrnb/" title="Biblioteca amrnb"&gt;amrnb&lt;/a&gt;
-e
-&lt;a href="http://slackbuilds.org/repository/12.1/audio/amrwb/" title="Biblioteca amrwb"&gt;amrwb&lt;/a&gt;.
-Antes de executar o Slackbuild da biblioteca amrnb você deve baixar o
-arquivo
-&lt;a href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.104/26104-700.zip"&gt;26104-700.zip&lt;/a&gt;
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/audio/amrnb/"&gt;amrnb&lt;/a&gt; e
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/audio/amrwb/"&gt;amrwb&lt;/a&gt;. Antes
+de executar o Slackbuild da biblioteca amrnb você deve baixar o arquivo
+&lt;a class="reference external" href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.104/26104-700.zip"&gt;26104-700.zip&lt;/a&gt;
 no mesmo diretório do script Slackbuild. Já para a biblioteca amrwb você
 deve baixar o arquivo
-&lt;a href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.204/26204-700.zip"&gt;26204-700.zip&lt;/a&gt;
+&lt;a class="reference external" href="http://www.3gpp.org/ftp/Specs/archive/26_series/26.204/26204-700.zip"&gt;26204-700.zip&lt;/a&gt;
 no mesmo diretório do Slackbuild antes de executar o script para a
 geração do pacote.&lt;/p&gt;
 &lt;p&gt;Depois que você instalar os pacotes para as bibliotecas amrnb e amrwb,
 você deve recompilar o mplayer para que ele detecte as novas bibliotecas
 e passe a usá-las. Para fazer isso você também pode usar Slackbuilds
-como expliquei no meu post &lt;a href="http://tdmsilvino.wordpress.com/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/"&gt;Mplayer no Slackware 12.1 com
+como expliquei no meu post &lt;a class="reference external" href="http://tdmsilvino.wordpress.com/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/"&gt;Mplayer no Slackware 12.1 com
 Slackbuilds&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Listando pacotes no Slackware</title><link href="http://silvino.net/2008/05/17/listando-pacotes-no-slackware/" rel="alternate"></link><updated>2008-05-17T13:56:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/listando-pacotes-no-slackware/</id><summary type="html">&lt;p&gt;Boa tarde.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Listando pacotes no Slackware</title><link href="http://silvino.net/2008/05/17/listando-pacotes-no-slackware/" rel="alternate"></link><published>2008-05-17T13:56:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-17:2008/05/17/listando-pacotes-no-slackware/</id><summary type="html">&lt;p&gt;Boa tarde.&lt;/p&gt;
 &lt;p&gt;Todos os pacotes que são instalados no Slackware ficam guardados em
 /var/log/packages. Isso significa que sempre que você quiser saber se
 tem um determinado pacote instalado você deve listar o conteúdo do
@@ -77,127 +82,106 @@ diretório /var/log/packages e procurar pelo pacote desejado. Essa é a
 forma mais rápida, a outra forma de consultar os pacotes instalados é
 executar como root a ferramenta pkgtool e ir na opção view, então
 pkgtool listará todos os pacotes instalados.&lt;/p&gt;
-&lt;p&gt;Como eu já estava cansado de ficar executando o comando "ls
-/var/log/packages/pacotetal*" decidi criar um script que me ajudasse
+&lt;p&gt;Como eu já estava cansado de ficar executando o comando &amp;quot;ls
+/var/log/packages/pacotetal*&amp;quot; decidi criar um script que me ajudasse
 nessa tarefa. Eu queria algo bem simples, algo bem parecido com o
 comando ls. Então criei o script abaixo e o nomeei lspkg. Dá uma olhada
 no script:&lt;/p&gt;
-&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt; 1
- 2
- 3
- 4
- 5
- 6
- 7
- 8
- 9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c"&gt;#!/bin/bash&lt;/span&gt;
-&lt;span class="nb"&gt;cd&lt;/span&gt; /var/log/packages/
-&lt;span class="nv"&gt;package_list&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$*&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; sed s/&lt;span class="s2"&gt;&amp;quot; &amp;quot;&lt;/span&gt;/&lt;span class="s2"&gt;&amp;quot;* &amp;quot;&lt;/span&gt;/g &lt;span class="p"&gt;|&lt;/span&gt; sed s/&lt;span class="nv"&gt;$/&lt;/span&gt;&lt;span class="s2"&gt;$&amp;quot;*&amp;quot;&lt;/span&gt;/ &lt;span class="sb"&gt;`&lt;/span&gt;
-&lt;span class="k"&gt;for&lt;/span&gt; package in &lt;span class="nv"&gt;$package_list&lt;/span&gt; &lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
-    &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt; -e &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;;&lt;/span&gt;
-    &lt;span class="k"&gt;then&lt;/span&gt;
-    &lt;span class="nv"&gt;number_of_fields&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; gawk -F &lt;span class="s2"&gt;&amp;quot;-&amp;quot;&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;{ split($0,fields); print length(fields) }&amp;#39;&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;
-        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt; &lt;span class="nv"&gt;$number_of_fields&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="m"&gt;5&lt;/span&gt; &lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="p"&gt;;&lt;/span&gt;
-        &lt;span class="k"&gt;then&lt;/span&gt;
-            &lt;span class="nv"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 1,2&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;version&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 3&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;arch&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 4&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;build&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 5&lt;span class="sb"&gt;`&lt;/span&gt;
-        &lt;span class="k"&gt;else&lt;/span&gt;
-            &lt;span class="nv"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 1&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;version&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 2&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;arch&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 3&lt;span class="sb"&gt;`&lt;/span&gt;
-            &lt;span class="nv"&gt;build&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; cut -d - -f 4&lt;span class="sb"&gt;`&lt;/span&gt;
-        &lt;span class="k"&gt;fi&lt;/span&gt;
-            &lt;span class="nb"&gt;echo&lt;/span&gt; -e -n &lt;span class="s2"&gt;&amp;quot;Package: 33[1m&lt;/span&gt;&lt;span class="nv"&gt;$name33&lt;/span&gt;&lt;span class="s2"&gt;[0m - &amp;quot;&lt;/span&gt;
-            &lt;span class="nb"&gt;echo&lt;/span&gt; -n  &lt;span class="s2"&gt;&amp;quot;version: &lt;/span&gt;&lt;span class="nv"&gt;$version&lt;/span&gt;&lt;span class="s2"&gt; - &amp;quot;&lt;/span&gt;
-            &lt;span class="nb"&gt;echo&lt;/span&gt; -n &lt;span class="s2"&gt;&amp;quot;arch: &lt;/span&gt;&lt;span class="nv"&gt;$arch&lt;/span&gt;&lt;span class="s2"&gt; - &amp;quot;&lt;/span&gt;
-            &lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;build: &lt;/span&gt;&lt;span class="nv"&gt;$build&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;&lt;/span&gt;
-    &lt;span class="k"&gt;else&lt;/span&gt;
-        &lt;span class="nv"&gt;package_not_found&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="nv"&gt;$package&lt;/span&gt; &lt;span class="p"&gt;|&lt;/span&gt; tr -d &lt;span class="s2"&gt;&amp;quot;*&amp;quot;&lt;/span&gt;&lt;span class="sb"&gt;`&lt;/span&gt;
-        &lt;span class="nb"&gt;echo&lt;/span&gt; -e &lt;span class="s2"&gt;&amp;quot;The package 33[1m&lt;/span&gt;&lt;span class="nv"&gt;$package_not_found&lt;/span&gt;&lt;span class="s2"&gt; was not found33[0m in your system.&amp;quot;&lt;/span&gt;
-    &lt;span class="k"&gt;fi&lt;/span&gt;
-&lt;span class="k"&gt;done&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
+&lt;pre class="literal-block"&gt;
+#!/bin/bash
+cd /var/log/packages/
+package_list=`echo $* | sed s/&amp;quot; &amp;quot;/&amp;quot;* &amp;quot;/g | sed s/$/$&amp;quot;*&amp;quot;/ `
+for package in $package_list ; do
+    if [ -e $package ] ;
+    then
+    number_of_fields=`echo $package | gawk -F &amp;quot;-&amp;quot; '{ split($0,fields); print length(fields) }'`
+        if [ $number_of_fields == 5 ] ;
+        then
+            name=`echo $package | cut -d - -f 1,2`
+            version=`echo $package | cut -d - -f 3`
+            arch=`echo $package | cut -d - -f 4`
+            build=`echo $package | cut -d - -f 5`
+        else
+            name=`echo $package | cut -d - -f 1`
+            version=`echo $package | cut -d - -f 2`
+            arch=`echo $package | cut -d - -f 3`
+            build=`echo $package | cut -d - -f 4`
+        fi
+            echo -e -n &amp;quot;Package: 33[1m$name33[0m - &amp;quot;
+            echo -n  &amp;quot;version: $version - &amp;quot;
+            echo -n &amp;quot;arch: $arch - &amp;quot;
+            echo &amp;quot;build: $build&amp;quot;
+    else
+        package_not_found=`echo $package | tr -d &amp;quot;*&amp;quot;`
+        echo -e &amp;quot;The package 33[1m$package_not_found was not found33[0m in your system.&amp;quot;
+    fi
+done
+&lt;/pre&gt;
 &lt;p&gt;Agora é só copiar esse código para um arquivo de texto e salvá-lo como
 lspkg, você também deve dar permissão de execução para esse arquivo e
 copiá-lo para /usr/bin.&lt;/p&gt;
 &lt;p&gt;Depois de fazer o procedimento acim, faça um teste. Veja o resultado
 quando executei na minha máquina:&lt;/p&gt;
-&lt;p&gt;bash-3.1\$ lspkg ruby bash pkgtoo teste&lt;br /&gt;
-Package: ruby - version: 1.8.6_p114 - arch: i486 - build: 1&lt;br /&gt;
-Package: bash - version: 3.1.017 - arch: i486 - build: 2&lt;br /&gt;
-Package: pkgtools - version: 12.1.0 - arch: noarch - build: 7&lt;br /&gt;
-The package teste was not found in your system.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;bash-3.1$ lspkg ruby bash pkgtoo teste&lt;/div&gt;
+&lt;div class="line"&gt;Package: ruby - version: 1.8.6_p114 - arch: i486 - build: 1&lt;/div&gt;
+&lt;div class="line"&gt;Package: bash - version: 3.1.017 - arch: i486 - build: 2&lt;/div&gt;
+&lt;div class="line"&gt;Package: pkgtools - version: 12.1.0 - arch: noarch - build: 7&lt;/div&gt;
+&lt;div class="line"&gt;The package teste was not found in your system.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Caso você tenha alguma sugestão para melhorar esse script faça o seu
 comentário.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Mplayer no Slackware 12.1 com Slackbuilds</title><link href="http://silvino.net/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/" rel="alternate"></link><updated>2008-05-11T15:17:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/mplayer-no-slackware-121-com-slackbuilds/</id><summary type="html">&lt;p&gt;Boa tarde pessoal.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Mplayer no Slackware 12.1 com Slackbuilds</title><link href="http://silvino.net/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/" rel="alternate"></link><published>2008-05-11T15:17:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/mplayer-no-slackware-121-com-slackbuilds/</id><summary type="html">&lt;p&gt;Boa tarde pessoal.&lt;/p&gt;
 &lt;p&gt;No meu último
-&lt;a href="http://tdmsilvino.wordpress.com/2008/05/11/usando-slackbuilds-no-slackware-121/" title="Slackbuilds no Slackare 12.1"&gt;post&lt;/a&gt;
+&lt;a class="reference external" href="http://tdmsilvino.wordpress.com/2008/05/11/usando-slackbuilds-no-slackware-121/"&gt;post&lt;/a&gt;
 eu expliquei como fazer a instalação de programas usando
-&lt;a href="http://slackbuilds.org" title="Página oficial do Slackbuilds"&gt;Slackbuilds&lt;/a&gt;.
-Como exemplo eu mostrei os passos para a instalação do emulador de
-terminal Yakuake, e é lógico que o procedimento se aplica para todos os
-demais Slackbuilds. Porém devemos tomar cuidados com as dependências.&lt;/p&gt;
+&lt;a class="reference external" href="http://slackbuilds.org"&gt;Slackbuilds&lt;/a&gt;. Como exemplo eu mostrei os
+passos para a instalação do emulador de terminal Yakuake, e é lógico que
+o procedimento se aplica para todos os demais Slackbuilds. Porém devemos
+tomar cuidados com as dependências.&lt;/p&gt;
 &lt;p&gt;Por exemplo, antes de instalar o Mplayer você de ter os pacotes do Lame,
 que é usado pelo mencoder para gerar audio em mp3, e da biblioteca
 Libdvdnav, que é usada ler DVDs e os codecs do Mplayer instalados
 previamente.&lt;/p&gt;
-&lt;p&gt;A seguir os links para os Slackbuilds:&lt;br /&gt;
-Lame: &lt;a href="http://slackbuilds.org/repository/12.1/libraries/lame/"&gt;http://slackbuilds.org/repository/12.1/libraries/lame/&lt;/a&gt;&lt;br /&gt;
-Libdvdnav:
-&lt;a href="http://slackbuilds.org/repository/12.1/libraries/libdvdnav/"&gt;http://slackbuilds.org/repository/12.1/libraries/libdvdnav/&lt;/a&gt;&lt;br /&gt;
-Todos os codecs para o Mplayer:
-&lt;a href="http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/"&gt;http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Em cada um dos links citados você deve executar os passos abaixo:&lt;br /&gt;
-1. Fazer o download do Slackbuild e descompactá-lo, isso criará um
-diretório com o nome do Slackbuild.&lt;br /&gt;
-2. Depois você deve fazer o download do código fonte compactado
-(Download Source) e salvá-lo dentro do diretório do Slackbuild.&lt;br /&gt;
-3. Abrir um terminal e entrar no diretório do Slackbuild (supondo que o
-diretório está no seu Desktop "&lt;strong&gt;cd
-\~/Desktop/&amp;lt;nome_do_slackbuild&amp;gt;&lt;/strong&gt;")&lt;br /&gt;
-4. Logar como root, com o comando "&lt;strong&gt;su root&lt;/strong&gt;"&lt;br /&gt;
-5. Executar o script do Slackbuild
-"&lt;strong&gt;./&amp;lt;nome_do_slackbuild&amp;gt;.Slackbuild&lt;/strong&gt;"&lt;br /&gt;
-6. Instalar o pacote criado no diretório /tmp, com o comando
-"&lt;strong&gt;installpkg /tmp/&amp;lt;nome_do_pacote&amp;gt;.tgz&lt;/strong&gt;"&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;A seguir os links para os Slackbuilds:&lt;/div&gt;
+&lt;div class="line"&gt;Lame: &lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/libraries/lame/"&gt;http://slackbuilds.org/repository/12.1/libraries/lame/&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Libdvdnav: &lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/libraries/libdvdnav/"&gt;http://slackbuilds.org/repository/12.1/libraries/libdvdnav/&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Todos os codecs para o Mplayer:
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/"&gt;http://slackbuilds.org/repository/12.1/multimedia/mplayer-codecs-all/&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Em cada um dos links citados você deve executar os passos abaixo:&lt;/div&gt;
+&lt;div class="line"&gt;1. Fazer o download do Slackbuild e descompactá-lo, isso criará um
+diretório com o nome do Slackbuild.&lt;/div&gt;
+&lt;div class="line"&gt;2. Depois você deve fazer o download do código fonte compactado
+(Download Source) e salvá-lo dentro do diretório do Slackbuild.&lt;/div&gt;
+&lt;div class="line"&gt;3. Abrir um terminal e entrar no diretório do Slackbuild (supondo que
+o diretório está no seu Desktop &amp;quot;&lt;strong&gt;cd
+~/Desktop/&amp;lt;nome_do_slackbuild&amp;gt;&lt;/strong&gt;&amp;quot;)&lt;/div&gt;
+&lt;div class="line"&gt;4. Logar como root, com o comando &amp;quot;&lt;strong&gt;su root&lt;/strong&gt;&amp;quot;&lt;/div&gt;
+&lt;div class="line"&gt;5. Executar o script do Slackbuild
+&amp;quot;&lt;strong&gt;./&amp;lt;nome_do_slackbuild&amp;gt;.Slackbuild&lt;/strong&gt;&amp;quot;&lt;/div&gt;
+&lt;div class="line"&gt;6. Instalar o pacote criado no diretório /tmp, com o comando
+&amp;quot;&lt;strong&gt;installpkg /tmp/&amp;lt;nome_do_pacote&amp;gt;.tgz&lt;/strong&gt;&amp;quot;&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Depois que esses três pacotes estiverem instalados, você pode instalar o
 Mplayer. O Slackbuild do Mplayer está no link
-&lt;a href="http://slackbuilds.org/repository/12.1/multimedia/MPlayer/"&gt;http://slackbuilds.org/repository/12.1/multimedia/MPlayer/&lt;/a&gt;. Você vai
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/multimedia/MPlayer/"&gt;http://slackbuilds.org/repository/12.1/multimedia/MPlayer/&lt;/a&gt;. Você vai
 usar o mesmo procedimento citado acima, a única diferença é que no
 segundo passo, além do código fonte compactado, você também deve fazer o
 download do skin no link
-&lt;a href="http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2"&gt;http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2&lt;/a&gt; e salvá-lo
-dentro do diretório do Slackbuild. Feito isso é só continuar.&lt;/p&gt;
+&lt;a class="reference external" href="http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2"&gt;http://www.mplayerhq.hu/MPlayer/skins/Blue-1.7.tar.bz2&lt;/a&gt; e salvá-lo dentro
+do diretório do Slackbuild. Feito isso é só continuar.&lt;/p&gt;
 &lt;p&gt;Depois que tudo for instalado você pode apagar os diretórios com os
 Slackbuilds pois eles não serão mais necessários.&lt;/p&gt;
 &lt;p&gt;Agora é só curtir.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Usando Slackbuilds no Slackware 12.1</title><link href="http://silvino.net/2008/05/11/usando-slackbuilds-no-slackware-121/" rel="alternate"></link><updated>2008-05-11T13:46:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/usando-slackbuilds-no-slackware-121/</id><summary type="html">&lt;p&gt;Boa tarde para todos!&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Usando Slackbuilds no Slackware 12.1</title><link href="http://silvino.net/2008/05/11/usando-slackbuilds-no-slackware-121/" rel="alternate"></link><published>2008-05-11T13:46:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/usando-slackbuilds-no-slackware-121/</id><summary type="html">&lt;p&gt;Boa tarde para todos!&lt;/p&gt;
 &lt;p&gt;Após atualizar o meu sistema para o Slackware 12.1 precisei instalar
 alguns programas como o Yakuake e o Mplayer. Fiz uma visita no
-&lt;a href="http://www.linuxpackages.net/search_view.php?orderby=p_date&amp;amp;advance=DESC&amp;amp;ver=12.1" title="Pacotes para o Slackware"&gt;linuxpackages.net&lt;/a&gt;
+&lt;a class="reference external" href="http://www.linuxpackages.net/search_view.php?orderby=p_date&amp;amp;advance=DESC&amp;amp;ver=12.1"&gt;linuxpackages.net&lt;/a&gt;
 e vi que por enquanto só temos 6 pacotes atualizados para o Slackware
 12.1. Isso faz sentido, pois os pacotes do linuxpackages são mantidos
 pela comunidade e nem todo mundo tem tempo livre pra ficar atualizando
@@ -206,46 +190,47 @@ hehehe).&lt;/p&gt;
 &lt;p&gt;Portanto a galera que quer instalar os programas deve partir para a
 instalação a partir do código fonte: baixar o fonte, descompactar, dar
 uma olhada nos arquivos README e INSTALL e finalmente compilar o
-programa usando os comandos "&lt;strong&gt;./configure --prefix=/usr &amp;amp;&amp;amp; make &amp;amp;&amp;amp; make
-install&lt;/strong&gt;".&lt;/p&gt;
-&lt;p&gt;Esses são os passos para instalar um programa direto do código fonte:&lt;br /&gt;
-1. Baixar o código fonte em /usr/src e descompactá-lo&lt;br /&gt;
-2. Entrar no diretório do código fonte e ler os arquivos README e
+programa usando os comandos &amp;quot;&lt;strong&gt;./configure --prefix=/usr &amp;amp;&amp;amp; make &amp;amp;&amp;amp; make
+install&lt;/strong&gt;&amp;quot;.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Esses são os passos para instalar um programa direto do código fonte:&lt;/div&gt;
+&lt;div class="line"&gt;1. Baixar o código fonte em /usr/src e descompactá-lo&lt;/div&gt;
+&lt;div class="line"&gt;2. Entrar no diretório do código fonte e ler os arquivos README e
 INSTALL para obter instruções detalhadas sobre a instalação do
-programa.&lt;br /&gt;
-3. Passar vários parâmetros para o comando configure, para ver a lista
+programa.&lt;/div&gt;
+&lt;div class="line"&gt;3. Passar vários parâmetros para o comando configure, para ver a lista
 completa execute &lt;strong&gt;./cofigure --help&lt;/strong&gt;. Se você não passar nenhum
 parâmetro para o comando configure, o seu programa será instalado em
-/usr/local e os arquivos serão divididos nos subdiretórios de /usr/local
-(por exemplo, os arquivos de configuração ficarão em /usr/local/etc).
-Para que isso não aconteça você deve passar no mínino as opções mais
-comuns ao comando configure, como no exemplo a seguir: &lt;strong&gt;./configure
---prefix=/usr --sysconfdir=/etc --localstatedir=/var&lt;/strong&gt;&lt;br /&gt;
-4. Depois de rodar o configure você deve executar o comando &lt;strong&gt;make&lt;/strong&gt;,
+/usr/local e os arquivos serão divididos nos subdiretórios de
+/usr/local (por exemplo, os arquivos de configuração ficarão em
+/usr/local/etc). Para que isso não aconteça você deve passar no mínino
+as opções mais comuns ao comando configure, como no exemplo a seguir:
+&lt;strong&gt;./configure --prefix=/usr --sysconfdir=/etc --localstatedir=/var&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="line"&gt;4. Depois de rodar o configure você deve executar o comando &lt;strong&gt;make&lt;/strong&gt;,
 para compilar o código fonte, e o &lt;strong&gt;make install&lt;/strong&gt;, para instalar o
 programa compilado. Ao invés de usar o make install você pode usar o
 comando &lt;strong&gt;checkinstall -S&lt;/strong&gt; para gerar um pacote do Slackware que será
 instalado pelo &lt;strong&gt;installpkg&lt;/strong&gt;. Obs: O checkinstall pode ser obtido em
-&lt;a href="http://www.asic-linux.com.mx/~izto/checkinstall/download.php"&gt;http://www.asic-linux.com.mx/~izto/checkinstall/download.php&lt;/a&gt;.&lt;br /&gt;
-5. Para desintalar um programa instalado com o comando &lt;strong&gt;make
+&lt;a class="reference external" href="http://www.asic-linux.com.mx/~izto/checkinstall/download.php"&gt;http://www.asic-linux.com.mx/~izto/checkinstall/download.php&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;5. Para desintalar um programa instalado com o comando &lt;strong&gt;make
 install&lt;/strong&gt;, você deve manter o diretório com o código fonte compilado e
-executar o comando &lt;strong&gt;make uninstall&lt;/strong&gt;.&lt;/p&gt;
+executar o comando &lt;strong&gt;make uninstall&lt;/strong&gt;.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Todo esse processo é muito complicado e cansativo, e se você esquecer de
 passar uma determinada opção para o comando configure, talvez o seu
 programa não funcionará como esperado.&lt;/p&gt;
 &lt;p&gt;Para automatizar o processo de geração de pacotes para o Slackware a
-comunidade criou o projeto
-&lt;a href="http://slackbuilds.org" title="Página oficial do Slackbuilds"&gt;Slackbuilds.org&lt;/a&gt;.
+comunidade criou o projeto &lt;a class="reference external" href="http://slackbuilds.org"&gt;Slackbuilds.org&lt;/a&gt;.
 Slackbuilds são scripts que contêm todos os passos necessários para a
 criação de um pacote. No final do processo o pacote será movido para o
 diretório /tmp para ser instalado no Slackware, usando o &lt;strong&gt;pkgtool&lt;/strong&gt;.
 Todos os pacotes oficiais do Slackware vêm com um Slackbuild incluído.&lt;/p&gt;
 &lt;p&gt;Vamos supor que você queira instalar o emulador de terminal
-&lt;a href="http://yakuake.kde.org" title="Emulador de terminal"&gt;Yakuake&lt;/a&gt; usando um
-script Slackbuild. Para isso você deve acessar o link
-&lt;a href="http://slackbuilds.org/repository/12.1/system/yakuake/"&gt;http://slackbuilds.org/repository/12.1/system/yakuake/&lt;/a&gt; e baixar o
-código fonte no link abaixo do título "Download Source" e o script de
-instalação no link abaixo do título "Download Slackbuild".&lt;/p&gt;
+&lt;a class="reference external" href="http://yakuake.kde.org"&gt;Yakuake&lt;/a&gt; usando um script Slackbuild. Para
+isso você deve acessar o link
+&lt;a class="reference external" href="http://slackbuilds.org/repository/12.1/system/yakuake/"&gt;http://slackbuilds.org/repository/12.1/system/yakuake/&lt;/a&gt; e baixar o código
+fonte no link abaixo do título &amp;quot;Download Source&amp;quot; e o script de
+instalação no link abaixo do título &amp;quot;Download Slackbuild&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Agora você deve descompactar o arquivo do Slackbuild, nesse caso
 yakuake.tar.gz, fazendo isso será criado um diretório chamado yakuake,
 mova o arquivo do código fonte para dentro do diretório yakuake. Agora
@@ -259,7 +244,8 @@ pronto o yakuake está pronto para usar.&lt;/p&gt;
 &lt;p&gt;Usando um script do slackbuilds.org você pode gerar os seus próprios
 pacotes sem passar por todas as complicações que o processo manual
 causaria.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Visão geral do Slackware 12.1</title><link href="http://silvino.net/2008/05/09/visao-geral-do-slackware-121/" rel="alternate"></link><updated>2008-05-09T14:54:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-09:2008/05/09/visao-geral-do-slackware-121/</id><summary type="html">&lt;p&gt;Na semana passada fiz a instalação da última versão do Slackware e vou
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Visão geral do Slackware 12.1</title><link href="http://silvino.net/2008/05/09/visao-geral-do-slackware-121/" rel="alternate"></link><published>2008-05-09T14:54:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-09:2008/05/09/visao-geral-do-slackware-121/</id><summary type="html">&lt;p&gt;Na semana passada fiz a instalação da última versão do Slackware e vou
 dar uma visão geral do Slackware 12.1.&lt;/p&gt;
 &lt;p&gt;O processo de instalação não mudou. Você inicializa a máquina com um CD
 ou DVD, escolhe um kernel, usa o cfdisk criar as partições, roda o
@@ -296,34 +282,38 @@ wireless, interpretadores para muitas linguages de script (Ruby
 1.8.6_p114, Python 2.5.2, Perl 5.8.8, TCL 8.4.18), Apache 2.2.8 e muito
 mais.&lt;/p&gt;
 &lt;p&gt;Slacware 12.1 é o que há!&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Slackware 12.1 - Lançamento oficial</title><link href="http://silvino.net/2008/05/02/slackware-121-lancamento-oficial/" rel="alternate"></link><updated>2008-05-02T20:20:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-02:2008/05/02/slackware-121-lancamento-oficial/</id><summary type="html">&lt;p&gt;Boa noite a todos.&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Slackware 12.1 - Lançamento oficial</title><link href="http://silvino.net/2008/05/02/slackware-121-lancamento-oficial/" rel="alternate"></link><published>2008-05-02T20:20:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-02:2008/05/02/slackware-121-lancamento-oficial/</id><summary type="html">&lt;p&gt;Boa noite a todos.&lt;/p&gt;
 &lt;p&gt;Trago boas novas para o mundo open source, o Slackware 12.1 foi lançado!
-Vistem a homepage do &lt;a href="http://slackware.com" title="Slackware"&gt;Slackware&lt;/a&gt; e
-façam o download da imagem do sistema que já foi liberada.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;Quinta&lt;/span&gt; &lt;span class="nv"&gt;Mai&lt;/span&gt;  &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="mi"&gt;13&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;36&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;34&lt;/span&gt; &lt;span class="nv"&gt;CDT&lt;/span&gt; &lt;span class="mi"&gt;2008&lt;/span&gt;
-&lt;span class="nv"&gt;O&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.1&lt;/span&gt; &lt;span class="s-Atom"&gt;foi&lt;/span&gt; &lt;span class="s-Atom"&gt;lançado&lt;/span&gt; &lt;span class="s-Atom"&gt;como&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="s-Atom"&gt;stable&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="p"&gt;:-)&lt;/span&gt;  &lt;span class="nv"&gt;De&lt;/span&gt; &lt;span class="s-Atom"&gt;novo&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;muitíssimo&lt;/span&gt; &lt;span class="s-Atom"&gt;obrigado&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;todo&lt;/span&gt; &lt;span class="s-Atom"&gt;mundo&lt;/span&gt;
-&lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;deixou&lt;/span&gt; &lt;span class="s-Atom"&gt;sua&lt;/span&gt; &lt;span class="s-Atom"&gt;marca&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;ajudou&lt;/span&gt; &lt;span class="s-Atom"&gt;com&lt;/span&gt; &lt;span class="s-Atom"&gt;relatório&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;bugs&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;patches&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;testes&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;sugestões&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-&lt;span class="s-Atom"&gt;outros&lt;/span&gt; &lt;span class="s-Atom"&gt;comentários&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;tudo&lt;/span&gt; &lt;span class="s-Atom"&gt;mais&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;Sem&lt;/span&gt; &lt;span class="s-Atom"&gt;essa&lt;/span&gt; &lt;span class="s-Atom"&gt;ajuda&lt;/span&gt; &lt;span class="s-Atom"&gt;valiosa&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt;
-&lt;span class="s-Atom"&gt;não&lt;/span&gt; &lt;span class="s-Atom"&gt;estaria&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;forma&lt;/span&gt; &lt;span class="s-Atom"&gt;alguma&lt;/span&gt; &lt;span class="s-Atom"&gt;perto&lt;/span&gt; &lt;span class="s-Atom"&gt;do&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;ele&lt;/span&gt; &lt;span class="s-Atom"&gt;é&lt;/span&gt; &lt;span class="s-Atom"&gt;hoje&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;Um&lt;/span&gt; &lt;span class="s-Atom"&gt;agradecimento&lt;/span&gt; &lt;span class="s-Atom"&gt;especial&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;a&lt;/span&gt; &lt;span class="nv"&gt;MASSA&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; 
-&lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="s-Atom"&gt;povo&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;está&lt;/span&gt; &lt;span class="s-Atom"&gt;desenvolvendo&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;testando&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="s-Atom"&gt;slackbuilds&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;org&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s-Atom"&gt;onde&lt;/span&gt; &lt;span class="s-Atom"&gt;primeiramente&lt;/span&gt; &lt;span class="s-Atom"&gt;muitas&lt;/span&gt;
-&lt;span class="s-Atom"&gt;das&lt;/span&gt; &lt;span class="s-Atom"&gt;futuras&lt;/span&gt; &lt;span class="s-Atom"&gt;adições&lt;/span&gt; &lt;span class="s-Atom"&gt;do&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="s-Atom"&gt;são&lt;/span&gt;  &lt;span class="s-Atom"&gt;compiladas&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;testadas&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;todo&lt;/span&gt; &lt;span class="s-Atom"&gt;mundo&lt;/span&gt; &lt;span class="s-Atom"&gt;no&lt;/span&gt;
-&lt;span class="s-Atom"&gt;linuxquestions&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="s-Atom"&gt;org&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;nos&lt;/span&gt; &lt;span class="s-Atom"&gt;vários&lt;/span&gt; &lt;span class="s-Atom"&gt;canais&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="nv"&gt;IRC&lt;/span&gt; &lt;span class="s-Atom"&gt;#slackware&lt;/span&gt; &lt;span class="s-Atom"&gt;ou&lt;/span&gt; &lt;span class="s-Atom"&gt;##slackware&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;ou&lt;/span&gt; &lt;span class="s-Atom"&gt;em&lt;/span&gt; &lt;span class="s-Atom"&gt;outros&lt;/span&gt;
-&lt;span class="s-Atom"&gt;web&lt;/span&gt; &lt;span class="s-Atom"&gt;sites&lt;/span&gt; &lt;span class="s-Atom"&gt;relacionados&lt;/span&gt; &lt;span class="s-Atom"&gt;ao&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;outros&lt;/span&gt; &lt;span class="s-Atom"&gt;lugares&lt;/span&gt; &lt;span class="s-Atom"&gt;onde&lt;/span&gt; &lt;span class="s-Atom"&gt;a&lt;/span&gt; &lt;span class="s-Atom"&gt;comunidade&lt;/span&gt; &lt;span class="s-Atom"&gt;compartilha&lt;/span&gt; &lt;span class="s-Atom"&gt;suas&lt;/span&gt;
-&lt;span class="s-Atom"&gt;necessidades&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;considerações&lt;/span&gt; &lt;span class="s-Atom"&gt;com&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="s-Atom"&gt;nosso&lt;/span&gt; &lt;span class="s-Atom"&gt;time&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;E&lt;/span&gt; &lt;span class="s-Atom"&gt;da&lt;/span&gt; &lt;span class="s-Atom"&gt;parte&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;todo&lt;/span&gt; &lt;span class="s-Atom"&gt;mundo&lt;/span&gt; &lt;span class="s-Atom"&gt;aqui&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;obrigado&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;span class="nv"&gt;Nós&lt;/span&gt; &lt;span class="s-Atom"&gt;achamos&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;você&lt;/span&gt; &lt;span class="s-Atom"&gt;vai&lt;/span&gt; &lt;span class="s-Atom"&gt;curtir&lt;/span&gt; &lt;span class="s-Atom"&gt;esse&lt;/span&gt; &lt;span class="s-Atom"&gt;novo&lt;/span&gt; &lt;span class="s-Atom"&gt;lançamento&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;e&lt;/span&gt; &lt;span class="s-Atom"&gt;esperamos&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;você&lt;/span&gt; &lt;span class="s-Atom"&gt;descobrirá&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;essa&lt;/span&gt;
-&lt;span class="s-Atom"&gt;versão&lt;/span&gt; &lt;span class="s-Atom"&gt;é&lt;/span&gt; &lt;span class="s-Atom"&gt;muito&lt;/span&gt; &lt;span class="s-Atom"&gt;mais&lt;/span&gt; &lt;span class="s-Atom"&gt;do&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="mf"&gt;0.1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;é&lt;/span&gt; &lt;span class="s-Atom"&gt;bem&lt;/span&gt; &lt;span class="s-Atom"&gt;melhor&lt;/span&gt; &lt;span class="s-Atom"&gt;do&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.0&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="s-Atom"&gt;-&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="nv"&gt;Divirtam&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="s-Atom"&gt;se&lt;/span&gt;&lt;span class="p"&gt;!&lt;/span&gt;  &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;P&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;O que mais podemos fazer, senão seguir o conselho do Patrick e se
-divertir?&lt;br /&gt;
-Valeu Patrick, obrigado a você e a toda comunidade Linux!&lt;br /&gt;
-Obs: estou começando o download agora mesmo!&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Slackware 12.1 rc4 - estamos quase lá!</title><link href="http://silvino.net/2008/05/01/slackware-121-rc4-estamos-quase-la/" rel="alternate"></link><updated>2008-05-01T10:05:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-01:2008/05/01/slackware-121-rc4-estamos-quase-la/</id><summary type="html">&lt;p&gt;Ontem a noite tivemos mais atividade no -current. O Patrick lançou o
+Vistem a homepage do &lt;a class="reference external" href="http://slackware.com"&gt;Slackware&lt;/a&gt; e façam o
+download da imagem do sistema que já foi liberada.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Quinta Mai  1 13:36:34 CDT 2008
+O Slackware 12.1 foi lançado como -stable.  :-)  De novo, muitíssimo obrigado para todo mundo
+que deixou sua marca e ajudou com relatório de bugs, patches, testes, sugestões,
+outros comentários, e tudo mais.  Sem essa ajuda valiosa, o Slackware
+não estaria de forma alguma perto do que ele é hoje.  Um agradecimento especial para a MASSA,
+para o povo que está desenvolvendo e testando para o slackbuilds.org (onde primeiramente muitas
+das futuras adições do Slackware são  compiladas e testadas), e para todo mundo no
+linuxquestions.org, nos vários canais de IRC #slackware ou ##slackware, ou em outros
+web sites relacionados ao Slackware, e outros lugares onde a comunidade compartilha suas
+necessidades e considerações com o nosso time.  E da parte de todo mundo aqui, obrigado.
+Nós achamos que você vai curtir esse novo lançamento, e esperamos que você descobrirá que essa
+versão é muito mais do que 0.1, é bem melhor do que o Slackware 12.0.  ;-)
+Divirtam-se!  -P.
+&lt;/pre&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O que mais podemos fazer, senão seguir o conselho do Patrick e se
+divertir?&lt;/div&gt;
+&lt;div class="line"&gt;Valeu Patrick, obrigado a você e a toda comunidade Linux!&lt;/div&gt;
+&lt;div class="line"&gt;Obs: estou começando o download agora mesmo!&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;[]'s&lt;/p&gt;
+</summary></entry><entry><title>Slackware 12.1 rc4 - estamos quase lá!</title><link href="http://silvino.net/2008/05/01/slackware-121-rc4-estamos-quase-la/" rel="alternate"></link><published>2008-05-01T10:05:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-01:2008/05/01/slackware-121-rc4-estamos-quase-la/</id><summary type="html">&lt;p&gt;Ontem a noite tivemos mais atividade no -current. O Patrick lançou o
 Slackware 12.1 rc4 devido à um patch de segurança que foi aplicado no
 kernel 2.6.24.5, segue a tradução:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Quarta Abr 30 20:36:48 CDT 2008
+&lt;pre class="literal-block"&gt;
+Quarta Abr 30 20:36:48 CDT 2008
 12.1 RC4.  Nós acreditamos que este deve ser o último.
 a/kernel-generic-2.6.24.5-i486-2.tgz:  Patch aplicado para corrigir um problema de segurança
  em fs/dnotify.c.  O uso do dnotify (largamente substituido por inotify nos sistemas 2.6.x)
@@ -334,60 +324,57 @@ o mais rápido possível.  O patch pode ser encontrado em source/k/linux-2.6.24.
 Para informações adicionais (quando o candidato CVE estiver aberto), veja:
     http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-1375
  Todos os pacotes do kernel listados abaixo também devem ser considerados correções de segurança.
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Todos os pacotes relativos ao kernel foram atulizados com o patch de
+&lt;/pre&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Todos os pacotes relativos ao kernel foram atulizados com o patch de
 segurança e recompilados, de quebra o Patrick atualizou o programa
-slackpkg do &lt;a href="http://stoa.usp.br/piterpk/profile/" title="Piter Punk"&gt;Piter
-Punk&lt;/a&gt;.&lt;br /&gt;
-Leia o changelog no endereço
-&lt;a href="ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt"&gt;ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt&lt;/a&gt;&lt;br /&gt;
-Até mais!&lt;/p&gt;</summary></entry><entry><title>O Slackware 12.1 está chegando</title><link href="http://silvino.net/2008/04/29/o-slackware-121-esta-chegando/" rel="alternate"></link><updated>2008-04-29T09:09:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-29:2008/04/29/o-slackware-121-esta-chegando/</id><summary type="html">&lt;p&gt;Durante as últimas semanas estive acompanhando o changelog do Slackware
+slackpkg do &lt;a class="reference external" href="http://stoa.usp.br/piterpk/profile/"&gt;Piter Punk&lt;/a&gt;.&lt;/div&gt;
+&lt;div class="line"&gt;Leia o changelog no endereço
+&lt;a class="reference external" href="ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt"&gt;ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Até mais!&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>O Slackware 12.1 está chegando</title><link href="http://silvino.net/2008/04/29/o-slackware-121-esta-chegando/" rel="alternate"></link><published>2008-04-29T09:09:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-29:2008/04/29/o-slackware-121-esta-chegando/</id><summary type="html">&lt;p&gt;Durante as últimas semanas estive acompanhando o changelog do Slackware
 e vejam só, temos boas notícias.&lt;/p&gt;
 &lt;p&gt;No início do mês o Patrick Volkerding já tinha anunciado que estávamos
 próximos da versão final do Slackware 12.1&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;Quinta&lt;/span&gt; &lt;span class="nv"&gt;Abr&lt;/span&gt;  &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="mi"&gt;01&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;16&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt; &lt;span class="nv"&gt;CDT&lt;/span&gt; &lt;span class="mi"&gt;2008&lt;/span&gt;
-&lt;span class="nv"&gt;OK&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;vamos&lt;/span&gt; &lt;span class="s-Atom"&gt;chamar&lt;/span&gt; &lt;span class="s-Atom"&gt;isso&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.1&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="s-Atom"&gt;rc1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;no&lt;/span&gt; &lt;span class="s-Atom"&gt;entanto&lt;/span&gt; &lt;span class="s-Atom"&gt;há&lt;/span&gt; &lt;span class="s-Atom"&gt;ainda&lt;/span&gt; &lt;span class="s-Atom"&gt;algum&lt;/span&gt; &lt;span class="s-Atom"&gt;pequeno&lt;/span&gt; &lt;span class="s-Atom"&gt;trabalho&lt;/span&gt;
-&lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;ser&lt;/span&gt; &lt;span class="s-Atom"&gt;feito&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;Por&lt;/span&gt; &lt;span class="s-Atom"&gt;favor&lt;/span&gt; &lt;span class="s-Atom"&gt;ajuem&lt;/span&gt; &lt;span class="s-Atom"&gt;a&lt;/span&gt; &lt;span class="s-Atom"&gt;testar&lt;/span&gt;&lt;span class="p"&gt;!&lt;/span&gt; &lt;span class="nv"&gt;E&lt;/span&gt; &lt;span class="s-Atom"&gt;se&lt;/span&gt; &lt;span class="s-Atom"&gt;nós&lt;/span&gt; &lt;span class="s-Atom"&gt;perdemos&lt;/span&gt; &lt;span class="s-Atom"&gt;alguma&lt;/span&gt; &lt;span class="s-Atom"&gt;coisa&lt;/span&gt; &lt;span class="s-Atom"&gt;grande&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-&lt;span class="s-Atom"&gt;por&lt;/span&gt; &lt;span class="s-Atom"&gt;favor&lt;/span&gt; &lt;span class="s-Atom"&gt;me&lt;/span&gt; &lt;span class="s-Atom"&gt;deixe&lt;/span&gt; &lt;span class="s-Atom"&gt;saber&lt;/span&gt; &lt;span class="s-Atom"&gt;em&lt;/span&gt; &lt;span class="s-Atom"&gt;volkerdi@slackware&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="s-Atom"&gt;com&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="nv"&gt;Obrigado&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="p"&gt;:-)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre class="literal-block"&gt;
+Quinta Abr  3 01:16:15 CDT 2008
+OK, vamos chamar isso de Slackware 12.1-rc1, no entanto há ainda algum pequeno trabalho
+para ser feito.  Por favor ajuem a testar! E se nós perdemos alguma coisa grande,
+por favor me deixe saber em volkerdi&amp;#64;slackware.com.  Obrigado.  :-)
+&lt;/pre&gt;
 &lt;p&gt;No decorrer do mês vimos muita atividade no -current incluindo o upgrade
 do kernel para a versão 2.6.24.5. Então na semana passada mais notícias
 vindas do Patrick:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nv"&gt;Segunda&lt;/span&gt; &lt;span class="nv"&gt;Abr&lt;/span&gt; &lt;span class="mi"&gt;21&lt;/span&gt; &lt;span class="mi"&gt;16&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;47&lt;/span&gt;&lt;span class="s-Atom"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt; &lt;span class="nv"&gt;CDT&lt;/span&gt; &lt;span class="mi"&gt;2008&lt;/span&gt;
-&lt;span class="nv"&gt;Nós&lt;/span&gt; &lt;span class="s-Atom"&gt;alcançamos&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.1&lt;/span&gt; &lt;span class="nv"&gt;RC2&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;  &lt;span class="p"&gt;:-)&lt;/span&gt;  &lt;span class="nv"&gt;Nós&lt;/span&gt; &lt;span class="s-Atom"&gt;estamos&lt;/span&gt; &lt;span class="s-Atom"&gt;além&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt;
-&lt;span class="s-Atom"&gt;atulizar&lt;/span&gt; &lt;span class="s-Atom"&gt;pacotes&lt;/span&gt; &lt;span class="s-Atom"&gt;ou&lt;/span&gt; &lt;span class="s-Atom"&gt;corrigir&lt;/span&gt; &lt;span class="s-Atom"&gt;pequenos&lt;/span&gt; &lt;span class="s-Atom"&gt;bugs&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;comética&lt;/span&gt; &lt;span class="s-Atom"&gt;neste&lt;/span&gt; &lt;span class="nf"&gt;ponto&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s-Atom"&gt;na&lt;/span&gt; &lt;span class="s-Atom"&gt;verdade&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;nós&lt;/span&gt;
-&lt;span class="s-Atom"&gt;esperamos&lt;/span&gt; &lt;span class="s-Atom"&gt;ter&lt;/span&gt; &lt;span class="s-Atom"&gt;passado&lt;/span&gt; &lt;span class="s-Atom"&gt;isso&lt;/span&gt; &lt;span class="s-Atom"&gt;com&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;RC1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s-Atom"&gt;mas&lt;/span&gt; &lt;span class="s-Atom"&gt;ainda&lt;/span&gt; &lt;span class="s-Atom"&gt;há&lt;/span&gt; &lt;span class="s-Atom"&gt;alguns&lt;/span&gt; &lt;span class="s-Atom"&gt;itens&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;precisam&lt;/span&gt; &lt;span class="s-Atom"&gt;de&lt;/span&gt; &lt;span class="s-Atom"&gt;atenção&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;
-&lt;span class="nv"&gt;O&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;nós&lt;/span&gt; &lt;span class="s-Atom"&gt;temos&lt;/span&gt; &lt;span class="s-Atom"&gt;aqui&lt;/span&gt; &lt;span class="s-Atom"&gt;agora&lt;/span&gt; &lt;span class="s-Atom"&gt;tem&lt;/span&gt; &lt;span class="s-Atom"&gt;provado&lt;/span&gt; &lt;span class="s-Atom"&gt;ser&lt;/span&gt; &lt;span class="s-Atom"&gt;estável&lt;/span&gt; &lt;span class="s-Atom"&gt;para&lt;/span&gt; &lt;span class="s-Atom"&gt;os&lt;/span&gt; &lt;span class="s-Atom"&gt;nossos&lt;/span&gt; &lt;span class="s-Atom"&gt;testers&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-&lt;span class="s-Atom"&gt;portanto&lt;/span&gt; &lt;span class="s-Atom"&gt;a&lt;/span&gt; &lt;span class="s-Atom"&gt;não&lt;/span&gt; &lt;span class="s-Atom"&gt;ser&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;alguns&lt;/span&gt; &lt;span class="s-Atom"&gt;problemas&lt;/span&gt; &lt;span class="s-Atom"&gt;reais&lt;/span&gt; &lt;span class="s-Atom"&gt;que&lt;/span&gt; &lt;span class="s-Atom"&gt;possam&lt;/span&gt; &lt;span class="s-Atom"&gt;parar&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="s-Atom"&gt;show&lt;/span&gt; &lt;span class="s-Atom"&gt;sejam&lt;/span&gt; &lt;span class="s-Atom"&gt;encontrados&lt;/span&gt;
-&lt;span class="s-Atom"&gt;nós&lt;/span&gt; &lt;span class="s-Atom"&gt;lançaremos&lt;/span&gt; &lt;span class="s-Atom"&gt;este&lt;/span&gt; &lt;span class="s-Atom"&gt;como&lt;/span&gt; &lt;span class="s-Atom"&gt;o&lt;/span&gt; &lt;span class="nv"&gt;Slackware&lt;/span&gt; &lt;span class="mf"&gt;12.1&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="s-Atom"&gt;final&lt;/span&gt; &lt;span class="s-Atom"&gt;em&lt;/span&gt; &lt;span class="s-Atom"&gt;breve&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre class="literal-block"&gt;
+Segunda Abr 21 16:47:32 CDT 2008
+Nós alcançamos o Slackware 12.1 RC2.  :-)  Nós estamos além de
+atulizar pacotes ou corrigir pequenos bugs de comética neste ponto (na verdade, nós
+esperamos ter passado isso com o RC1, mas ainda há alguns itens que precisam de atenção).
+O que nós temos aqui agora tem provado ser estável para os nossos testers,
+portanto a não ser que alguns problemas reais que possam parar o show sejam encontrados
+nós lançaremos este como o Slackware 12.1-final em breve.
+&lt;/pre&gt;
 &lt;p&gt;Depois disso vimos atualizações nos pacotes wireless-tools, initrd, jdk
 e aaa_base e mais uma frase do Patrick:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Quarta Abr 23 19:42:28 CDT 2008
+&lt;pre class="literal-block"&gt;
+Quarta Abr 23 19:42:28 CDT 2008
 Ainda não está completo, mas está chegando perto.
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;/pre&gt;
 &lt;p&gt;Uma semana se passou e vemos mais atividade no -current, incluindo
 atualizações de segurança nas bibliotecas do KDE, no initrd, na
 biblioteca libpng e mais algumas pequenas alterações. E então temos a
 última notícia.:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Segunda Abr 28 23:43:55 CDT 2008
+&lt;pre class="literal-block"&gt;
+Segunda Abr 28 23:43:55 CDT 2008
 Vamos chamar esse de Slackware 12.1 RC3, e congelar a árvore para qualquer coisa que não for crítica.
 As coisas parecem muito estáveis, então provavelmente isso é uma boa idéia salvar qualquer atualizações
 e adiciões até que o -current reinicie.
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;/pre&gt;
 &lt;p&gt;É isso ai pessoal, estamos quase lá.&lt;/p&gt;
 &lt;p&gt;Obs: Todas as frases do Patrick foram traduzidas diretamente do
 changelog que pode ser encontrado na íntegra em
-ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt,
+&lt;a class="reference external" href="ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt"&gt;ftp://ftp.slackware.com/pub/slackware/slackware-current/ChangeLog.txt&lt;/a&gt;,
 caso você encontre algum erro de tradução, por favor me avise.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry></feed>

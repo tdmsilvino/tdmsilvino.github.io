@@ -1,128 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/ruby-slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-04-28T22:57:00-03:00</updated><entry><title>FOX Toolkit e FXRuby no Slackware</title><link href="http://silvino.net/2008/04/28/fox-toolkit-e-fxruby-no-slackware/" rel="alternate"></link><updated>2008-04-28T22:57:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/fox-toolkit-e-fxruby-no-slackware/</id><summary type="html">&lt;p&gt;O FOX é um toolkit baseado no C++ para desenvolvimento de aplicações
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/ruby-slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-04-28T22:57:00-03:00</updated><entry><title>FOX Toolkit e FXRuby no Slackware</title><link href="http://silvino.net/2008/04/28/fox-toolkit-e-fxruby-no-slackware/" rel="alternate"></link><published>2008-04-28T22:57:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/fox-toolkit-e-fxruby-no-slackware/</id><summary type="html">&lt;p&gt;O FOX é um toolkit baseado no C++ para desenvolvimento de aplicações
 gráficas (também conhecidas como GUIs) de forma fácil e eficaz. O FOX
 oferece uma coleção vasta e crescente de controles e provê muitas
 facilidades como arrastar e soltar (drag and drop), seleções e também
-widgets do OpenGL para manipulação de gráficos 3D.&lt;br /&gt;
-O FOX também implementa ícones, imagens, e itens de conveniência para o
-usuário como ajuda e dicas (tooltips). Tooltips podem ser usadas em
-objetos 3D.&lt;/p&gt;
-&lt;p&gt;Para mais detalhes visitem a homepage no endereço
-http://www.fox-toolkit.org/&lt;/p&gt;
-&lt;p&gt;Esse toolkit tem ligações (bindings) para várias linguagens. Para
-programar em Python use FXPy, em Eiffel use EiffelFox e para programar
-em Ruby use FXRuby.&lt;/p&gt;
+widgets do Opções (bindings) para várias linguagens. Para programar em
+Python use FXPy, em Eiffel use EiffelFox e para programar em Ruby use
+FXRuby.&lt;/p&gt;
 &lt;p&gt;Existem alguns projetos grandes usando FXRuby, entre eles o
-&lt;a href="http://freeride.rubyforge.org/" title="IDE para Ruby"&gt;FreeRIDE&lt;/a&gt; que abordei
-no &lt;a href="http://tdmsilvino.wordpress.com/2008/04/28/usando-o-freeride-no-linux/" title="Usando o FreeRIDE no Linux"&gt;post
+&lt;a class="reference external" href="http://freeride.rubyforge.org/"&gt;FreeRIDE&lt;/a&gt; que abordei no &lt;a class="reference external" href="http://tdmsilvino.wordpress.com/2008/04/28/usando-o-freeride-no-linux/"&gt;post
 anterior&lt;/a&gt;,
-o gerenciador de banco de dados
-&lt;a href="http://www.insula.cz/dbtalk" title="Gerenciador de banco de dados"&gt;DbTalk&lt;/a&gt; e
-o gerenciador de projetos
-&lt;a href="http://www.mondrian-ide.com/" title="Gerenciador de projetos"&gt;Mondrian&lt;/a&gt;. Veja
-mais detalhes na homepage http://www.fxruby.org/.&lt;/p&gt;
+o gerenciador de banco de dados &lt;a class="reference external" href="http://www.insula.cz/dbtalk"&gt;DbTalk&lt;/a&gt;
+e o gerenciador de projetos &lt;a class="reference external" href="http://www.mondrian-ide.com/"&gt;Mondrian&lt;/a&gt;.
+Veja mais detalhes na homepage &lt;a class="reference external" href="http://www.fxruby.org/"&gt;http://www.fxruby.org/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Se você usa o Slackware 12 e quer instalar o FOX, você pode baixar o
 pacote
-&lt;a href="http://fotoleitura.com/downloads/fox-1.6.32-i486-1tdm.tgz" title="Pacote para Slackware 12.0"&gt;fox-1.6.32-i486-1tdm.tgz&lt;/a&gt;.
+&lt;a class="reference external" href="http://fotoleitura.com/downloads/fox-1.6.32-i486-1tdm.tgz"&gt;fox-1.6.32-i486-1tdm.tgz&lt;/a&gt;.
 Se você não usa o Slackware você deve pesquisar no repositório da sua
 distro preferida ou baixar o código fonte e compilar usando o famoso
-trio "./configure &amp;amp;&amp;amp; make &amp;amp;&amp;amp; make install". Obs: não deixe de executar
+trio &amp;quot;./configure &amp;amp;&amp;amp; make &amp;amp;&amp;amp; make install&amp;quot;. Obs: não deixe de executar
 ./configure --help para ver quais opções você vai querer ativar.&lt;/p&gt;
 &lt;p&gt;Depois de instalar o FOX você deve instalar o FXRuby usando o comando
 gem.&lt;/p&gt;
-&lt;p&gt;\$ su root&lt;br /&gt;
-# gem install fxruby&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;$ su root&lt;/div&gt;
+&lt;div class="line"&gt;# gem install fxruby&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Veja os exemploes em de código em
 /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/&lt;/p&gt;
-&lt;p&gt;\$ ls -m /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/&lt;br /&gt;
-babelfish.rb, bounce.rb, browser.rb, button.rb, custom_table_item.rb,
-datatarget.rb, dctest.rb, dialog.rb, dilbert.rb, dirlist.rb,
-dragdrop.rb, dragsource.rb, dropsite.rb, foursplit.rb, gltest.rb,
-glviewer.rb, groupbox.rb, header.rb, hello2.rb, hello.rb, iconlist.rb,
-icons, image.rb, imageviewer.rb, inputs.rb, iRAA.rb, mditest.rb, pig.rb,
-raabrowser.rb, RAA.rb, ratio.rb, README, rulerview.rb,
-scintilla-test.rb, scribble-orig.rb, scribble.rb, shutter.rb,
-splitter.rb, styledtext.rb, tabbook.rb, table.rb, textedit, unicode.rb&lt;br /&gt;
-\$ ruby /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/hello.rb&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;$ ls -m /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/&lt;/div&gt;
+&lt;div class="line"&gt;babelfish.rb, bounce.rb, browser.rb, button.rb,
+custom_table_item.rb, datatarget.rb, dctest.rb, dialog.rb,
+dilbert.rb, dirlist.rb, dragdrop.rb, dragsource.rb, dropsite.rb,
+foursplit.rb, gltest.rb, glviewer.rb, groupbox.rb, header.rb,
+hello2.rb, hello.rb, iconlist.rb, icons, image.rb, imageviewer.rb,
+inputs.rb, iRAA.rb, mditest.rb, pig.rb, raabrowser.rb, RAA.rb,
+ratio.rb, README, rulerview.rb, scintilla-test.rb, scribble-orig.rb,
+scribble.rb, shutter.rb, splitter.rb, styledtext.rb, tabbook.rb,
+table.rb, textedit, unicode.rb&lt;/div&gt;
+&lt;div class="line"&gt;$ ruby /usr/lib/ruby/gems/1.8/gems/fxruby-1.6.14/examples/hello.rb&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Pronto agora você pode se divertir fazendo programas multiplataformas
 usando FXRuby. Quem quiser ir a fundo no assunto pode até comprar o
-livro do FXRuby http://www.pragprog.com/titles/fxruby.&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Usando o FreeRIDE no Linux</title><link href="http://silvino.net/2008/04/28/usando-o-freeride-no-linux/" rel="alternate"></link><updated>2008-04-28T22:19:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/usando-o-freeride-no-linux/</id><summary type="html">&lt;p&gt;O FreeRIDE (Free Ruby Integrated Development Environment) é um ambiente
-integrado para desenvolvimento em Ruby, ele foi desenvolvido usando o
-FxRuby, ou seja, uma versão do  Fox Toolkit para Ruby.&lt;br /&gt;
-O FreeRIDE inclui um interpretador Ruby, um navedor para documentação
-do Ruby (conhecido como RI ou Ruby Doc).&lt;br /&gt;
-Para instalar o FreeRIDE no Linux você deve fazer o download do arquivo
-freeride-linux-installer-0.9.6.sh no link a seguir 
-http://rubyforge.org/frs/download.php/10933/freeride-linux-installer-0.9.6.sh&lt;br /&gt;
-Para fazer a instalação você deve dar permissão de execução para o
-arquivo e executá-lo como root:&lt;/p&gt;
-&lt;p&gt;\$ chmod a+x freeride-linux-installer-0.9.6.sh&lt;br /&gt;
-\$ su root&lt;br /&gt;
-# ./freeride-linux-installer-0.9.6.sh&lt;/p&gt;
+livro do FXRuby &lt;a class="reference external" href="http://www.pragprog.com/titles/fxruby"&gt;http://www.pragprog.com/titles/fxruby&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[]'s&lt;/p&gt;
+</summary></entry><entry><title>Usando o FreeRIDE no Linux</title><link href="http://silvino.net/2008/04/28/usando-o-freeride-no-linux/" rel="alternate"></link><published>2008-04-28T22:19:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-28:2008/04/28/usando-o-freeride-no-linux/</id><summary type="html">&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;O FreeRIDE (Free Ruby Integrated Development Environment) é um
+ambiente integrado para desenvolvimento em Ruby, ele foi desenvolvido
+usando o FxRuby, ou seja, uma versão do&amp;nbsp; Fox Toolkit para Ruby.&lt;/div&gt;
+&lt;div class="line"&gt;O FreeRIDE inclui um interpretador Ruby, um navedor para documentação
+do Ruby (conhecido como RI ou Ruby Doc).&lt;/div&gt;
+&lt;div class="line"&gt;Para instalar o FreeRIDE no Linux você deve fazer o download do
+arquivo freeride-linux-installer-0.9.6.sh no link a seguir
+&lt;a class="reference external" href="http://rubyforge.org/frs/download.php/10933/freeride-linux-installer-0.9.6.sh"&gt;http://rubyforge.org/frs/download.php/10933/freeride-linux-installer-0.9.6.sh&lt;/a&gt;&lt;/div&gt;
+&lt;div class="line"&gt;Para fazer a instalação você deve dar permissão de execução para o
+arquivo e executá-lo como root:&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;$ chmod a+x freeride-linux-installer-0.9.6.sh&lt;/div&gt;
+&lt;div class="line"&gt;$ su root&lt;/div&gt;
+&lt;div class="line"&gt;# ./freeride-linux-installer-0.9.6.sh&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Você será perguntado em qual diretório o FreeRIDE deve ser instalado, o
 ideal é instalar o FreeRIDE no diretório padrão. Veja a tela abaixo:&lt;/p&gt;
-&lt;p&gt;FreeRIDE  - starting installation...&lt;/p&gt;
-&lt;h2&gt;IMPORTANT NOTE&lt;/h2&gt;
-&lt;p&gt;FreeRIDE must be installed in /usr/local/FreeRIDE.&lt;br /&gt;
-If you want to install it elsewhere a symbolic link will&lt;br /&gt;
-be created from /usr/local/FreeRIDE to the chosen location&lt;/p&gt;
-&lt;p&gt;Choose where to install FreeRIDE [/usr/local] :&lt;br /&gt;
-Installing FreeRIDE. Please wait...&lt;/p&gt;
+&lt;p&gt;FreeRIDE&amp;nbsp; - starting installation...&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;IMPORTANT NOTE&lt;/div&gt;
+&lt;div class="line"&gt;--------------&lt;/div&gt;
+&lt;div class="line"&gt;FreeRIDE must be installed in /usr/local/FreeRIDE.&lt;/div&gt;
+&lt;div class="line"&gt;If you want to install it elsewhere a symbolic link will&lt;/div&gt;
+&lt;div class="line"&gt;be created from /usr/local/FreeRIDE to the chosen location&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Choose where to install FreeRIDE [/usr/local] :&lt;/div&gt;
+&lt;div class="line"&gt;Installing FreeRIDE. Please wait...&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;--------------------- MANIFEST ---------------------&lt;/p&gt;
-&lt;p&gt;This is version 0.9.6 of FreeRIDE, the Ruby integrated&lt;br /&gt;
-development environment.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;This is version 0.9.6 of FreeRIDE, the Ruby integrated&lt;/div&gt;
+&lt;div class="line"&gt;development environment.&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;This version is built with the following components:&lt;/p&gt;
-&lt;p&gt;Ruby               1.8.4&lt;br /&gt;
-Fox Toolkit        1.2.16&lt;br /&gt;
-Fox Scintilla      1.62&lt;br /&gt;
-FXRuby             1.2.6&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;FreeRIDE succesfully installed.&lt;br /&gt;
-Start FreeRIDE with '/usr/local/FreeRIDE/freeride'&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Ruby&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.8.4&lt;/div&gt;
+&lt;div class="line"&gt;Fox Toolkit&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.2.16&lt;/div&gt;
+&lt;div class="line"&gt;Fox Scintilla&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.62&lt;/div&gt;
+&lt;div class="line"&gt;FXRuby&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.2.6&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;----------------------------------------------------&lt;/div&gt;
+&lt;div class="line"&gt;FreeRIDE succesfully installed.&lt;/div&gt;
+&lt;div class="line"&gt;Start FreeRIDE with '/usr/local/FreeRIDE/freeride'&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Agora basta executar o FreeRIDE, no KDE pressione ALT+F2 e aponte para o
 caminho do executável /usr/local/FreeRIDE/freeride&lt;/p&gt;
 &lt;p&gt;Pronto, agora você pode programar em Ruby usando uma interface gráfica.&lt;/p&gt;
 &lt;p&gt;Obs: O projeto do FreeRIDE foi interrompido na versão 0.9.6, os donos do
 projeto decidiram reescrever o FreeRIDE usando outro toolkit chamado
 wxRuby, que usa wxWidgets. Veja o link
-http://freeride.rubyforge.org/wiki/wiki.pl?FreeRIDE_Future. Para
-acompanhar o desenvolvimento visite o site http://wxride.ruby-im.net/.&lt;/p&gt;
-&lt;p&gt;[]'s&lt;/p&gt;</summary></entry><entry><title>Usando o SciTE para programar em Ruby</title><link href="http://silvino.net/2008/04/17/usando-o-scite-para-programar-em-ruby/" rel="alternate"></link><updated>2008-04-17T23:18:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-17:2008/04/17/usando-o-scite-para-programar-em-ruby/</id><summary type="html">&lt;p&gt;Nessa última semana estive procurando algumas ferramentas gráficas para
+&lt;a class="reference external" href="http://freeride.rubyforge.org/wiki/wiki.pl?FreeRIDE_Future"&gt;http://freeride.rubyforge.org/wiki/wiki.pl?FreeRIDE_Future&lt;/a&gt;. Para
+acompanhar o desenvolvimento visite o site &lt;a class="reference external" href="http://wxride.ruby-im.net/"&gt;http://wxride.ruby-im.net/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[]'s&lt;/p&gt;
+</summary></entry><entry><title>Usando o SciTE para programar em Ruby</title><link href="http://silvino.net/2008/04/17/usando-o-scite-para-programar-em-ruby/" rel="alternate"></link><published>2008-04-17T23:18:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-17:2008/04/17/usando-o-scite-para-programar-em-ruby/</id><summary type="html">&lt;p&gt;Nessa última semana estive procurando algumas ferramentas gráficas para
 programar em Ruby. Hoje eu acabei de testar o
-&lt;a href="http://scintilla.sourceforge.net/SciTE.html" title="Editor de textos SciTE"&gt;SciTE&lt;/a&gt;.
-O SciTE foi criado para demonstrar o poder de um componente de edição de
-textos chamado
-&lt;a href="http://scintilla.sourceforge.net/" title="Componente programável de edição de textos"&gt;Scintilla&lt;/a&gt;.
-Usando o Scintilla você pode criar editores de textos e que podem ser
-usados para editar o código fonte de programas e chamar compiladores e
-depuradores externos. O SciTE ficou tão bom que decidiram dar
-continuidade ao seu desenvolvimento e ele deixou de ser um programa de
-demonstração e se tornou um editor completo com suporte à várias
-linguagens, entre elas C/C++, D, C#, Java, PHP e Ruby.&lt;/p&gt;
+&lt;a class="reference external" href="http://scintilla.sourceforge.net/SciTE.html"&gt;SciTE&lt;/a&gt;. O SciTE foi
+criado para demonstrar o poder de um componente de edição de textos
+chamado &lt;a class="reference external" href="http://scintilla.sourceforge.net/"&gt;Scintilla&lt;/a&gt;. Usando o
+Scintilla você pode criar editores de textos e que podem ser usados para
+editar o código fonte de programas e chamar compiladores e depuradores
+externos. O SciTE ficou tão bom que decidiram dar continuidade ao seu
+desenvolvimento e ele deixou de ser um programa de demonstração e se
+tornou um editor completo com suporte à várias linguagens, entre elas
+C/C++, D, C#, Java, PHP e Ruby.&lt;/p&gt;
 &lt;p&gt;Quer testar o programa? Baixe o executável já compilado para Linux no
 link abaixo (o único pré-requisito é ter uma versão do GTK+ igual ou
 superior à 2.8 na sua máquina)&lt;/p&gt;
-&lt;p&gt;http://prdownloads.sourceforge.net/scintilla/gscite176.tgz?download&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://prdownloads.sourceforge.net/scintilla/gscite176.tgz?download"&gt;http://prdownloads.sourceforge.net/scintilla/gscite176.tgz?download&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Assim que terminar o download, você deve descompactar o arquivo
 gscite176.tgz; a partir desse ponto o programa já está pronto para
 rodar, mas muitas funções não estarão funcionando. Para usar todos os
 recursos do programa você deve fazer o seguinte:&lt;/p&gt;
-&lt;p&gt;1. Entre no diretório descompactado e copie o executavél SciTE para o
-diretório /usr/bin (cd gscite; cp SciTE /usr/bin)&lt;br /&gt;
-2. Crie um diretório /usr/share/scite e copie todos os arquivos com a
-extenção properties para lá (cp *.properties /usr/share/scite)&lt;br /&gt;
-3. Copie o arquivo Sci48M.png para o diretório /usr/share/pixmaps (cp
-Sci48M.png /usr/share/pixmaps)&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;1. Entre no diretório descompactado e copie o executavél SciTE para o
+diretório /usr/bin (cd gscite; cp SciTE /usr/bin)&lt;/div&gt;
+&lt;div class="line"&gt;2. Crie um diretório /usr/share/scite e copie todos os arquivos com a
+extenção properties para lá (cp *.properties /usr/share/scite)&lt;/div&gt;
+&lt;div class="line"&gt;3. Copie o arquivo Sci48M.png para o diretório /usr/share/pixmaps (cp
+Sci48M.png /usr/share/pixmaps)&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Opicional: Se você quiser ainda pode baixar a tradução do SciTE para
 Português Brasileiro no endereço a seguir
-http://groups.google.com/group/scite-interest/web/locale.pt_BR.properties.
+&lt;a class="reference external" href="http://groups.google.com/group/scite-interest/web/locale.pt_BR.properties"&gt;http://groups.google.com/group/scite-interest/web/locale.pt_BR.properties&lt;/a&gt;.
 Basta copiar o arquivo de tradução para o diretório /usr/share/scite com
 o nome locale.properties (cp locale.pt_BR.properties
 /usr/share/scite/locale.properties) e reiniciar a aplicação.&lt;/p&gt;
 &lt;p&gt;Pronto agora sim você pode testar o programa a vontade. Pressione ALT+F2
 e execute o comando SciTE.&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry><entry><title>Ruby sem Rails - parte 2</title><link href="http://silvino.net/2008/04/04/ruby-sem-rails-2/" rel="alternate"></link><updated>2008-04-04T14:52:00-03:00</updated><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-04:2008/04/04/ruby-sem-rails-2/</id><summary type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Usando mod_ruby, eruby e erubis no Slackware&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry><entry><title>Ruby sem Rails - parte 2</title><link href="http://silvino.net/2008/04/04/ruby-sem-rails-2/" rel="alternate"></link><published>2008-04-04T14:52:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-04-04:2008/04/04/ruby-sem-rails-2/</id><summary type="html">&lt;p&gt;&lt;strong&gt;*Usando mod_ruby, eruby e erubis no Slackware*&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;O mod_ruby é um módulo que permite que o Apache execute de forma nativa
 os scripts feitos em Ruby. Depois de instalar o mod_ruby você deve
 escolher qual será o seu gerador de templates, usando um gerador de
@@ -132,13 +147,14 @@ na distribuição padrão do Ruby ou pode usar o eRuby que foi escrito em C
 para ganho de desempenho. Caso você queira usar o eRuby você precisa
 instalar ele na sua máquina.&lt;/p&gt;
 &lt;p&gt;O código fonte do mod_ruby e do eruby podem ser encontrados no site
-http://modruby.net/, mas se você quer facilidade basta baixar os dois
-pacotes &lt;a href="http://fotoleitura.com/downloads/eruby-1.0.5-i486-1tdm.tgz"&gt;&lt;/a&gt;
-que fiz para o Slackware 12 e instalar no seu sistema.&lt;/p&gt;
+&lt;a class="reference external" href="http://modruby.net/"&gt;http://modruby.net/&lt;/a&gt;, mas se você quer facilidade basta baixar os dois
+pacotes
+` &amp;lt;&lt;a class="reference external" href="http://fotoleitura.com/downloads/eruby-1.0.5-i486-1tdm.tgz"&gt;http://fotoleitura.com/downloads/eruby-1.0.5-i486-1tdm.tgz&lt;/a&gt;&amp;gt;`__ que
+fiz para o Slackware 12 e instalar no seu sistema.&lt;/p&gt;
 &lt;p&gt;Baixe os pacotes
-&lt;a href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/mod_ruby/mod_ruby-1.2.6-i486-1tdm.tgz" title="mod_ruby no linuxpackages.net"&gt;mod_ruby-1.2.6&lt;/a&gt;
+&lt;a class="reference external" href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/mod_ruby/mod_ruby-1.2.6-i486-1tdm.tgz"&gt;mod_ruby-1.2.6&lt;/a&gt;
 e
-&lt;a href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/eRuby/eruby-1.0.5-i486-1tdm.tgz" title="eruby no linuxpackages.net"&gt;eruby-1.0.5&lt;/a&gt;.
+&lt;a class="reference external" href="ftp://linuxpackages.telecoms.bg/Slackware-12.0/Console/eRuby/eruby-1.0.5-i486-1tdm.tgz"&gt;eruby-1.0.5&lt;/a&gt;.
 Depois use a ferramente installpkg para instalar no Slackware.&lt;/p&gt;
 &lt;p&gt;Depois de instalar o mod_ruby e o eruby na sua máquina, você pode
 instalar também o erubis. O erubis é um gerador de templates,
@@ -149,35 +165,39 @@ ainda é 10% mais rápido do que o eRuby, tem suporte à várias linguagens
 templates com arquivos YAML, para usar arquivos de contexto e tem
 suporte à Ruby on Rails.&lt;/p&gt;
 &lt;p&gt;Para instalar o erubis você deve baixar os pacotes abstract e erubis do
-site http://rubyforge.net e executar os comandos abaixo como root:&lt;/p&gt;
-&lt;p&gt;\$ tar xjf abstract_1.0.0.tar.bz2&lt;br /&gt;
-\$ cd abstract_1.0.0/&lt;br /&gt;
-\$ su root&lt;br /&gt;
-# ruby setup.rb&lt;br /&gt;
-# exit&lt;br /&gt;
-\$ cd ..&lt;br /&gt;
-\$ tar xjf erubis-2.5.0.tar.bz2&lt;br /&gt;
-\$ cd erubis-2.5.0/&lt;br /&gt;
-# su root&lt;br /&gt;
-# ruby setup.rb&lt;br /&gt;
-\$ cp contrib/erubis-run /usr/lib/ruby/1.8/apache&lt;/p&gt;
+site &lt;a class="reference external" href="http://rubyforge.net"&gt;http://rubyforge.net&lt;/a&gt; e executar os comandos abaixo como root:&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;$ tar xjf abstract_1.0.0.tar.bz2&lt;/div&gt;
+&lt;div class="line"&gt;$ cd abstract_1.0.0/&lt;/div&gt;
+&lt;div class="line"&gt;$ su root&lt;/div&gt;
+&lt;div class="line"&gt;# ruby setup.rb&lt;/div&gt;
+&lt;div class="line"&gt;# exit&lt;/div&gt;
+&lt;div class="line"&gt;$ cd ..&lt;/div&gt;
+&lt;div class="line"&gt;$ tar xjf erubis-2.5.0.tar.bz2&lt;/div&gt;
+&lt;div class="line"&gt;$ cd erubis-2.5.0/&lt;/div&gt;
+&lt;div class="line"&gt;# su root&lt;/div&gt;
+&lt;div class="line"&gt;# ruby setup.rb&lt;/div&gt;
+&lt;div class="line"&gt;$ cp contrib/erubis-run /usr/lib/ruby/1.8/apache&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Agora vamos configurar a integração com o Apache.&lt;/p&gt;
 &lt;p&gt;Inclua as linhas abaixo no seu arquivo /etc/httpd/httpd.conf e salve o
 arquivo.&lt;/p&gt;
-&lt;p&gt;LoadModule ruby_module lib/httpd/modules/mod_ruby.so&lt;br /&gt;
-&amp;lt;IfModule mod_ruby.c&amp;gt;&lt;br /&gt;
-RubyRequire apache/ruby-run&lt;br /&gt;
-RubyRequire apache/eruby-run&lt;br /&gt;
-RubyRequire apache/erubis-run&lt;br /&gt;
-&amp;lt;Location /erubis&amp;gt;&lt;br /&gt;
-SetHandler ruby-object&lt;br /&gt;
-RubyHandler Apache::ErubisRun.instance&lt;br /&gt;
-&amp;lt;/Location&amp;gt;&lt;br /&gt;
-&amp;lt;Files *.rhtml&amp;gt;&lt;br /&gt;
-SetHandler ruby-object&lt;br /&gt;
-RubyHandler Apache::ErubisRun.instance&lt;br /&gt;
-&amp;lt;/Files&amp;gt;&lt;br /&gt;
-&amp;lt;/IfModule&amp;gt;&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;LoadModule ruby_module lib/httpd/modules/mod_ruby.so&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;IfModule mod_ruby.c&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;RubyRequire apache/ruby-run&lt;/div&gt;
+&lt;div class="line"&gt;RubyRequire apache/eruby-run&lt;/div&gt;
+&lt;div class="line"&gt;RubyRequire apache/erubis-run&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;Location /erubis&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;SetHandler ruby-object&lt;/div&gt;
+&lt;div class="line"&gt;RubyHandler Apache::ErubisRun.instance&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/Location&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;Files *.rhtml&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;SetHandler ruby-object&lt;/div&gt;
+&lt;div class="line"&gt;RubyHandler Apache::ErubisRun.instance&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/Files&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;/IfModule&amp;gt;&lt;/div&gt;
+&lt;/div&gt;
 &lt;p&gt;Depois disso faça com que o usuário apache seja o dono do diretório onde
 as páginas web estarão.&lt;/p&gt;
 &lt;p&gt;chown -R apache:apache /var/www&lt;/p&gt;
@@ -189,4 +209,5 @@ dentro da pasta /var/www/htdocs&lt;/p&gt;
 /var/www/htdocs/example.rhtml&lt;/p&gt;
 &lt;p&gt;Agora abra o arquivo example.rhtml no navegador.&lt;/p&gt;
 &lt;p&gt;Pronto, agora você está rodando Ruby sem Rails!&lt;/p&gt;
-&lt;p&gt;Até mais!&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;Até mais!&lt;/p&gt;
+</summary></entry></feed>
