@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/all.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-12-02T15:40:00-02:00</updated><entry><title>Exercícios de inglês e espanhol</title><link href="http://silvino.net/2013/12/02/exercicios-de-ingles-e-espanhol/" rel="alternate"></link><published>2013-12-02T15:40:00-02:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-12-02:2013/12/02/exercicios-de-ingles-e-espanhol/</id><summary type="html">&lt;p&gt;Alguns dias atrás eu descobri que a minha amiga Kelly Dias mantém o blog
-&lt;a class="reference external" href="http://interajaagora.blogspot.com.br/"&gt;http://interajaagora.blogspot.com.br/&lt;/a&gt; e ela posta muitas dicas sobre
-inglês e espanhol.&lt;/p&gt;
+Interaja Agora e ela posta muitas dicas sobre inglês e espanhol.&lt;/p&gt;
 &lt;p&gt;Ela mantém uma seção de exercícios. Então se você está estudando uma
 dessas línguas e quer se aprimorar em um tópico específico acesse a
 seção de &lt;a class="reference external" href="http://interajaagora.blogspot.com.br/p/exercicios-de-ingles.html"&gt;exercícios de
@@ -16,13 +15,10 @@ interessantes e ela também aceita o recebimento de dúvidas no e-mail:
 &lt;a class="reference external" href="http://interajaagora.blogspot.com.br/"&gt;http://interajaagora.blogspot.com.br/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Bons estudos!&lt;/p&gt;
 </summary></entry><entry><title>Palestra online sobre firewalls pela Fundação Bradesco</title><link href="http://silvino.net/2013/11/24/palestra-online-sobre-firewalls-fundacao-bradesco/" rel="alternate"></link><published>2013-11-24T19:31:00-02:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-11-24:2013/11/24/palestra-online-sobre-firewalls-fundacao-bradesco/</id><summary type="html">&lt;p&gt;Updated: 27/11/2013 16h45 UTC-2&lt;/p&gt;
-&lt;p&gt;Boa [STRIKEOUT:noite] tarde,&lt;/p&gt;
-&lt;p&gt;[STRIKEOUT:Amanhã], No dia 25/11/23 às 14h, [STRIKEOUT:vou apresentar]
-eu apresentei uma palestra sobre firewalls pela Fundação Bradesco.&lt;/p&gt;
-&lt;p&gt;Se você estiver interessado em saber o básico sobre firewalls CheckPoint
-acesse o
-link&amp;nbsp;&lt;a class="reference external" href="http://videos3.fb.org.br/FundacaoBradesco/Eventos/25112013OUsodeFirewallsnaSegurancadeRedes/25112013OUsodeFirewallsnaSegurancadeRedes.html"&gt;http://videos3.fb.org.br/FundacaoBradesco/Eventos/25112013OUsodeFirewallsnaSegurancadeRedes/25112013OUsodeFirewallsnaSegurancadeRedes.html&lt;/a&gt;
-[STRIKEOUT:se registre] para assistir a palestra.&lt;/p&gt;
+&lt;p&gt;Boa tarde,&lt;/p&gt;
+&lt;p&gt;No dia 25/11/23 às 14h, eu apresentei uma palestra sobre firewalls pela Fundação Bradesco.&lt;/p&gt;
+&lt;p&gt;Se você estiver interessado em saber o básico sobre firewalls CheckPoint, acesse abaixo o link que a Fundação Bradesco disponibilizou.&lt;/p&gt;
+&lt;p&gt;Apresentação da palestra: &lt;a class="reference external" href="http://videos3.fb.org.br/FundacaoBradesco/Eventos/25112013OUsodeFirewallsnaSegurancadeRedes/25112013OUsodeFirewallsnaSegurancadeRedes.html"&gt;http://videos3.fb.org.br/FundacaoBradesco/Eventos/25112013OUsodeFirewallsnaSegurancadeRedes/25112013OUsodeFirewallsnaSegurancadeRedes.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Se você preferir você pode fazer o download dos slides da apresentação
 no link a seguir: &lt;a class="reference external" href="http://www.silvino.net/wp-content/uploads/2013/11/Thiago_Silvino_Firewalls.pptx"&gt;Slides da Palestra sobre
 Firewalls.&lt;/a&gt;&lt;/p&gt;
@@ -111,8 +107,8 @@ Livre e Código Aberto na Unidade 2 das Faculdades Anhanguera Campinas.&lt;/p&gt
 que foi apresentado.&lt;/p&gt;
 &lt;p&gt;Acesse os slides nesse link: &lt;a class="reference external" href="http://www.silvino.net/wp-content/uploads/2013/09/Software_Livre_e_Codigo_Aberto.pdf"&gt;Software Livre e Código
 Aberto&lt;/a&gt;.&lt;/p&gt;
-</summary></entry><entry><title>Usando o Slax Linux</title><link href="http://silvino.net/2013/09/20/usando-o-slax-linux/" rel="alternate"></link><published>2013-09-20T10:32:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-20:2013/09/20/usando-o-slax-linux/</id><summary type="html">&lt;p&gt;O &lt;a class="reference external" href="http://www.slax.org"&gt;Slax&lt;/a&gt; é uma versão portável do Linux baseada
-na distribuição &lt;a class="reference external" href="http://slackware.com"&gt;Slackware&lt;/a&gt;. O Slax traz o
+</summary></entry><entry><title>Usando o Slax Linux</title><link href="http://silvino.net/2013/09/20/usando-o-slax-linux/" rel="alternate"></link><published>2013-09-20T10:32:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-20:2013/09/20/usando-o-slax-linux/</id><summary type="html">&lt;p&gt;O Slax é uma versão portável do Linux baseada
+na distribuição Slackware  O Slax traz o
 Firefox, mplayer (player multimedia), okular (leitor de PDF), gwenviewer
 (vizualizador de imagens), muitos outros programas e o desktop KDE em
 uma imagem de aproximadamente 220Mb e que está disponível em várias
@@ -187,22 +183,21 @@ começar publicar alguns posts aqui.&lt;/p&gt;
 &lt;p&gt;A nova identidade virtual do Thiago Silvino aka tdmsilvino estará aqui
 no silvino.net.&lt;/p&gt;
 &lt;p&gt;[]'s&lt;/p&gt;
-</summary></entry><entry><title>Home</title><link href="http://silvino.net/2013/09/08/home/" rel="alternate"></link><published>2013-09-08T00:12:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-08:2013/09/08/home/</id><summary type="html"></summary></entry><entry><title>Slackware 13</title><link href="http://silvino.net/2009/08/28/slackware-13/" rel="alternate"></link><published>2009-08-28T12:05:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2009-08-28:2009/08/28/slackware-13/</id><summary type="html">&lt;p&gt;Acabei de ler o changelog no site slackware.com e temos uma novidade: O
+</summary></entry><entry><title>Slackware 13</title><link href="http://silvino.net/2009/08/28/slackware-13/" rel="alternate"></link><published>2009-08-28T12:05:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2009-08-28:2009/08/28/slackware-13/</id><summary type="html">&lt;p&gt;Acabei de ler o changelog no site slackware.com e temos uma novidade: O
 slackware 13 já está pronto, segue uma tradução livre da entrada no
 changelog:&lt;/p&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;O Slackware 13.0 x86 foi lançado como estável! Obrigado a todos os que
+&lt;blockquote&gt;
+O Slackware 13.0 x86 foi lançado como estável! Obrigado a todos os que
 ajudaram a fazer isso possível -- veja o arquivo RELEASE_NOTES para
-os créditos.&lt;/div&gt;
-&lt;div class="line"&gt;As imagens ISOs já estão no gravador.&amp;nbsp; Desta vez teremos um conjunto
+os créditos.
+As imagens ISOs já estão no gravador.&amp;nbsp; Desta vez teremos um conjunto
 de 6 CD-ROM de 32-bits e um DVD de camada dupla 32-bit/64-bit
 x86/x86_64. Estamos aceitando pedidos de pré-venda no link
 store.slackware.com. Por favor considere pegar uma cópia para ajudar a
 suportar o projeto. Mais uma vez, obrigado a toda a comunidade do
 Slackware por toda a ajuda nos testes, correções e envio de sugestões
-durante o ciclo de desenvolvimento.&lt;/div&gt;
-&lt;div class="line"&gt;Como sempre, divirtam-se e curtam a distro!&amp;nbsp; -P.&lt;/div&gt;
-&lt;/div&gt;
+durante o ciclo de desenvolvimento.
+Como sempre, divirtam-se e curtam a distro! -P.&lt;/blockquote&gt;
 &lt;p&gt;Você pode ler o anúncio de lançamento no link abaixo:&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://slackware.com/announce/13.0.php"&gt;http://slackware.com/announce/13.0.php&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Agora é só baixar o Slackware e ver as novidades&lt;/p&gt;
@@ -231,7 +226,7 @@ kde3-compat/*.tgz&lt;/p&gt;
 Slackware. Entre no site slackware.com e confira, o Patrick disse que o
 logo antigo era muito difícil de ler e de guardar na memória rsrsrsrsrs.&lt;/p&gt;
 &lt;p&gt;Até mais!&lt;/p&gt;
-</summary></entry><entry><title>Voltando com a força toda</title><link href="http://silvino.net/2008/08/16/voltando-com-a-forca-toda/" rel="alternate"></link><published>2008-08-16T10:28:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/voltando-com-a-forca-toda/</id><summary type="html">&lt;p&gt;ão postei mais nada no blog.&lt;/p&gt;
+</summary></entry><entry><title>Voltando com a força toda</title><link href="http://silvino.net/2008/08/16/voltando-com-a-forca-toda/" rel="alternate"></link><published>2008-08-16T10:28:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-08-16:2008/08/16/voltando-com-a-forca-toda/</id><summary type="html">&lt;p&gt;Por algum tempo eu não postei mais nada no blog.&lt;/p&gt;
 &lt;p&gt;Aproveitei esse tempo pra terminar de ler um livro preparatório para a
 certificação LPI. Também fiz a leitura dos livros &amp;quot;Ruby - Investigando a
 Linguagem&amp;quot; e &amp;quot;Ruby on Rails - Executando&amp;quot;. Já estou desenvolvendo
@@ -266,15 +261,9 @@ Linux e realmente quiser aprender a configurar todo o sistema e ir a
 fundo nas funcionalidades você deve partir para uma distro robusta e a
 minha indicação sempre será o bom e velho Slackware.&lt;/p&gt;
 &lt;p&gt;Até mais.&lt;/p&gt;
-</summary></entry><entry><title>Usando o dvdauthor para editar DVD's</title><link href="http://silvino.net/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><published>2008-06-14T12:02:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB
-para gravar em um DVD.&lt;/div&gt;
-&lt;div class="line"&gt;Você pode usar um arquivo de configuração no formato XML ou parâmetros
-na linha de comando para dizer ao dvdauthor como ele deve criar os
-arquivos VOB.&lt;/div&gt;
-&lt;div class="line"&gt;Com o dvdauthor você pode criar menus e criar capítulos para cada
-título do seu DVD.&lt;/div&gt;
-&lt;/div&gt;
+</summary></entry><entry><title>Usando o dvdauthor para editar DVD's</title><link href="http://silvino.net/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><published>2008-06-14T12:02:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;p&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB para gravar em um DVD.
+Você pode usar um arquivo de configuração no formato XML ou parâmetros na linha de comando para dizer ao dvdauthor como ele deve criar os arquivos VOB.
+Com o dvdauthor você pode criar menus e criar capítulos para cada título do seu DVD.&lt;/p&gt;
 &lt;p&gt;Abaixo estou mostrando um exemplo de arquivo de configuração do
 dvdauthor:&lt;/p&gt;
 &lt;div class="line-block"&gt;
@@ -283,10 +272,8 @@ dvdauthor:&lt;/p&gt;
 &lt;div class="line"&gt;&amp;lt;titleset&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;titles&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;pgc&amp;gt;&lt;/div&gt;
-&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme01.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot;
-/&amp;gt;&lt;/div&gt;
-&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme02.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot;
-/&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme01.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot; /&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme02.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot; /&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;/pgc&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;/titles&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;/titleset&amp;gt;&lt;/div&gt;
@@ -435,9 +422,8 @@ comentário.&lt;/p&gt;
 &lt;p&gt;Até mais!&lt;/p&gt;
 </summary></entry><entry><title>Mplayer no Slackware 12.1 com Slackbuilds</title><link href="http://silvino.net/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/" rel="alternate"></link><published>2008-05-11T15:17:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/mplayer-no-slackware-121-com-slackbuilds/</id><summary type="html">&lt;p&gt;Boa tarde pessoal.&lt;/p&gt;
 &lt;p&gt;No meu último
-&lt;a class="reference external" href="http://tdmsilvino.wordpress.com/2008/05/11/usando-slackbuilds-no-slackware-121/"&gt;post&lt;/a&gt;
-eu expliquei como fazer a instalação de programas usando
-&lt;a class="reference external" href="http://slackbuilds.org"&gt;Slackbuilds&lt;/a&gt;. Como exemplo eu mostrei os
+post eu expliquei como fazer a instalação de programas usando
+Slackbuilds. Como exemplo eu mostrei os
 passos para a instalação do emulador de terminal Yakuake, e é lógico que
 o procedimento se aplica para todos os demais Slackbuilds. Porém devemos
 tomar cuidados com as dependências.&lt;/p&gt;
@@ -482,8 +468,7 @@ Slackbuilds pois eles não serão mais necessários.&lt;/p&gt;
 </summary></entry><entry><title>Usando Slackbuilds no Slackware 12.1</title><link href="http://silvino.net/2008/05/11/usando-slackbuilds-no-slackware-121/" rel="alternate"></link><published>2008-05-11T13:46:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/usando-slackbuilds-no-slackware-121/</id><summary type="html">&lt;p&gt;Boa tarde para todos!&lt;/p&gt;
 &lt;p&gt;Após atualizar o meu sistema para o Slackware 12.1 precisei instalar
 alguns programas como o Yakuake e o Mplayer. Fiz uma visita no
-&lt;a class="reference external" href="http://www.linuxpackages.net/search_view.php?orderby=p_date&amp;amp;advance=DESC&amp;amp;ver=12.1"&gt;linuxpackages.net&lt;/a&gt;
-e vi que por enquanto só temos 6 pacotes atualizados para o Slackware
+linuxpackages.net e vi que por enquanto só temos 6 pacotes atualizados para o Slackware
 12.1. Isso faz sentido, pois os pacotes do linuxpackages são mantidos
 pela comunidade e nem todo mundo tem tempo livre pra ficar atualizando
 pacotes (eu mesmo não atualizei os meus três pacotes que enviei para lá,

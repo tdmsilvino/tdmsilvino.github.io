@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/linux-slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-09-20T10:32:00-03:00</updated><entry><title>Usando o Slax Linux</title><link href="http://silvino.net/2013/09/20/usando-o-slax-linux/" rel="alternate"></link><published>2013-09-20T10:32:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-20:2013/09/20/usando-o-slax-linux/</id><summary type="html">&lt;p&gt;O &lt;a class="reference external" href="http://www.slax.org"&gt;Slax&lt;/a&gt; é uma versão portável do Linux baseada
-na distribuição &lt;a class="reference external" href="http://slackware.com"&gt;Slackware&lt;/a&gt;. O Slax traz o
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/linux-slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2013-09-20T10:32:00-03:00</updated><entry><title>Usando o Slax Linux</title><link href="http://silvino.net/2013/09/20/usando-o-slax-linux/" rel="alternate"></link><published>2013-09-20T10:32:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2013-09-20:2013/09/20/usando-o-slax-linux/</id><summary type="html">&lt;p&gt;O Slax é uma versão portável do Linux baseada
+na distribuição Slackware  O Slax traz o
 Firefox, mplayer (player multimedia), okular (leitor de PDF), gwenviewer
 (vizualizador de imagens), muitos outros programas e o desktop KDE em
 uma imagem de aproximadamente 220Mb e que está disponível em várias

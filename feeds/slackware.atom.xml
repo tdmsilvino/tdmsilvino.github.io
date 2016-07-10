@@ -2,19 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/slackware.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2009-08-28T12:05:00-03:00</updated><entry><title>Slackware 13</title><link href="http://silvino.net/2009/08/28/slackware-13/" rel="alternate"></link><published>2009-08-28T12:05:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2009-08-28:2009/08/28/slackware-13/</id><summary type="html">&lt;p&gt;Acabei de ler o changelog no site slackware.com e temos uma novidade: O
 slackware 13 já está pronto, segue uma tradução livre da entrada no
 changelog:&lt;/p&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;O Slackware 13.0 x86 foi lançado como estável! Obrigado a todos os que
+&lt;blockquote&gt;
+O Slackware 13.0 x86 foi lançado como estável! Obrigado a todos os que
 ajudaram a fazer isso possível -- veja o arquivo RELEASE_NOTES para
-os créditos.&lt;/div&gt;
-&lt;div class="line"&gt;As imagens ISOs já estão no gravador.&amp;nbsp; Desta vez teremos um conjunto
+os créditos.
+As imagens ISOs já estão no gravador.&amp;nbsp; Desta vez teremos um conjunto
 de 6 CD-ROM de 32-bits e um DVD de camada dupla 32-bit/64-bit
 x86/x86_64. Estamos aceitando pedidos de pré-venda no link
 store.slackware.com. Por favor considere pegar uma cópia para ajudar a
 suportar o projeto. Mais uma vez, obrigado a toda a comunidade do
 Slackware por toda a ajuda nos testes, correções e envio de sugestões
-durante o ciclo de desenvolvimento.&lt;/div&gt;
-&lt;div class="line"&gt;Como sempre, divirtam-se e curtam a distro!&amp;nbsp; -P.&lt;/div&gt;
-&lt;/div&gt;
+durante o ciclo de desenvolvimento.
+Como sempre, divirtam-se e curtam a distro! -P.&lt;/blockquote&gt;
 &lt;p&gt;Você pode ler o anúncio de lançamento no link abaixo:&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://slackware.com/announce/13.0.php"&gt;http://slackware.com/announce/13.0.php&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Agora é só baixar o Slackware e ver as novidades&lt;/p&gt;
@@ -134,9 +133,8 @@ comentário.&lt;/p&gt;
 &lt;p&gt;Até mais!&lt;/p&gt;
 </summary></entry><entry><title>Mplayer no Slackware 12.1 com Slackbuilds</title><link href="http://silvino.net/2008/05/11/mplayer-no-slackware-121-com-slackbuilds/" rel="alternate"></link><published>2008-05-11T15:17:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/mplayer-no-slackware-121-com-slackbuilds/</id><summary type="html">&lt;p&gt;Boa tarde pessoal.&lt;/p&gt;
 &lt;p&gt;No meu último
-&lt;a class="reference external" href="http://tdmsilvino.wordpress.com/2008/05/11/usando-slackbuilds-no-slackware-121/"&gt;post&lt;/a&gt;
-eu expliquei como fazer a instalação de programas usando
-&lt;a class="reference external" href="http://slackbuilds.org"&gt;Slackbuilds&lt;/a&gt;. Como exemplo eu mostrei os
+post eu expliquei como fazer a instalação de programas usando
+Slackbuilds. Como exemplo eu mostrei os
 passos para a instalação do emulador de terminal Yakuake, e é lógico que
 o procedimento se aplica para todos os demais Slackbuilds. Porém devemos
 tomar cuidados com as dependências.&lt;/p&gt;
@@ -181,8 +179,7 @@ Slackbuilds pois eles não serão mais necessários.&lt;/p&gt;
 </summary></entry><entry><title>Usando Slackbuilds no Slackware 12.1</title><link href="http://silvino.net/2008/05/11/usando-slackbuilds-no-slackware-121/" rel="alternate"></link><published>2008-05-11T13:46:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-05-11:2008/05/11/usando-slackbuilds-no-slackware-121/</id><summary type="html">&lt;p&gt;Boa tarde para todos!&lt;/p&gt;
 &lt;p&gt;Após atualizar o meu sistema para o Slackware 12.1 precisei instalar
 alguns programas como o Yakuake e o Mplayer. Fiz uma visita no
-&lt;a class="reference external" href="http://www.linuxpackages.net/search_view.php?orderby=p_date&amp;amp;advance=DESC&amp;amp;ver=12.1"&gt;linuxpackages.net&lt;/a&gt;
-e vi que por enquanto só temos 6 pacotes atualizados para o Slackware
+linuxpackages.net e vi que por enquanto só temos 6 pacotes atualizados para o Slackware
 12.1. Isso faz sentido, pois os pacotes do linuxpackages são mantidos
 pela comunidade e nem todo mundo tem tempo livre pra ficar atualizando
 pacotes (eu mesmo não atualizei os meus três pacotes que enviei para lá,

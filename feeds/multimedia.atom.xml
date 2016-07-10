@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/multimedia.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-06-14T12:02:00-03:00</updated><entry><title>Usando o dvdauthor para editar DVD's</title><link href="http://silvino.net/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><published>2008-06-14T12:02:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB
-para gravar em um DVD.&lt;/div&gt;
-&lt;div class="line"&gt;Você pode usar um arquivo de configuração no formato XML ou parâmetros
-na linha de comando para dizer ao dvdauthor como ele deve criar os
-arquivos VOB.&lt;/div&gt;
-&lt;div class="line"&gt;Com o dvdauthor você pode criar menus e criar capítulos para cada
-título do seu DVD.&lt;/div&gt;
-&lt;/div&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Thiago Silvino</title><link href="http://silvino.net/" rel="alternate"></link><link href="http://silvino.net/feeds/multimedia.atom.xml" rel="self"></link><id>http://silvino.net/</id><updated>2008-06-14T12:02:00-03:00</updated><entry><title>Usando o dvdauthor para editar DVD's</title><link href="http://silvino.net/2008/06/14/usando-o-dvdauthor-para-editar-dvds/" rel="alternate"></link><published>2008-06-14T12:02:00-03:00</published><author><name>tdmsilvino</name></author><id>tag:silvino.net,2008-06-14:2008/06/14/usando-o-dvdauthor-para-editar-dvds/</id><summary type="html">&lt;p&gt;O dvdauthor pega os seus arquivos MPEG e gera arquivos IFO, BUP e VOB para gravar em um DVD.
+Você pode usar um arquivo de configuração no formato XML ou parâmetros na linha de comando para dizer ao dvdauthor como ele deve criar os arquivos VOB.
+Com o dvdauthor você pode criar menus e criar capítulos para cada título do seu DVD.&lt;/p&gt;
 &lt;p&gt;Abaixo estou mostrando um exemplo de arquivo de configuração do
 dvdauthor:&lt;/p&gt;
 &lt;div class="line-block"&gt;
@@ -16,10 +10,8 @@ dvdauthor:&lt;/p&gt;
 &lt;div class="line"&gt;&amp;lt;titleset&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;titles&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;pgc&amp;gt;&lt;/div&gt;
-&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme01.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot;
-/&amp;gt;&lt;/div&gt;
-&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme02.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot;
-/&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme01.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot; /&amp;gt;&lt;/div&gt;
+&lt;div class="line"&gt;&amp;lt;vob file=&amp;quot;filme02.mpeg&amp;quot; chapters=&amp;quot;0:00:20.00,0:10:20.00,0:20:20.00&amp;quot; /&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;/pgc&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;/titles&amp;gt;&lt;/div&gt;
 &lt;div class="line"&gt;&amp;lt;/titleset&amp;gt;&lt;/div&gt;
